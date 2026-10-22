@@ -12,13 +12,19 @@
       "claimedCodes": [
         "TEST_VIP10"
       ]
+    },
+    "dev_7ovoebdg4jo": {
+      "coins": 10,
+      "claimedCodes": [
+        "TEST_VIP10"
+      ]
     }
   },
   "redeems": {
     "TEST_VIP10": {
       "coins": 10,
       "maxUses": 10,
-      "usedCount": 2,
+      "usedCount": 3,
       "expiresAt": 1792713557337
     }
   }
