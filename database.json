@@ -6,13 +6,19 @@
       "claimedCodes": [
         "TEST_VIP10"
       ]
+    },
+    "dev_83e2kims43": {
+      "coins": 10,
+      "claimedCodes": [
+        "TEST_VIP10"
+      ]
     }
   },
   "redeems": {
     "TEST_VIP10": {
       "coins": 10,
       "maxUses": 10,
-      "usedCount": 1,
+      "usedCount": 2,
       "expiresAt": 1792713557337
     }
   }
