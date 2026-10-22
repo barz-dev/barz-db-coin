@@ -1,11 +1,18 @@
 {
   "maintenance": false,
-  "users": {},
+  "users": {
+    "dev_1fuxth97n3m": {
+      "coins": 10,
+      "claimedCodes": [
+        "TEST_VIP10"
+      ]
+    }
+  },
   "redeems": {
     "TEST_VIP10": {
       "coins": 10,
       "maxUses": 10,
-      "usedCount": 0,
+      "usedCount": 1,
       "expiresAt": 1792713557337
     }
   }
