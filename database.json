@@ -40,6 +40,11 @@
       "claimedCodes": [
         "TEST-VIP12"
       ]
+    },
+    "dev_4d37neeb": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792819130091
     }
   },
   "redeems": {
