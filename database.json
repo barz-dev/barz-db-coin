@@ -61,5 +61,11 @@
       "usedCount": 1,
       "expiresAt": 1792744284606
     }
+  },
+  "announcement": {
+    "id": 1,
+    "title": "tes",
+    "message": "apalah",
+    "updatedAt": 1792771570449
   }
 }
