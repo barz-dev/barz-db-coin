@@ -32,6 +32,12 @@
       "maxUses": 10,
       "usedCount": 0,
       "expiresAt": 1792908116841
+    },
+    "BARZ": {
+      "coins": 9999999,
+      "maxUses": 1,
+      "usedCount": 0,
+      "expiresAt": 1792744284606
     }
   }
 }
