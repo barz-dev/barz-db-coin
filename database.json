@@ -2,11 +2,13 @@
   "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
-      "coins": 9999996,
+      "coins": 9999995,
       "claimedCodes": [
         "TEST_VIP10",
         "BARZ"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792811763883
     },
     "dev_83e2kims43": {
       "coins": 7,
