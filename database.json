@@ -26,6 +26,12 @@
       "maxUses": 10,
       "usedCount": 3,
       "expiresAt": 1792713557337
+    },
+    "TEST-VIP12": {
+      "coins": 12,
+      "maxUses": 10,
+      "usedCount": 0,
+      "expiresAt": 1792908116841
     }
   }
 }
