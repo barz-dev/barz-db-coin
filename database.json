@@ -9,9 +9,10 @@
       ]
     },
     "dev_83e2kims43": {
-      "coins": 5,
+      "coins": 17,
       "claimedCodes": [
-        "TEST_VIP10"
+        "TEST_VIP10",
+        "TEST-VIP12"
       ]
     },
     "dev_7ovoebdg4jo": {
@@ -31,7 +32,7 @@
     "TEST-VIP12": {
       "coins": 12,
       "maxUses": 10,
-      "usedCount": 0,
+      "usedCount": 1,
       "expiresAt": 1792908116841
     },
     "BARZ": {
