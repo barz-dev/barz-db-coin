@@ -32,6 +32,12 @@
       "claimedCodes": [
         "TEST-VIP12"
       ]
+    },
+    "dev_wkog76wpyn": {
+      "coins": 12,
+      "claimedCodes": [
+        "TEST-VIP12"
+      ]
     }
   },
   "redeems": {
@@ -44,7 +50,7 @@
     "TEST-VIP12": {
       "coins": 12,
       "maxUses": 10,
-      "usedCount": 3,
+      "usedCount": 4,
       "expiresAt": 1792908116841
     },
     "BARZ": {
