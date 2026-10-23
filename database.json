@@ -2,9 +2,10 @@
   "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
-      "coins": 5,
+      "coins": 10000004,
       "claimedCodes": [
-        "TEST_VIP10"
+        "TEST_VIP10",
+        "BARZ"
       ]
     },
     "dev_83e2kims43": {
@@ -36,7 +37,7 @@
     "BARZ": {
       "coins": 9999999,
       "maxUses": 1,
-      "usedCount": 0,
+      "usedCount": 1,
       "expiresAt": 1792744284606
     }
   }
