@@ -20,6 +20,12 @@
       "claimedCodes": [
         "TEST_VIP10"
       ]
+    },
+    "dev_74i22j05t6c": {
+      "coins": 12,
+      "claimedCodes": [
+        "TEST-VIP12"
+      ]
     }
   },
   "redeems": {
@@ -32,7 +38,7 @@
     "TEST-VIP12": {
       "coins": 12,
       "maxUses": 10,
-      "usedCount": 1,
+      "usedCount": 2,
       "expiresAt": 1792908116841
     },
     "BARZ": {
