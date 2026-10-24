@@ -34,10 +34,12 @@
       "freeResetAt": 1792850923063
     },
     "dev_9aqeejpf4cb": {
-      "coins": 10,
+      "coins": 9,
       "claimedCodes": [
         "TEST-VIP12"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792861820655
     },
     "dev_wkog76wpyn": {
       "coins": 9,
