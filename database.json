@@ -78,10 +78,12 @@
       "freeResetAt": 1792861459738
     },
     "dev_tr4fu3h6": {
-      "coins": 12,
+      "coins": 11,
       "claimedCodes": [
         "TEST-VIP12"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792861896756
     }
   },
   "redeems": {
