@@ -104,6 +104,12 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1792863876528
+    },
+    "dev_0x4hokua": {
+      "coins": 12,
+      "claimedCodes": [
+        "TEST-VIP12"
+      ]
     }
   },
   "redeems": {
@@ -116,7 +122,7 @@
     "TEST-VIP12": {
       "coins": 12,
       "maxUses": 10,
-      "usedCount": 5,
+      "usedCount": 6,
       "expiresAt": 1792908116841
     },
     "BARZ": {
