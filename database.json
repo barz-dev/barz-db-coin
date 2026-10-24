@@ -2,10 +2,11 @@
   "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
-      "coins": 9999989,
+      "coins": 10000089,
       "claimedCodes": [
         "TEST_VIP10",
-        "BARZ"
+        "BARZ",
+        "FREE-100C"
       ],
       "freeUsed": 0,
       "freeResetAt": 1792855222367
@@ -151,7 +152,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 2,
+      "usedCount": 3,
       "expiresAt": 1794335619650
     }
   },
