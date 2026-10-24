@@ -11,11 +11,13 @@
       "freeResetAt": 1792811763883
     },
     "dev_83e2kims43": {
-      "coins": 7,
+      "coins": 6,
       "claimedCodes": [
         "TEST_VIP10",
         "TEST-VIP12"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792843805597
     },
     "dev_7ovoebdg4jo": {
       "coins": 0,
