@@ -26,10 +26,12 @@
       ]
     },
     "dev_74i22j05t6c": {
-      "coins": 10,
+      "coins": 9,
       "claimedCodes": [
         "TEST-VIP12"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792850923063
     },
     "dev_9aqeejpf4cb": {
       "coins": 10,
