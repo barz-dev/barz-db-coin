@@ -74,6 +74,12 @@
       "coins": 0,
       "freeUsed": 2,
       "freeResetAt": 1792861459738
+    },
+    "dev_tr4fu3h6": {
+      "coins": 12,
+      "claimedCodes": [
+        "TEST-VIP12"
+      ]
     }
   },
   "redeems": {
@@ -86,7 +92,7 @@
     "TEST-VIP12": {
       "coins": 12,
       "maxUses": 10,
-      "usedCount": 4,
+      "usedCount": 5,
       "expiresAt": 1792908116841
     },
     "BARZ": {
