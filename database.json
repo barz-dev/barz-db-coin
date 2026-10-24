@@ -78,9 +78,10 @@
       "freeResetAt": 1792861459738
     },
     "dev_tr4fu3h6": {
-      "coins": 7,
+      "coins": 107,
       "claimedCodes": [
-        "TEST-VIP12"
+        "TEST-VIP12",
+        "FREE-100C"
       ],
       "freeUsed": 0,
       "freeResetAt": 1792861896756
@@ -139,7 +140,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 0,
+      "usedCount": 1,
       "expiresAt": 1794335619650
     }
   },
