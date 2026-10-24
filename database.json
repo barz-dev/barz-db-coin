@@ -94,6 +94,11 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1792863262432
+    },
+    "dev_qcepbweu": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792863536030
     }
   },
   "redeems": {
