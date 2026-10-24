@@ -110,6 +110,11 @@
       "claimedCodes": [
         "TEST-VIP12"
       ]
+    },
+    "dev_nch3babw": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792864942900
     }
   },
   "redeems": {
