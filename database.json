@@ -175,6 +175,11 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_xtcuyyr97q": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792923057552
     }
   },
   "redeems": {
