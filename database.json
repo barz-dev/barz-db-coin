@@ -318,6 +318,11 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_z6g5t8e6": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792982524515
     }
   },
   "redeems": {
