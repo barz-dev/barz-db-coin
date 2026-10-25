@@ -235,6 +235,12 @@
       "coins": 0,
       "freeUsed": 2,
       "freeResetAt": 1792964770772
+    },
+    "dev_jzb38733": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -259,7 +265,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 5,
+      "usedCount": 6,
       "expiresAt": 1794335619650
     }
   },
