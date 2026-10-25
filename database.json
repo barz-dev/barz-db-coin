@@ -294,6 +294,12 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_z7tdaltt": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -318,7 +324,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 7,
+      "usedCount": 8,
       "expiresAt": 1794335619650
     }
   },
