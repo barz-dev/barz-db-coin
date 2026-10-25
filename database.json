@@ -312,6 +312,12 @@
       "coins": 0,
       "freeUsed": 1,
       "freeResetAt": 1792980837975
+    },
+    "dev_b7mjorc9": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -336,7 +342,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 8,
+      "usedCount": 9,
       "expiresAt": 1794335619650
     }
   },
