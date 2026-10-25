@@ -237,10 +237,12 @@
       "freeResetAt": 1792964770772
     },
     "dev_jzb38733": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792965410967
     }
   },
   "redeems": {
