@@ -314,10 +314,12 @@
       "freeResetAt": 1792980837975
     },
     "dev_b7mjorc9": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792982556963
     },
     "dev_z6g5t8e6": {
       "coins": 0,
