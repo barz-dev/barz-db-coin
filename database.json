@@ -347,10 +347,12 @@
       "freeResetAt": 1793013202778
     },
     "dev_3jeyjnkz": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793015768598
     }
   },
   "redeems": {
