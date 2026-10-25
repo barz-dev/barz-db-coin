@@ -243,6 +243,11 @@
       ],
       "freeUsed": 0,
       "freeResetAt": 1792965410967
+    },
+    "dev_yget3e13": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1792965968409
     }
   },
   "redeems": {
