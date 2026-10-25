@@ -288,6 +288,12 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1792975831327
+    },
+    "dev_6vi3z2zb": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -312,7 +318,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 6,
+      "usedCount": 7,
       "expiresAt": 1794335619650
     }
   },
