@@ -296,10 +296,12 @@
       ]
     },
     "dev_z7tdaltt": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1792979490264
     }
   },
   "redeems": {
