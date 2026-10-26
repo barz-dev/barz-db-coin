@@ -429,6 +429,12 @@
       ],
       "freeUsed": 0,
       "freeResetAt": 1793050773266
+    },
+    "dev_7ygwq5pa": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -453,7 +459,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 12,
+      "usedCount": 13,
       "expiresAt": 1794335619650
     }
   },
