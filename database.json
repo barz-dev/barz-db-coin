@@ -439,10 +439,12 @@
       "freeResetAt": 1793052019016
     },
     "dev_5q3m4m5k": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793069706212
     },
     "dev_a488hrr7": {
       "coins": 0,
