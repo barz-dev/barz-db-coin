@@ -393,6 +393,12 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1793044957657
+    },
+    "dev_gsukfz26": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -417,7 +423,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 10,
+      "usedCount": 11,
       "expiresAt": 1794335619650
     }
   },
