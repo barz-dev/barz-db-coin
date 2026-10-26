@@ -423,10 +423,12 @@
       "freeResetAt": 1793049971058
     },
     "dev_4ljtv60y": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793050773266
     }
   },
   "redeems": {
