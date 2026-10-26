@@ -353,6 +353,11 @@
       ],
       "freeUsed": 0,
       "freeResetAt": 1793015768598
+    },
+    "dev_rjalddp2": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1793017551805
     }
   },
   "redeems": {
