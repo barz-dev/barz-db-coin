@@ -395,10 +395,12 @@
       "freeResetAt": 1793044957657
     },
     "dev_gsukfz26": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793046886507
     }
   },
   "redeems": {
