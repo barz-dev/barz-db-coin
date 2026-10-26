@@ -431,10 +431,12 @@
       "freeResetAt": 1793050773266
     },
     "dev_7ygwq5pa": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793052019016
     }
   },
   "redeems": {
