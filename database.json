@@ -480,6 +480,12 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1793142126198
+    },
+    "dev_mu0vkf4h": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -504,7 +510,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 14,
+      "usedCount": 15,
       "expiresAt": 1794335619650
     }
   },
