@@ -531,6 +531,11 @@
       ],
       "freeUsed": 0,
       "freeResetAt": 1793155114132
+    },
+    "dev_jstdd78r": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1793155432648
     }
   },
   "redeems": {
