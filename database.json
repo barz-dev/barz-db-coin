@@ -536,6 +536,12 @@
       "coins": 0,
       "freeUsed": 2,
       "freeResetAt": 1793155432648
+    },
+    "dev_tm3uersa": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -560,7 +566,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 16,
+      "usedCount": 17,
       "expiresAt": 1794335619650
     }
   },
