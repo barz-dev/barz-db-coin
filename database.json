@@ -538,10 +538,12 @@
       "freeResetAt": 1793155432648
     },
     "dev_tm3uersa": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793155660793
     }
   },
   "redeems": {
