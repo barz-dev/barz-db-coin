@@ -523,6 +523,12 @@
       "coins": 0,
       "freeUsed": 1,
       "freeResetAt": 1793152578482
+    },
+    "dev_vmmqs6bu": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -547,7 +553,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 15,
+      "usedCount": 16,
       "expiresAt": 1794335619650
     }
   },
