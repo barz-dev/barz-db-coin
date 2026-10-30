@@ -821,6 +821,12 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_ksou7g4p": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -845,7 +851,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 20,
+      "usedCount": 21,
       "expiresAt": 1794335619650
     }
   },
