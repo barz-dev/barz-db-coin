@@ -797,6 +797,11 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1793367146727
+    },
+    "dev_zlwe0nhp": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1793370814309
     }
   },
   "redeems": {
