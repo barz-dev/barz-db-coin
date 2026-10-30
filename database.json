@@ -777,6 +777,11 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1793363393984
+    },
+    "dev_1hvy0au5": {
+      "coins": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1793363785565
     }
   },
   "redeems": {
