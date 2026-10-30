@@ -922,5 +922,47 @@
     "title": "tes om",
     "message": "anjay",
     "updatedAt": 1792823546561
-  }
+  },
+  "maintenanceInfo": {
+    "message": "",
+    "endsAt": 0,
+    "startedAt": 0
+  },
+  "accounts": {
+    "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q": {
+      "id": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "email": "dm6582100@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Dede",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1793400771725,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
+    }
+  },
+  "usernames": {},
+  "apikeys": {},
+  "orders": {}
 }
