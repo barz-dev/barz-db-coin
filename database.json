@@ -883,6 +883,12 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_bvz68xf3": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -907,7 +913,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 23,
+      "usedCount": 24,
       "expiresAt": 1794335619650
     }
   },
