@@ -825,10 +825,12 @@
       "freeResetAt": 1793377507185
     },
     "dev_ksou7g4p": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793377663577
     }
   },
   "redeems": {
