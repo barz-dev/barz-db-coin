@@ -807,6 +807,12 @@
       "coins": 0,
       "freeUsed": 3,
       "freeResetAt": 1793375899274
+    },
+    "dev_zl8y571c": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -831,7 +837,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 18,
+      "usedCount": 19,
       "expiresAt": 1794335619650
     }
   },
