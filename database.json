@@ -815,6 +815,12 @@
       ],
       "freeUsed": 0,
       "freeResetAt": 1793377149731
+    },
+    "dev_70szmzkw": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -839,7 +845,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 19,
+      "usedCount": 20,
       "expiresAt": 1794335619650
     }
   },
