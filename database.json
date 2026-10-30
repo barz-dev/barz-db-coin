@@ -969,7 +969,7 @@
       "id": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
       "email": "barzzlol4@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "tes",
       "alias": "Barzz",
       "avatar": false,
       "avatarVer": 0,
@@ -986,7 +986,7 @@
         "BARZ",
         "FREE-100C"
       ],
-      "apiKey": "",
+      "apiKey": "TES-K5ECJNZLN5VN",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1003,10 +1003,12 @@
     }
   },
   "usernames": {
-    "barz_dev": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q"
+    "barz_dev": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+    "tes": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ"
   },
   "apikeys": {
-    "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q"
+    "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+    "TES-K5ECJNZLN5VN": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ"
   },
   "orders": {}
 }
