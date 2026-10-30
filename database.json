@@ -809,10 +809,12 @@
       "freeResetAt": 1793375899274
     },
     "dev_zl8y571c": {
-      "coins": 100,
+      "coins": 99,
       "claimedCodes": [
         "FREE-100C"
-      ]
+      ],
+      "freeUsed": 0,
+      "freeResetAt": 1793377149731
     }
   },
   "redeems": {
