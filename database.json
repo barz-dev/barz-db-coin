@@ -877,6 +877,12 @@
       "claimedCodes": [
         "FREE-100C"
       ]
+    },
+    "dev_994ip45o": {
+      "coins": 100,
+      "claimedCodes": [
+        "FREE-100C"
+      ]
     }
   },
   "redeems": {
@@ -901,7 +907,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 22,
+      "usedCount": 23,
       "expiresAt": 1794335619650
     }
   },
