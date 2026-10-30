@@ -892,12 +892,6 @@
     }
   },
   "redeems": {
-    "BARZ": {
-      "coins": 9999999,
-      "maxUses": 1,
-      "usedCount": 1,
-      "expiresAt": 1792744284606
-    },
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
