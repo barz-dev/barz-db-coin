@@ -933,7 +933,7 @@
       "id": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "email": "dm6582100@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "barz_dev",
       "alias": "Dede",
       "avatar": false,
       "avatarVer": 0,
@@ -950,7 +950,7 @@
         "BARZ",
         "FREE-100C"
       ],
-      "apiKey": "",
+      "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -966,7 +966,11 @@
       }
     }
   },
-  "usernames": {},
-  "apikeys": {},
+  "usernames": {
+    "barz_dev": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q"
+  },
+  "apikeys": {
+    "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q"
+  },
   "orders": {}
 }
