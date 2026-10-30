@@ -981,12 +981,16 @@
       "limit": 0,
       "freeUsed": 0,
       "freeResetAt": 0,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "TEST_VIP10",
+        "BARZ",
+        "FREE-100C"
+      ],
       "apiKey": "",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
-      "legacyMigrated": false,
+      "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
         "code": "",
