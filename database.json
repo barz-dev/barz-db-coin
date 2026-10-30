@@ -892,12 +892,6 @@
     }
   },
   "redeems": {
-    "TEST-VIP12": {
-      "coins": 12,
-      "maxUses": 10,
-      "usedCount": 6,
-      "expiresAt": 1792908116841
-    },
     "BARZ": {
       "coins": 9999999,
       "maxUses": 1,
