@@ -1590,6 +1590,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL": {
+      "id": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
+      "email": "akuntiktokfajar2014@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "AKUN TIKTOK",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1793455754208,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
