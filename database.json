@@ -1499,7 +1499,7 @@
       "id": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
       "email": "hanyaadit96@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "adit123",
       "alias": "Kgs rizki",
       "avatar": false,
       "avatarVer": 0,
@@ -1512,7 +1512,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "ADIT123-ZM4FK8ULRDX4",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1546,7 +1546,8 @@
     "ndun12": "user_3LRprZSZXFGOQ8P35FMILFBJQJq",
     "rapz": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2",
     "wan": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
-    "arvaaa": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb"
+    "arvaaa": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
+    "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1566,7 +1567,8 @@
     "NDUN12-HNTHLSUBF22T": "user_3LRprZSZXFGOQ8P35FMILFBJQJq",
     "RAPZ-6MV6LN3CTN26": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2",
     "WAN-9C2FLGSTDPM9": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
-    "ARVAAA-ZZ83G3HEC5MW": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb"
+    "ARVAAA-ZZ83G3HEC5MW": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
+    "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42"
   },
   "orders": {},
   "settings": {
