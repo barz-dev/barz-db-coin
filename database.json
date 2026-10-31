@@ -996,7 +996,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 1,
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
