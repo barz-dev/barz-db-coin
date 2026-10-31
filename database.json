@@ -1691,7 +1691,7 @@
       "id": "user_3LT6hxkrhdOWuJOB9fCTGs4CGfd",
       "email": "danuraditya575@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "yuyu",
       "alias": "Danu",
       "avatar": false,
       "avatarVer": 0,
@@ -1704,7 +1704,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "YUYU-DT89DATRUGFJ",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1744,7 +1744,8 @@
     "byzainx": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
     "fajat": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
     "adkdo": "user_3LSte1CygRvs3MLp6IlS30XQkq2",
-    "mark": "user_3LT3VQV7v6TaWKoQMuo8ZxWYMfr"
+    "mark": "user_3LT3VQV7v6TaWKoQMuo8ZxWYMfr",
+    "yuyu": "user_3LT6hxkrhdOWuJOB9fCTGs4CGfd"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1770,7 +1771,8 @@
     "BYZAINX-ZN44DHVQTNUL": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
     "FAJAT-A65ARZRBVYPV": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
     "ADKDO-4S7XP6SR4X7V": "user_3LSte1CygRvs3MLp6IlS30XQkq2",
-    "MARK-B28CKU8ELV62": "user_3LT3VQV7v6TaWKoQMuo8ZxWYMfr"
+    "MARK-B28CKU8ELV62": "user_3LT3VQV7v6TaWKoQMuo8ZxWYMfr",
+    "YUYU-DT89DATRUGFJ": "user_3LT6hxkrhdOWuJOB9fCTGs4CGfd"
   },
   "orders": {},
   "settings": {
