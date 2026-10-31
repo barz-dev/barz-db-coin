@@ -1243,7 +1243,7 @@
       "id": "user_3LRiB0HmulLUw0Ia3juHPeKUZZE",
       "email": "alefendi126@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "lezy",
       "alias": "Al",
       "avatar": false,
       "avatarVer": 0,
@@ -1256,7 +1256,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "LEZY-TZ9UFNWJKHTD",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1282,7 +1282,8 @@
     "tangoo": "user_3LRQebnaH6qltODZjomaqvhkeiE",
     "massbaim": "user_3LRcMTy80jMzgwLqvLb7tLpSPDc",
     "kann1": "user_3LRcxDdYdNlg8qTiw1BmtEmYVBW",
-    "dapreaction_vvip": "user_3LR8QJptHdOsGWFpV6tiEx94dhs"
+    "dapreaction_vvip": "user_3LR8QJptHdOsGWFpV6tiEx94dhs",
+    "lezy": "user_3LRiB0HmulLUw0Ia3juHPeKUZZE"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1294,7 +1295,8 @@
     "TANGOO-894V47L9Y3FG": "user_3LRQebnaH6qltODZjomaqvhkeiE",
     "MASSBAIM-CYAUPFGRQAJG": "user_3LRcMTy80jMzgwLqvLb7tLpSPDc",
     "KANN1-64T9562DMPEV": "user_3LRcxDdYdNlg8qTiw1BmtEmYVBW",
-    "DAPREACTION_VVIP-NQGDZW2ZMVTM": "user_3LR8QJptHdOsGWFpV6tiEx94dhs"
+    "DAPREACTION_VVIP-NQGDZW2ZMVTM": "user_3LR8QJptHdOsGWFpV6tiEx94dhs",
+    "LEZY-TZ9UFNWJKHTD": "user_3LRiB0HmulLUw0Ia3juHPeKUZZE"
   },
   "orders": {},
   "settings": {
