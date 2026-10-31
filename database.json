@@ -1563,7 +1563,7 @@
       "id": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
       "email": "jibuel98@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "byzainx",
       "alias": "Jibuel",
       "avatar": false,
       "avatarVer": 0,
@@ -1576,7 +1576,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "BYZAINX-ZN44DHVQTNUL",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1612,7 +1612,8 @@
     "wan": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
     "arvaaa": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
     "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
-    "daniel": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4"
+    "daniel": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
+    "byzainx": "user_3LScoxvfApV1WYYtUgFoLEhymPD"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1634,7 +1635,8 @@
     "WAN-9C2FLGSTDPM9": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
     "ARVAAA-ZZ83G3HEC5MW": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
     "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
-    "DANIEL-HYWTVDRDP972": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4"
+    "DANIEL-HYWTVDRDP972": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
+    "BYZAINX-ZN44DHVQTNUL": "user_3LScoxvfApV1WYYtUgFoLEhymPD"
   },
   "orders": {},
   "settings": {
