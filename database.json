@@ -1179,7 +1179,7 @@
       "id": "user_3LRcMTy80jMzgwLqvLb7tLpSPDc",
       "email": "massbaim31@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "massbaim",
       "alias": "Mass Baim",
       "avatar": false,
       "avatarVer": 0,
@@ -1192,7 +1192,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "MASSBAIM-CYAUPFGRQAJG",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1215,7 +1215,8 @@
     "ryuustore": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj",
     "vall_10": "user_3LRKJNQznFMcdvbrlo1IhPdP9eJ",
     "kontol": "user_3LRMQWTO5JOO1lxgZX88HzdO7zU",
-    "tangoo": "user_3LRQebnaH6qltODZjomaqvhkeiE"
+    "tangoo": "user_3LRQebnaH6qltODZjomaqvhkeiE",
+    "massbaim": "user_3LRcMTy80jMzgwLqvLb7tLpSPDc"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1224,7 +1225,8 @@
     "RYUUSTORE-4MUTWE32EVWA": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj",
     "VALL_10-JW8X6VQ7PC62": "user_3LRKJNQznFMcdvbrlo1IhPdP9eJ",
     "KONTOL-VDZ46WYNCDKM": "user_3LRMQWTO5JOO1lxgZX88HzdO7zU",
-    "TANGOO-894V47L9Y3FG": "user_3LRQebnaH6qltODZjomaqvhkeiE"
+    "TANGOO-894V47L9Y3FG": "user_3LRQebnaH6qltODZjomaqvhkeiE",
+    "MASSBAIM-CYAUPFGRQAJG": "user_3LRcMTy80jMzgwLqvLb7tLpSPDc"
   },
   "orders": {},
   "settings": {
