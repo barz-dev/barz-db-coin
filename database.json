@@ -1194,5 +1194,9 @@
     "KONTOL-VDZ46WYNCDKM": "user_3LRMQWTO5JOO1lxgZX88HzdO7zU",
     "TANGOO-894V47L9Y3FG": "user_3LRQebnaH6qltODZjomaqvhkeiE"
   },
-  "orders": {}
+  "orders": {},
+  "settings": {
+    "gateway": "qrispw"
+  },
+  "pushSubs": {}
 }
