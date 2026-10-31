@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
       "coins": 0,
@@ -907,8 +907,8 @@
   },
   "maintenanceInfo": {
     "message": "Ada Sedikit Perbaikan",
-    "endsAt": 1793415600000,
-    "startedAt": 1793402019704
+    "endsAt": 0,
+    "startedAt": 0
   },
   "accounts": {
     "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q": {
