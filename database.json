@@ -1627,7 +1627,7 @@
       "id": "user_3LSte1CygRvs3MLp6IlS30XQkq2",
       "email": "alfacumalaka@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "adkdo",
       "alias": "alfa",
       "avatar": false,
       "avatarVer": 0,
@@ -1640,7 +1640,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "ADKDO-4S7XP6SR4X7V",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1678,7 +1678,8 @@
     "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
     "daniel": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
     "byzainx": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
-    "fajat": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL"
+    "fajat": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
+    "adkdo": "user_3LSte1CygRvs3MLp6IlS30XQkq2"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1702,7 +1703,8 @@
     "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
     "DANIEL-HYWTVDRDP972": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
     "BYZAINX-ZN44DHVQTNUL": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
-    "FAJAT-A65ARZRBVYPV": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL"
+    "FAJAT-A65ARZRBVYPV": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
+    "ADKDO-4S7XP6SR4X7V": "user_3LSte1CygRvs3MLp6IlS30XQkq2"
   },
   "orders": {},
   "settings": {
