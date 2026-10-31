@@ -1595,7 +1595,7 @@
       "id": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL",
       "email": "akuntiktokfajar2014@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "fajat",
       "alias": "AKUN TIKTOK",
       "avatar": false,
       "avatarVer": 0,
@@ -1608,7 +1608,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "FAJAT-A65ARZRBVYPV",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1645,7 +1645,8 @@
     "arvaaa": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
     "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
     "daniel": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
-    "byzainx": "user_3LScoxvfApV1WYYtUgFoLEhymPD"
+    "byzainx": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
+    "fajat": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1668,7 +1669,8 @@
     "ARVAAA-ZZ83G3HEC5MW": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
     "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
     "DANIEL-HYWTVDRDP972": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
-    "BYZAINX-ZN44DHVQTNUL": "user_3LScoxvfApV1WYYtUgFoLEhymPD"
+    "BYZAINX-ZN44DHVQTNUL": "user_3LScoxvfApV1WYYtUgFoLEhymPD",
+    "FAJAT-A65ARZRBVYPV": "user_3LSmGqjtwzJUCrRrpcT0AjjzCVL"
   },
   "orders": {},
   "settings": {
