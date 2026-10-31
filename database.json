@@ -900,10 +900,10 @@
     }
   },
   "announcement": {
-    "id": 2,
-    "title": "tes om",
-    "message": "anjay",
-    "updatedAt": 1792823546561
+    "id": 3,
+    "title": "tes",
+    "message": "yo ma",
+    "updatedAt": 1793434775372
   },
   "maintenanceInfo": {
     "message": "Ada Sedikit Perbaikan",
