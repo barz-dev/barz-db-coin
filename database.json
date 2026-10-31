@@ -1403,7 +1403,7 @@
       "id": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2",
       "email": "streetkudus0@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "rapz",
       "alias": "kudus",
       "avatar": false,
       "avatarVer": 0,
@@ -1416,7 +1416,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "RAPZ-6MV6LN3CTN26",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1447,7 +1447,8 @@
     "bayu_27": "user_3LRkAu4UXjFuthWLgcKwskQRNZ3",
     "bill_u": "user_3LRmojaLFDosBtYuJ5DgCefRHXx",
     "jalri": "user_3LRnC0qwmEzTtLQcR7noGZCu7vu",
-    "ndun12": "user_3LRprZSZXFGOQ8P35FMILFBJQJq"
+    "ndun12": "user_3LRprZSZXFGOQ8P35FMILFBJQJq",
+    "rapz": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1464,7 +1465,8 @@
     "BAYU_27-Y95TLBWS342A": "user_3LRkAu4UXjFuthWLgcKwskQRNZ3",
     "BILL_U-H33DXBBH3GHK": "user_3LRmojaLFDosBtYuJ5DgCefRHXx",
     "JALRI-YHWVLVJQUQL2": "user_3LRnC0qwmEzTtLQcR7noGZCu7vu",
-    "NDUN12-HNTHLSUBF22T": "user_3LRprZSZXFGOQ8P35FMILFBJQJq"
+    "NDUN12-HNTHLSUBF22T": "user_3LRprZSZXFGOQ8P35FMILFBJQJq",
+    "RAPZ-6MV6LN3CTN26": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2"
   },
   "orders": {},
   "settings": {
