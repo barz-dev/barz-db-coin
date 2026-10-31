@@ -1083,7 +1083,7 @@
       "id": "user_3LRKJNQznFMcdvbrlo1IhPdP9eJ",
       "email": "rivalghifari272@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "vall_10",
       "alias": "叛 Kiryuu",
       "avatar": false,
       "avatarVer": 0,
@@ -1096,7 +1096,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "VALL_10-JW8X6VQ7PC62",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1116,13 +1116,15 @@
     "barz_dev": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
     "tes": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
     "asuhitam": "user_3LRHlLCEE7GHCPpNaoJ8hD4eHWq",
-    "ryuustore": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj"
+    "ryuustore": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj",
+    "vall_10": "user_3LRKJNQznFMcdvbrlo1IhPdP9eJ"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
     "TES-K5ECJNZLN5VN": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
     "ASUHITAM-62KDDF4BWBAX": "user_3LRHlLCEE7GHCPpNaoJ8hD4eHWq",
-    "RYUUSTORE-4MUTWE32EVWA": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj"
+    "RYUUSTORE-4MUTWE32EVWA": "user_3LRIztEgcZijgbmgPXpI7Jp8eEj",
+    "VALL_10-JW8X6VQ7PC62": "user_3LRKJNQznFMcdvbrlo1IhPdP9eJ"
   },
   "orders": {}
 }
