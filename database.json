@@ -1531,7 +1531,7 @@
       "id": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4",
       "email": "danielhaikalsafri@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "daniel",
       "alias": "Daniel",
       "avatar": false,
       "avatarVer": 0,
@@ -1544,7 +1544,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "DANIEL-HYWTVDRDP972",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1579,7 +1579,8 @@
     "rapz": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2",
     "wan": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
     "arvaaa": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
-    "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42"
+    "adit123": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
+    "daniel": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1600,7 +1601,8 @@
     "RAPZ-6MV6LN3CTN26": "user_3LRvcJfpp0cxyomvEv9kyCHLiS2",
     "WAN-9C2FLGSTDPM9": "user_3LS7yoYUpxGsbzRBAhTkVDJmM7B",
     "ARVAAA-ZZ83G3HEC5MW": "user_3LSIOz6FKMRqKGWg7M0F3Ht6NKb",
-    "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42"
+    "ADIT123-ZM4FK8ULRDX4": "user_3LSNjpAlMG8rCkARyBZHQMy4g42",
+    "DANIEL-HYWTVDRDP972": "user_3LSXB7KdGwTW3DmitVgYVhLqsM4"
   },
   "orders": {},
   "settings": {
