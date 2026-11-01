@@ -2358,7 +2358,7 @@
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
-      "legacyMigrated": false,
+      "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
         "code": "",
