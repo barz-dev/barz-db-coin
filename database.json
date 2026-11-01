@@ -985,6 +985,10 @@
         "reacted": 0,
         "error": "",
         "updatedAt": 0
+      },
+      "badge": {
+        "icon": "user",
+        "bg": "f8"
       }
     },
     "user_3LR8QJptHdOsGWFpV6tiEx94dhs": {
