@@ -945,6 +945,10 @@
         "reacted": 0,
         "error": "",
         "updatedAt": 0
+      },
+      "badge": {
+        "icon": "biohazard",
+        "bg": "o4"
       }
     },
     "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ": {
