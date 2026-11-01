@@ -1819,7 +1819,7 @@
       "id": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6",
       "email": "wafiqardiansyah25@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "saya",
       "alias": "Wafiq",
       "avatar": false,
       "avatarVer": 0,
@@ -1832,7 +1832,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "SAYA-64KHGSUC7WZ8",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1876,7 +1876,8 @@
     "yuyu": "user_3LT6hxkrhdOWuJOB9fCTGs4CGfd",
     "bryow_26": "user_3LTvhj0lnrxzkRLPVSjySDR41YV",
     "kaha": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
-    "kye": "user_3LUD3xQxSJCVD5meXTrVExgXBKg"
+    "kye": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
+    "saya": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1906,7 +1907,8 @@
     "YUYU-DT89DATRUGFJ": "user_3LT6hxkrhdOWuJOB9fCTGs4CGfd",
     "BRYOW_26-F5KQW38L5S3C": "user_3LTvhj0lnrxzkRLPVSjySDR41YV",
     "KAHA-XTEMB8RCJR7G": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
-    "KYE-LL822GEAQ6GM": "user_3LUD3xQxSJCVD5meXTrVExgXBKg"
+    "KYE-LL822GEAQ6GM": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
+    "SAYA-64KHGSUC7WZ8": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6"
   },
   "orders": {},
   "settings": {
