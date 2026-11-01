@@ -2060,7 +2060,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 94,
+      "limit": 92,
       "freeUsed": 3,
       "freeResetAt": 1793556400051,
       "claimedCodes": [
@@ -2069,7 +2069,7 @@
       "apiKey": "RYYKANJUT-TR3P67YBUMAS",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
