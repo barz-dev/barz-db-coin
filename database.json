@@ -2309,7 +2309,7 @@
       "id": "user_3LVFGd6n7cX3yh7Anf9HXeBPqSv",
       "email": "juanarthuralvaro749@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "juan",
       "alias": "Juan Arthur",
       "avatar": false,
       "avatarVer": 0,
@@ -2322,7 +2322,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "JUAN-KF7Z564HPEKE",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -2381,7 +2381,8 @@
     "18knsu": "user_3LV9oeoLhJMJIAE6ZINWpzB8Ggn",
     "sjjsj_1": "user_3LVAdgLxlVSuwVXCU1jnd4SerXt",
     "palzy": "user_3LVCuBfCAcWCyzuyqVPewsulBf5",
-    "suki": "user_3LVDNjwVKGGHmmPb8xQbvBuT4m0"
+    "suki": "user_3LVDNjwVKGGHmmPb8xQbvBuT4m0",
+    "juan": "user_3LVFGd6n7cX3yh7Anf9HXeBPqSv"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -2426,7 +2427,8 @@
     "18KNSU-US9FKYPAJS3A": "user_3LV9oeoLhJMJIAE6ZINWpzB8Ggn",
     "SJJSJ_1-KNLF274WGXHK": "user_3LVAdgLxlVSuwVXCU1jnd4SerXt",
     "PALZY-376BAEYVW87Y": "user_3LVCuBfCAcWCyzuyqVPewsulBf5",
-    "SUKI-QF2FWZZGX85U": "user_3LVDNjwVKGGHmmPb8xQbvBuT4m0"
+    "SUKI-QF2FWZZGX85U": "user_3LVDNjwVKGGHmmPb8xQbvBuT4m0",
+    "JUAN-KF7Z564HPEKE": "user_3LVFGd6n7cX3yh7Anf9HXeBPqSv"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
