@@ -1923,7 +1923,7 @@
       "id": "user_3LUKMDWSGlRvKamIegqqZI6k7dh",
       "email": "ff5011893@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "amerika",
       "alias": "Free",
       "avatar": false,
       "avatarVer": 0,
@@ -1936,7 +1936,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "AMERIKA-EEQANH88P88K",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1983,7 +1983,8 @@
     "kye": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
     "saya": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6",
     "joko_wi": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x",
-    "adi": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye"
+    "adi": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye",
+    "amerika": "user_3LUKMDWSGlRvKamIegqqZI6k7dh"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -2016,7 +2017,8 @@
     "KYE-LL822GEAQ6GM": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
     "SAYA-64KHGSUC7WZ8": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6",
     "JOKO_WI-W9G73759UUCU": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x",
-    "ADI-HB3NUURKQQ7G": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye"
+    "ADI-HB3NUURKQQ7G": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye",
+    "AMERIKA-EEQANH88P88K": "user_3LUKMDWSGlRvKamIegqqZI6k7dh"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
