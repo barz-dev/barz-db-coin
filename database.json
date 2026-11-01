@@ -1883,7 +1883,7 @@
       "id": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye",
       "email": "dimasadiafriansyah@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "adi",
       "alias": "Dimas Adi",
       "avatar": false,
       "avatarVer": 0,
@@ -1896,7 +1896,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "ADI-HB3NUURKQQ7G",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -1942,7 +1942,8 @@
     "kaha": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
     "kye": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
     "saya": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6",
-    "joko_wi": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x"
+    "joko_wi": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x",
+    "adi": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -1974,7 +1975,8 @@
     "KAHA-XTEMB8RCJR7G": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
     "KYE-LL822GEAQ6GM": "user_3LUD3xQxSJCVD5meXTrVExgXBKg",
     "SAYA-64KHGSUC7WZ8": "user_3LUFbcUuEZhja5iwRQbF8UDmsJ6",
-    "JOKO_WI-W9G73759UUCU": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x"
+    "JOKO_WI-W9G73759UUCU": "user_3LUGmpaCimw9DgXhtJ5k3XgkP5x",
+    "ADI-HB3NUURKQQ7G": "user_3LUIRqZR2FkIEBdH0OrlcoSd9ye"
   },
   "orders": {},
   "settings": {
