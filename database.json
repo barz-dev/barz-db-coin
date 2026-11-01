@@ -2566,7 +2566,7 @@
       "id": "user_3LVzVS4LXGY5vBqYKWkLaEm6i5U",
       "email": "raffiajahsih@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "yura",
       "alias": "Raffi",
       "avatar": false,
       "avatarVer": 0,
@@ -2579,7 +2579,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "YURA-JWH8J675QZSQ",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -2646,7 +2646,8 @@
     "aldo": "user_3LVe72u8PaWA1BPG60K4gCpWoTf",
     "joko": "user_3LVfxKI3HSBqix84HZlzn3e5SkK",
     "rahmattahalu": "user_3LVnEwqIBGoNwjkPkiNaz00SNjm",
-    "aguyyyyy": "user_3LVvOJmiaR7dkBpJbdY1M7ISjVY"
+    "aguyyyyy": "user_3LVvOJmiaR7dkBpJbdY1M7ISjVY",
+    "yura": "user_3LVzVS4LXGY5vBqYKWkLaEm6i5U"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -2699,7 +2700,8 @@
     "ALDO-CBWZ9AX6GTG9": "user_3LVe72u8PaWA1BPG60K4gCpWoTf",
     "JOKO-Y6D9B997RXTS": "user_3LVfxKI3HSBqix84HZlzn3e5SkK",
     "RAHMATTAHALU-M5J7JLB8KSUB": "user_3LVnEwqIBGoNwjkPkiNaz00SNjm",
-    "AGUYYYYY-XHXA8GV52NSP": "user_3LVvOJmiaR7dkBpJbdY1M7ISjVY"
+    "AGUYYYYY-XHXA8GV52NSP": "user_3LVvOJmiaR7dkBpJbdY1M7ISjVY",
+    "YURA-JWH8J675QZSQ": "user_3LVzVS4LXGY5vBqYKWkLaEm6i5U"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
