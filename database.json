@@ -938,13 +938,13 @@
       "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": false,
-        "code": "",
-        "lastId": 0,
-        "emoji": "",
+        "enabled": true,
+        "code": "0029Vb8KMS32phHVPVQEXu1c",
+        "lastId": 708,
+        "emoji": "💦🗿🤣",
         "reacted": 0,
         "error": "",
-        "updatedAt": 0
+        "updatedAt": 1793542506169
       },
       "badge": {
         "icon": "biohazard",
