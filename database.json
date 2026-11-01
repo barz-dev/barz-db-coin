@@ -2046,6 +2046,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3LUXpkLP5pq6FXh4bceBLCfQu6o": {
+      "id": "user_3LUXpkLP5pq6FXh4bceBLCfQu6o",
+      "email": "rehantoma01@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Rehan",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1793509808450,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
