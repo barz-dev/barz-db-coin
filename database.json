@@ -895,7 +895,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 24,
+      "usedCount": 25,
       "expiresAt": 1794335619650
     }
   },
@@ -2060,10 +2060,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 100,
       "freeUsed": 3,
       "freeResetAt": 1793556400051,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "FREE-100C"
+      ],
       "apiKey": "RYYKANJUT-TR3P67YBUMAS",
       "allowedHosts": [],
       "banned": null,
