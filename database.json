@@ -3231,7 +3231,7 @@
       "payUrl": "",
       "payAmount": 15000,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793502579226,
       "expiresAt": 1793503181133,
       "fulfilled": false
