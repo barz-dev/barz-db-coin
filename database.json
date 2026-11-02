@@ -966,8 +966,8 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1793656984728,
       "claimedCodes": [
         "TEST_VIP10",
         "BARZ",
@@ -976,7 +976,7 @@
       "apiKey": "TES-K5ECJNZLN5VN",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
