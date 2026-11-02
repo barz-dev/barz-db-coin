@@ -900,10 +900,10 @@
     }
   },
   "announcement": {
-    "id": 4,
-    "title": "buka leaderboard",
-    "message": "apa tu woy",
-    "updatedAt": 1793434812097
+    "id": 5,
+    "title": "plis minimal beli limit/role",
+    "message": "gw gada pemasokan anj kalo gada yang beli, dikira server murah, mau berapapun itu minimal kasi pengeluaran kek",
+    "updatedAt": 1793639406329
   },
   "maintenanceInfo": {
     "message": "Ada Sedikit Perbaikan",
