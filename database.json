@@ -3110,7 +3110,7 @@
       "id": "user_3LZCDiHAG6sq3lWX5dPNqQ0Xfso",
       "email": "akunepepguajir123@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "nanzmarket",
       "alias": "akunf",
       "avatar": false,
       "avatarVer": 0,
@@ -3123,7 +3123,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "NANZMARKET-PFYZQHH5WEH3",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -3207,7 +3207,8 @@
     "aznh": "user_3LYLTjKAwOsaHIzpQ0OKmfCLd0d",
     "alqinproject": "user_3LYVjO0yaFytt5Y5jY0DUEKpSQp",
     "zyy": "user_3LYkQyYuwOpe0sJJkRwqpYaZoL7",
-    "arashi": "user_3LZ8EizIlwikCryUk6pyvL6i7q5"
+    "arashi": "user_3LZ8EizIlwikCryUk6pyvL6i7q5",
+    "nanzmarket": "user_3LZCDiHAG6sq3lWX5dPNqQ0Xfso"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -3277,7 +3278,8 @@
     "AZNH-S5WKHAJYMFLP": "user_3LYLTjKAwOsaHIzpQ0OKmfCLd0d",
     "ALQINPROJECT-7FLC7A6BZF25": "user_3LYVjO0yaFytt5Y5jY0DUEKpSQp",
     "ZYY-VSY7JWYXCUHX": "user_3LYkQyYuwOpe0sJJkRwqpYaZoL7",
-    "ARASHI-5FBLHPSGLFB7": "user_3LZ8EizIlwikCryUk6pyvL6i7q5"
+    "ARASHI-5FBLHPSGLFB7": "user_3LZ8EizIlwikCryUk6pyvL6i7q5",
+    "NANZMARKET-PFYZQHH5WEH3": "user_3LZCDiHAG6sq3lWX5dPNqQ0Xfso"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
