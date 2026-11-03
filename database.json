@@ -3174,7 +3174,7 @@
       "id": "user_3La9M4yp1giO1YUmHxW77EV0aph",
       "email": "jkristolius@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "nico1106",
       "alias": "Junico",
       "avatar": false,
       "avatarVer": 0,
@@ -3187,7 +3187,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "NICO1106-D7KAXMPZWWSX",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -3273,7 +3273,8 @@
     "zyy": "user_3LYkQyYuwOpe0sJJkRwqpYaZoL7",
     "arashi": "user_3LZ8EizIlwikCryUk6pyvL6i7q5",
     "nanzmarket": "user_3LZCDiHAG6sq3lWX5dPNqQ0Xfso",
-    "uiii": "user_3La7dBxWt5VJN6IrUKbqoWLVhZ9"
+    "uiii": "user_3La7dBxWt5VJN6IrUKbqoWLVhZ9",
+    "nico1106": "user_3La9M4yp1giO1YUmHxW77EV0aph"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -3345,7 +3346,8 @@
     "ZYY-VSY7JWYXCUHX": "user_3LYkQyYuwOpe0sJJkRwqpYaZoL7",
     "ARASHI-5FBLHPSGLFB7": "user_3LZ8EizIlwikCryUk6pyvL6i7q5",
     "NANZMARKET-PFYZQHH5WEH3": "user_3LZCDiHAG6sq3lWX5dPNqQ0Xfso",
-    "UIII-QQRKFBSYKPMX": "user_3La7dBxWt5VJN6IrUKbqoWLVhZ9"
+    "UIII-QQRKFBSYKPMX": "user_3La7dBxWt5VJN6IrUKbqoWLVhZ9",
+    "NICO1106-D7KAXMPZWWSX": "user_3La9M4yp1giO1YUmHxW77EV0aph"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
