@@ -3669,6 +3669,26 @@
       "createdAt": 1793692061452,
       "expiresAt": 1793692664184,
       "fulfilled": false
+    },
+    "fM9oSNkPlqhrNEIkI1nU": {
+      "id": "fM9oSNkPlqhrNEIkI1nU",
+      "ref": "RCH-MW0S8LP9-206B20",
+      "uid": "user_3LbHcfCMZjWXoZrF2LPCPjrRuSJ",
+      "gw": "qrispw",
+      "kind": "limit",
+      "units": 100,
+      "amount": 7000,
+      "label": "100 Limit",
+      "txId": "TOKO-261103-A30FF6E5",
+      "qrisUrl": "https://qris.pw/public/qr/qr_1793716076_7000.png",
+      "qrisString": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214250814000001250303UMI51440014ID.CO.QRIS.WWW0215ID20254268855910303UMI520458125303360540470005802ID5922PIZZA HOUSE  OK25771656007SUMBAWA61058431162070703A016304E2A1",
+      "payUrl": "",
+      "payAmount": 7000,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793716075485,
+      "expiresAt": 1793716677414,
+      "fulfilled": false
     }
   },
   "settings": {
