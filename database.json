@@ -3622,7 +3622,7 @@
       "id": "user_3LdFn0Iy4v9lhLVOQ2TpKQHGWHz",
       "email": "redamrafassya02@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "dap",
       "alias": "Redam",
       "avatar": false,
       "avatarVer": 0,
@@ -3635,7 +3635,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "DAP-PACNQMVWCJ7W",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -3735,7 +3735,8 @@
     "jamal": "user_3LcblZYWiUrXaWXXPvjTuCFPUi3",
     "albert": "user_3LcnSMGmSy8mi4NOYZdOJIcTbty",
     "asolole": "user_3LctVQzWcmYPeiv0GxSLHCoRjfl",
-    "gilvroblox": "user_3LdF1WcJkeguHkVua4juDe88LBp"
+    "gilvroblox": "user_3LdF1WcJkeguHkVua4juDe88LBp",
+    "dap": "user_3LdFn0Iy4v9lhLVOQ2TpKQHGWHz"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -3821,7 +3822,8 @@
     "JAMAL-CXB8B9XEBE54": "user_3LcblZYWiUrXaWXXPvjTuCFPUi3",
     "ALBERT-XC6BL5PWTRRQ": "user_3LcnSMGmSy8mi4NOYZdOJIcTbty",
     "ASOLOLE-NXTC53LUPNNK": "user_3LctVQzWcmYPeiv0GxSLHCoRjfl",
-    "GILVROBLOX-PCTP9ZLVYQPX": "user_3LdF1WcJkeguHkVua4juDe88LBp"
+    "GILVROBLOX-PCTP9ZLVYQPX": "user_3LdF1WcJkeguHkVua4juDe88LBp",
+    "DAP-PACNQMVWCJ7W": "user_3LdFn0Iy4v9lhLVOQ2TpKQHGWHz"
   },
   "orders": {
     "gphrna6IR6-t9j3-JPV0": {
