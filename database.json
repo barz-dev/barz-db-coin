@@ -81,7 +81,7 @@
       "freeResetAt": 1792861459738
     },
     "dev_tr4fu3h6": {
-      "coins": 95,
+      "coins": 0,
       "claimedCodes": [
         "TEST-VIP12",
         "FREE-100C"
@@ -3695,15 +3695,18 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 95,
       "freeUsed": 0,
       "freeResetAt": 0,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "TEST-VIP12",
+        "FREE-100C"
+      ],
       "apiKey": "",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
-      "legacyMigrated": false,
+      "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
         "code": "",
