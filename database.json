@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 34,
+      "totalReacts": 35,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 732,
+        "lastId": 733,
         "emoji": "🔥",
-        "reacted": 23,
+        "reacted": 24,
         "error": "",
         "updatedAt": 1793800648702,
-        "lastAt": 1793800306418
+        "lastAt": 1793801131971
       },
       "badge": {
         "icon": "biohazard",
