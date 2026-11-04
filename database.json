@@ -3881,7 +3881,7 @@
       "id": "user_3Le0Pb78tKsmsBCSjs91KEx0JZb",
       "email": "userling125@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "baratzy",
       "alias": "user",
       "avatar": false,
       "avatarVer": 0,
@@ -3894,7 +3894,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "BARATZY-43Y233F9E7T2",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -4002,7 +4002,8 @@
     "ugga22": "user_3LdgR7c1bw8sDOGqFW5sKFPVDX6",
     "kiw22": "user_3Ldi7cgq0CSqXqX84IFWpdgIi3t",
     "wwk": "user_3Ldim5BcJtxaT7yoBB7BUpTE2wC",
-    "kky": "user_3LdmG5STrgt6DHg2PC8Cc8fHks9"
+    "kky": "user_3LdmG5STrgt6DHg2PC8Cc8fHks9",
+    "baratzy": "user_3Le0Pb78tKsmsBCSjs91KEx0JZb"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -4096,7 +4097,8 @@
     "UGGA22-AQKWHLHTCPBP": "user_3LdgR7c1bw8sDOGqFW5sKFPVDX6",
     "KIW22-L46TN5H6CJWG": "user_3Ldi7cgq0CSqXqX84IFWpdgIi3t",
     "WWK-FLK7BA27T7G6": "user_3Ldim5BcJtxaT7yoBB7BUpTE2wC",
-    "KKY-ECKBRRELUTK7": "user_3LdmG5STrgt6DHg2PC8Cc8fHks9"
+    "KKY-ECKBRRELUTK7": "user_3LdmG5STrgt6DHg2PC8Cc8fHks9",
+    "BARATZY-43Y233F9E7T2": "user_3Le0Pb78tKsmsBCSjs91KEx0JZb"
   },
   "orders": {
     "iVtCYoex1ZaEXVeWmOnf": {
