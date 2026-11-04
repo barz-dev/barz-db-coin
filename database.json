@@ -873,7 +873,7 @@
       "freeResetAt": 1793389841109
     },
     "dev_q6ye5p2m": {
-      "coins": 100,
+      "coins": 0,
       "claimedCodes": [
         "FREE-100C"
       ]
@@ -3954,15 +3954,17 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 100,
       "freeUsed": 0,
       "freeResetAt": 0,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "FREE-100C"
+      ],
       "apiKey": "",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
-      "legacyMigrated": false,
+      "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
         "code": "",
