@@ -4485,7 +4485,7 @@
       "payUrl": "https://app.buatqris.site/trx/VSVL-26ZX-112Y-04M4",
       "payAmount": 70739,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793801162729,
       "expiresAt": 1793828163000,
       "fulfilled": false
