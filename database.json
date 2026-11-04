@@ -4188,6 +4188,26 @@
       "createdAt": 1793796689965,
       "expiresAt": 1793823690000,
       "fulfilled": false
+    },
+    "gsVovOraBQBhERMsRoyW": {
+      "id": "gsVovOraBQBhERMsRoyW",
+      "ref": "RCH-MW24ASDR-A0EEAB",
+      "uid": "user_3LdebGdKxCScQDaD65iIie4iBxF",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 7000,
+      "label": "100 Limit",
+      "txId": "WVTN-26RK-1159-047C",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/WVTN-26RK-1159-047C.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/WVTN-26RK-1159-047C",
+      "payAmount": 7180,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793796799023,
+      "expiresAt": 1793823800000,
+      "fulfilled": false
     }
   },
   "settings": {
