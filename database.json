@@ -4575,7 +4575,7 @@
       "payUrl": "https://app.buatqris.site/trx/LAGJ-266Q-118V-04W7",
       "payAmount": 15276,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793807590670,
       "expiresAt": 1793834591000,
       "fulfilled": false
