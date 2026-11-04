@@ -4252,7 +4252,7 @@
       "payUrl": "https://app.buatqris.site/trx/LRC6-26K8-11UX-04XY",
       "payAmount": 7151,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793796689965,
       "expiresAt": 1793823690000,
       "fulfilled": false
