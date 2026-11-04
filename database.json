@@ -4430,7 +4430,7 @@
       "payUrl": "",
       "payAmount": 7000,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793716075485,
       "expiresAt": 1793716677414,
       "fulfilled": false
