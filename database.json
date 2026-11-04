@@ -895,7 +895,7 @@
     "FREE-100C": {
       "coins": 100,
       "maxUses": 100,
-      "usedCount": 25,
+      "usedCount": 26,
       "expiresAt": 1794335619650
     }
   },
@@ -4180,10 +4180,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 100,
       "freeUsed": 3,
       "freeResetAt": 1793855981362,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "FREE-100C"
+      ],
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
