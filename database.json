@@ -4465,7 +4465,7 @@
       "payUrl": "https://app.buatqris.site/trx/N35L-26PU-1142-04HC",
       "payAmount": 7119,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793800926839,
       "expiresAt": 1793827927000,
       "fulfilled": false
