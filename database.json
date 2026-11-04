@@ -4232,6 +4232,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3Lf5oePZ86ih5l6NM652AtWCWod": {
+      "id": "user_3Lf5oePZ86ih5l6NM652AtWCWod",
+      "email": "farzz6132@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Farzz",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1793832461210,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
