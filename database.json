@@ -4595,7 +4595,7 @@
       "payUrl": "https://app.buatqris.site/trx/LMZG-26EB-11W6-0422",
       "payAmount": 700903,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793807660899,
       "expiresAt": 1793834662000,
       "fulfilled": false
