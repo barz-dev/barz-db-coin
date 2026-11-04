@@ -935,7 +935,7 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 32,
+      "totalReacts": 33,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
