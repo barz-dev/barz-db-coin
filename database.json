@@ -4367,6 +4367,26 @@
       "createdAt": 1793800926839,
       "expiresAt": 1793827927000,
       "fulfilled": false
+    },
+    "o8uySCzGZkCNoPvmtbAf": {
+      "id": "o8uySCzGZkCNoPvmtbAf",
+      "ref": "RCH-MW26WBFT-53BE86",
+      "uid": "user_3Le2mcBHqMFPWgkG0hXHGhGeizl",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 1000,
+      "amount": 70000,
+      "label": "1.000 Limit",
+      "txId": "VSVL-26ZX-112Y-04M4",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/VSVL-26ZX-112Y-04M4.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/VSVL-26ZX-112Y-04M4",
+      "payAmount": 70739,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793801162729,
+      "expiresAt": 1793828163000,
+      "fulfilled": false
     }
   },
   "settings": {
