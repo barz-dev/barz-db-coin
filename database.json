@@ -4164,7 +4164,7 @@
       "payUrl": "https://app.buatqris.site/trx/HCQL-26W6-11ET-04Q8",
       "payAmount": 7131,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793790317585,
       "expiresAt": 1793817318000,
       "fulfilled": false
