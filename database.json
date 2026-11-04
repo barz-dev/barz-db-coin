@@ -4080,6 +4080,26 @@
       "createdAt": 1793784462438,
       "expiresAt": 1793785068578,
       "fulfilled": false
+    },
+    "LPp8zXsVq0nlMWRV0uO4": {
+      "id": "LPp8zXsVq0nlMWRV0uO4",
+      "ref": "RCH-MW20FV9T-5B8B08",
+      "uid": "user_3LdebGdKxCScQDaD65iIie4iBxF",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 7000,
+      "label": "100 Limit",
+      "txId": "HCQL-26W6-11ET-04Q8",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/HCQL-26W6-11ET-04Q8.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/HCQL-26W6-11ET-04Q8",
+      "payAmount": 7131,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793790317585,
+      "expiresAt": 1793817318000,
+      "fulfilled": false
     }
   },
   "settings": {
