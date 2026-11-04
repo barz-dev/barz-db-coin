@@ -4347,6 +4347,26 @@
       "expiresAt": 1793823800000,
       "fulfilled": true,
       "paidAt": 1793796851085
+    },
+    "sTalHic-j6cJLW02b3tZ": {
+      "id": "sTalHic-j6cJLW02b3tZ",
+      "ref": "RCH-MW26R9FB-744454",
+      "uid": "user_3Le2mcBHqMFPWgkG0hXHGhGeizl",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 7000,
+      "label": "100 Limit",
+      "txId": "N35L-26PU-1142-04HC",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/N35L-26PU-1142-04HC.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/N35L-26PU-1142-04HC",
+      "payAmount": 7119,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793800926839,
+      "expiresAt": 1793827927000,
+      "fulfilled": false
     }
   },
   "settings": {
