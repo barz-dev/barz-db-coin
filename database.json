@@ -891,14 +891,7 @@
       ]
     }
   },
-  "redeems": {
-    "FREE-100C": {
-      "coins": 100,
-      "maxUses": 100,
-      "usedCount": 26,
-      "expiresAt": 1794335619650
-    }
-  },
+  "redeems": {},
   "announcement": {
     "id": 5,
     "title": "plis minimal beli limit/role",
