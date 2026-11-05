@@ -5012,7 +5012,7 @@
       "payUrl": "https://app.buatqris.site/trx/85NY-263J-11MB-05EL",
       "payAmount": 7153,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793884190461,
       "expiresAt": 1793911191000,
       "fulfilled": false
