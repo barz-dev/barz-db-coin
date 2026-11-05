@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
       "coins": 0,
@@ -900,8 +900,8 @@
   },
   "maintenanceInfo": {
     "message": "Maintenance Harian Server",
-    "endsAt": 1793854800000,
-    "startedAt": 1793835103949
+    "endsAt": 0,
+    "startedAt": 0
   },
   "accounts": {
     "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q": {
