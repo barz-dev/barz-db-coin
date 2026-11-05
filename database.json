@@ -5306,7 +5306,7 @@
       "payUrl": "https://app.buatqris.site/trx/YY2S-26SH-11WS-05TM",
       "payAmount": 15276,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793887675364,
       "expiresAt": 1793914676000,
       "fulfilled": false
