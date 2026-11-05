@@ -4928,6 +4928,26 @@
       "createdAt": 1793883936310,
       "expiresAt": 1793910937000,
       "fulfilled": false
+    },
+    "ykWC6H90NjtWeXj3UJJJ": {
+      "id": "ykWC6H90NjtWeXj3UJJJ",
+      "ref": "RCH-MW3KBW1P-D1C024",
+      "uid": "user_3LVvOJmiaR7dkBpJbdY1M7ISjVY",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 7000,
+      "label": "100 Limit",
+      "txId": "85NY-263J-11MB-05EL",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/85NY-263J-11MB-05EL.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/85NY-263J-11MB-05EL",
+      "payAmount": 7153,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793884190461,
+      "expiresAt": 1793911191000,
+      "fulfilled": false
     }
   },
   "settings": {
