@@ -5350,7 +5350,7 @@
       "payUrl": "https://app.buatqris.site/trx/WWXJ-26L6-11GV-05X8",
       "payAmount": 150981,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793891450688,
       "expiresAt": 1793918451000,
       "fulfilled": false
