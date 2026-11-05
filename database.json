@@ -5406,7 +5406,7 @@
       "payUrl": "https://app.buatqris.site/trx/7MA8-267E-11NZ-05SJ",
       "payAmount": 25354,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793891526836,
       "expiresAt": 1793918527000,
       "fulfilled": false
