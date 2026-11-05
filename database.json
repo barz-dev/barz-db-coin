@@ -3947,16 +3947,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 94,
+      "limit": 92,
       "freeUsed": 0,
-      "freeResetAt": 1793843643354,
+      "freeResetAt": 1793932384530,
       "claimedCodes": [
         "FREE-100C"
       ],
       "apiKey": "ARJUNA-67KRNZRCB826",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
