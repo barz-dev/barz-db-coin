@@ -5208,6 +5208,28 @@
       "createdAt": 1793887675364,
       "expiresAt": 1793914676000,
       "fulfilled": false
+    },
+    "HQPfiVm6wvmdbu7fL-zf": {
+      "id": "HQPfiVm6wvmdbu7fL-zf",
+      "ref": "RCH-MW3MXD0E-8004F1",
+      "uid": "user_3LgvJwhOtN0YbzjVvqYxwQQwXs8",
+      "gw": "buatqris",
+      "kind": "role",
+      "tier": "svip",
+      "months": 0,
+      "perm": true,
+      "amount": 150000,
+      "label": "SVIP Permanen",
+      "txId": "EGLJ-26D8-116D-053V",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/EGLJ-26D8-116D-053V.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/EGLJ-26D8-116D-053V",
+      "payAmount": 150914,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1793888551454,
+      "expiresAt": 1793915552000,
+      "fulfilled": false
     }
   },
   "settings": {
