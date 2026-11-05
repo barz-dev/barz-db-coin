@@ -4992,7 +4992,7 @@
       "payUrl": "https://app.buatqris.site/trx/ZGKD-2642-11YJ-057K",
       "payAmount": 15264,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793883936310,
       "expiresAt": 1793910937000,
       "fulfilled": false
