@@ -5328,7 +5328,7 @@
       "payUrl": "https://app.buatqris.site/trx/EGLJ-26D8-116D-053V",
       "payAmount": 150914,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793888551454,
       "expiresAt": 1793915552000,
       "fulfilled": false
