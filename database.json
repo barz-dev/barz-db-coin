@@ -928,17 +928,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 56,
+      "totalReacts": 57,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 745,
+        "lastId": 746,
         "emoji": "🔥",
-        "reacted": 36,
+        "reacted": 37,
         "error": "",
         "updatedAt": 1793800648702,
-        "lastAt": 1793960125476
+        "lastAt": 1793969477936
       },
       "badge": {
         "icon": "biohazard",
