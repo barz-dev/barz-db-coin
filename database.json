@@ -5280,6 +5280,10 @@
         "reacted": 0,
         "error": "",
         "updatedAt": 0
+      },
+      "badge": {
+        "icon": "user",
+        "bg": "f6"
       }
     }
   },
