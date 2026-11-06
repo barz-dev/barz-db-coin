@@ -4173,7 +4173,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 92,
+      "limit": 90,
       "freeUsed": 0,
       "freeResetAt": 1794002936405,
       "claimedCodes": [
@@ -4182,7 +4182,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 7,
+      "totalReacts": 8,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
