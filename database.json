@@ -4833,6 +4833,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3LicQAlaC0btEB5m4YvrAKuVrJJ": {
+      "id": "user_3LicQAlaC0btEB5m4YvrAKuVrJJ",
+      "email": "wavee3999@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "wave",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1793940313140,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
