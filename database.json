@@ -5560,7 +5560,7 @@
       "payUrl": "https://app.buatqris.site/trx/MJEM-264B-11WL-06EA",
       "payAmount": 7111,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1793943958722,
       "expiresAt": 1793970959000,
       "fulfilled": false
