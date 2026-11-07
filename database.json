@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "users": {
     "dev_1fuxth97n3m": {
       "coins": 0,
@@ -901,7 +901,7 @@
   "maintenanceInfo": {
     "message": "Maintenance 1-6 jam Server",
     "endsAt": 0,
-    "startedAt": 1794066811952
+    "startedAt": 0
   },
   "accounts": {
     "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q": {
