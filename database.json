@@ -6000,28 +6000,6 @@
     "NOTZACK-LX6TCRA7J946": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB"
   },
   "orders": {
-    "PT9ns_7URxrifCrkC1OD": {
-      "id": "PT9ns_7URxrifCrkC1OD",
-      "ref": "RCH-MW1WYDEU-559D99",
-      "uid": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
-      "gw": "qrispw",
-      "kind": "role",
-      "tier": "svip",
-      "months": 0,
-      "perm": true,
-      "amount": 150000,
-      "label": "SVIP Permanen",
-      "txId": "TOKO-261104-99CA6F2C",
-      "qrisUrl": "https://qris.pw/public/qr/qr_1793784467_150000.png",
-      "qrisString": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214250814000001250303UMI51440014ID.CO.QRIS.WWW0215ID20254268855910303UMI52045812530336054061500005802ID5922PIZZA HOUSE  OK25771656007SUMBAWA61058431162070703A01630472BE",
-      "payUrl": "",
-      "payAmount": 150000,
-      "test": false,
-      "status": "expired",
-      "createdAt": 1793784462438,
-      "expiresAt": 1793785068578,
-      "fulfilled": false
-    },
     "LPp8zXsVq0nlMWRV0uO4": {
       "id": "LPp8zXsVq0nlMWRV0uO4",
       "ref": "RCH-MW20FV9T-5B8B08",
@@ -6333,6 +6311,28 @@
       "status": "pending",
       "createdAt": 1794042580381,
       "expiresAt": 1794069581000,
+      "fulfilled": false
+    },
+    "i-SlmTwgVjf9jUwHfRsX": {
+      "id": "i-SlmTwgVjf9jUwHfRsX",
+      "ref": "RCH-MW67C4N1-A5CB56",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "gw": "buatqris",
+      "kind": "role",
+      "tier": "vip",
+      "months": 0,
+      "perm": true,
+      "amount": 100000,
+      "label": "VIP Permanen",
+      "txId": "ZVQJ-26DF-11BQ-079N",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/ZVQJ-26DF-11BQ-079N.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/ZVQJ-26DF-11BQ-079N",
+      "payAmount": 100845,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794043765117,
+      "expiresAt": 1794070765000,
       "fulfilled": false
     }
   },
