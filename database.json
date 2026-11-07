@@ -5674,7 +5674,7 @@
       "id": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "email": "ntzckofficialid@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "notzack",
       "alias": "NotZack",
       "avatar": false,
       "avatarVer": 0,
@@ -5687,7 +5687,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "NOTZACK-LX6TCRA7J946",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -5846,7 +5846,8 @@
     "haloo_12": "user_3LlxNsYAfjiR9dyPQa0MuqA0ali",
     "putra": "user_3Lly6HQdtx5lYweJGVbgCtPivNC",
     "joko_pentil2": "user_3Lly8Dy3INYrPkrXqPMTj0L8NMu",
-    "anjay_13": "user_3LlyNfUOd582RfLU1dmX2OqTZQH"
+    "anjay_13": "user_3LlyNfUOd582RfLU1dmX2OqTZQH",
+    "notzack": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -5991,7 +5992,8 @@
     "HALOO_12-E4374MNL7JDE": "user_3LlxNsYAfjiR9dyPQa0MuqA0ali",
     "PUTRA-ALH9J4TWUMCZ": "user_3Lly6HQdtx5lYweJGVbgCtPivNC",
     "JOKO_PENTIL2-JZ5GE65HDV56": "user_3Lly8Dy3INYrPkrXqPMTj0L8NMu",
-    "ANJAY_13-F573CVFP5L69": "user_3LlyNfUOd582RfLU1dmX2OqTZQH"
+    "ANJAY_13-F573CVFP5L69": "user_3LlyNfUOd582RfLU1dmX2OqTZQH",
+    "NOTZACK-LX6TCRA7J946": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB"
   },
   "orders": {
     "PT9ns_7URxrifCrkC1OD": {
