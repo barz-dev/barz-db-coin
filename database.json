@@ -5693,13 +5693,13 @@
       "totalReacts": 0,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": false,
-        "code": "",
-        "lastId": 0,
-        "emoji": "",
+        "enabled": true,
+        "code": "0029VbCOihwFCCoTtsKHkt0E",
+        "lastId": 258,
+        "emoji": "🤍💖🎀💞",
         "reacted": 0,
         "error": "",
-        "updatedAt": 0
+        "updatedAt": 1794044157564
       },
       "badge": {
         "icon": "crown",
