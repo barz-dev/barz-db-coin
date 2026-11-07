@@ -5679,11 +5679,11 @@
       "avatar": true,
       "avatarVer": 1794043664121,
       "createdAt": 1794043559881,
-      "role": "free",
+      "role": "vip",
       "roleExpiresAt": 0,
-      "rolePermanent": false,
+      "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 2500,
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
@@ -6330,10 +6330,11 @@
       "payUrl": "https://app.buatqris.site/trx/ZVQJ-26DF-11BQ-079N",
       "payAmount": 100845,
       "test": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": 1794043765117,
       "expiresAt": 1794070765000,
-      "fulfilled": false
+      "fulfilled": true,
+      "paidAt": 1794043801188
     }
   },
   "settings": {
