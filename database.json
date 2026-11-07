@@ -4169,11 +4169,11 @@
       "avatar": false,
       "avatarVer": 0,
       "createdAt": 1793812658372,
-      "role": "free",
-      "roleExpiresAt": 0,
+      "role": "vip",
+      "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
-      "roleMonths": 0,
-      "limit": 72,
+      "roleMonths": 1,
+      "limit": 1072,
       "freeUsed": 0,
       "freeResetAt": 1794071591925,
       "claimedCodes": [
@@ -6546,10 +6546,11 @@
       "payUrl": "https://app.buatqris.site/trx/FJSM-26NY-11X6-07X5",
       "payAmount": 15371,
       "test": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": 1794064709150,
       "expiresAt": 1794091710000,
-      "fulfilled": false
+      "fulfilled": true,
+      "paidAt": 1794064784508
     }
   },
   "settings": {
