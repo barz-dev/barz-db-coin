@@ -6377,7 +6377,7 @@
       "payUrl": "https://app.buatqris.site/trx/KJXY-26F5-11YW-079M",
       "payAmount": 7277,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794042580381,
       "expiresAt": 1794069581000,
       "fulfilled": false
