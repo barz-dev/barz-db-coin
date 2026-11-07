@@ -5706,6 +5706,38 @@
         "icon": "crown",
         "bg": "g7"
       }
+    },
+    "user_3Lm1rlkl8mwbmYxjLTj0f1Vb4pV": {
+      "id": "user_3Lm1rlkl8mwbmYxjLTj0f1Vb4pV",
+      "email": "violashahada60@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Viola",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794044632973,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
