@@ -5482,7 +5482,7 @@
       "id": "user_3LlcfkXNtG6W3NpWVWMs9k86r7x",
       "email": "blackhawn1234@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "colder",
       "alias": "Server",
       "avatar": false,
       "avatarVer": 0,
@@ -5495,7 +5495,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "COLDER-WWC77PCHT5QU",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -5648,7 +5648,8 @@
     "zay": "user_3Lkw1wqDVjzm1HmUBErEXNMemHf",
     "wongabut": "user_3Ll3kQdp76q8wjhIz8Ius3hofhB",
     "iki": "user_3LlJs7GMm3Ps502zuABmW8qG7YZ",
-    "tai_02": "user_3LlRiK9fzKHvjspyTgIoE2NHMrK"
+    "tai_02": "user_3LlRiK9fzKHvjspyTgIoE2NHMrK",
+    "colder": "user_3LlcfkXNtG6W3NpWVWMs9k86r7x"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -5787,7 +5788,8 @@
     "ZAY-7EXVGPP4AFHJ": "user_3Lkw1wqDVjzm1HmUBErEXNMemHf",
     "WONGABUT-FXTQRSXAX8N9": "user_3Ll3kQdp76q8wjhIz8Ius3hofhB",
     "IKI-J3VSQB4AUYUF": "user_3LlJs7GMm3Ps502zuABmW8qG7YZ",
-    "TAI_02-X8U4AKQ3TZYE": "user_3LlRiK9fzKHvjspyTgIoE2NHMrK"
+    "TAI_02-X8U4AKQ3TZYE": "user_3LlRiK9fzKHvjspyTgIoE2NHMrK",
+    "COLDER-WWC77PCHT5QU": "user_3LlcfkXNtG6W3NpWVWMs9k86r7x"
   },
   "orders": {
     "KhjBtHljZvBhG0nEHtrJ": {
