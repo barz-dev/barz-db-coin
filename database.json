@@ -6365,13 +6365,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794190392298,
       "claimedCodes": [],
       "apiKey": "NIJUM_30-WXZCJ5YLHUEE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7169,6 +7169,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7x24j8-mw7t56er-l6sq",
+      "ts": 1794147434612,
+      "type": "react",
+      "text": "React 💦💦💦💦💦 ke 0029Vb3qZDlLikgF7SXgWq18/7111 (gratis)",
+      "uid": "user_3LpNZT68jsUqqnj6YV8HmSZ5uNY",
+      "username": "nijum_30",
+      "meta": null
+    },
     {
       "id": "mw7wxuuj-mw7t56eq-qi55",
       "ts": 1794147235435,
