@@ -6269,13 +6269,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794172551962,
       "claimedCodes": [],
       "apiKey": "ZAMZZ-PLXYJRCHQ9JF",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7101,6 +7101,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7mcjvl-mw7k6qls-9qtb",
+      "ts": 1794129445281,
+      "type": "react",
+      "text": "React 💜🩵💙❤️🩷 ke 0029Vb9RLjQ4tRrwHFGXW114/16 (gratis)",
+      "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
+      "username": "zamzz",
+      "meta": null
+    },
     {
       "id": "mw7majve-mw7k96w2-ugim",
       "ts": 1794129351962,
