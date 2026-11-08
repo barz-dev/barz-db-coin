@@ -5725,13 +5725,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794087889520,
+      "freeUsed": 1,
+      "freeResetAt": 1794223796746,
       "claimedCodes": [],
       "apiKey": "PIOLAAJAAWW-649ZAQ6F8KY8",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7129,6 +7129,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8gswlm-mw8dquuu-u8bu",
+      "ts": 1794180596746,
+      "type": "react",
+      "text": "React 🤣🗿👻👍🔥 ke 0029VbBv2PT0lwghaj54rk0D/4728 (gratis)",
+      "uid": "user_3Lm1rlkl8mwbmYxjLTj0f1Vb4pV",
+      "username": "piolaajaaww",
+      "meta": null
+    },
     {
       "id": "mw87hq7b-mw84mxep-qilu",
       "ts": 1794164958695,
