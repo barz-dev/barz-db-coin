@@ -4015,12 +4015,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1793844529849,
+      "freeResetAt": 1794208158695,
       "claimedCodes": [],
       "apiKey": "QUEENSEON-D72D544VFFPR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7129,6 +7129,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw87hq7b-mw84mxep-qilu",
+      "ts": 1794164958695,
+      "type": "react",
+      "text": "React 👻💦🥰👍🔥 ke 0029Vb7jgff2UPBCHGfe6A3G/139 (gratis)",
+      "uid": "user_3Le4agciqR6rqMsynAuZpYqaS1S",
+      "username": "queenseon",
+      "meta": null
+    },
     {
       "id": "mw816wpe-mw80wzhi-m9wt",
       "ts": 1794154376210,
