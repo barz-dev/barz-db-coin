@@ -7031,5 +7031,22 @@
       "emoji": "✨️💕🎀😍🗿"
     }
   ],
-  "feedSeq": 11
+  "feedSeq": 11,
+  "logs": [
+    {
+      "id": "mw7kb89w-mw7ka2eo-53ya",
+      "ts": 1794126024356,
+      "type": "admin",
+      "text": "Pricing & diskon diperbarui",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    }
+  ],
+  "pricing": {
+    "limitPrice": 50,
+    "limitMin": 100,
+    "limitMax": 10000000,
+    "limitDiscount": 0
+  }
 }
