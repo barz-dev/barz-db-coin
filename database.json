@@ -4173,16 +4173,16 @@
       "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1068,
+      "limit": 1066,
       "freeUsed": 0,
-      "freeResetAt": 1794131657644,
+      "freeResetAt": 1794188543725,
       "claimedCodes": [
         "FREE-100C"
       ],
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 19,
+      "totalReacts": 20,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7135,6 +7135,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7vtb71-mw7t56en-qif1",
+      "ts": 1794145343725,
+      "type": "react",
+      "text": "React 👍 ke 0029Vb7sdXpEAKWOBRBM1L07/375",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
     {
       "id": "mw7vk9pm-mw7tdc8e-x7j3",
       "ts": 1794144921898,
