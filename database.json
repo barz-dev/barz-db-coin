@@ -6951,7 +6951,7 @@
       "payUrl": "https://app.buatqris.site/trx/G3JJ-26J2-11KG-0839",
       "payAmount": 5252,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794147865005,
       "expiresAt": 1794174866000,
       "fulfilled": false
