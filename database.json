@@ -6190,6 +6190,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3LodXy5pbO8g7p6EvZyLyKzV08w": {
+      "id": "user_3LodXy5pbO8g7p6EvZyLyKzV08w",
+      "email": "adazkabjirlah@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "AKUN GG COOKKK",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794124400415,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
