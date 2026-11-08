@@ -5687,24 +5687,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2360,
+      "limit": 2358,
       "freeUsed": 0,
       "freeResetAt": 1794135560900,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 70,
+      "totalReacts": 71,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 312,
+        "lastId": 313,
         "emoji": "✨️💕🎀😍🗿",
-        "reacted": 53,
+        "reacted": 54,
         "error": "",
         "updatedAt": 1794093050024,
-        "lastAt": 1794119927866
+        "lastAt": 1794120581249
       },
       "badge": {
         "icon": "crown",
@@ -6907,7 +6907,16 @@
       "ch": "0029…t0E",
       "mid": 312,
       "emoji": "✨️💕🎀😍🗿"
+    },
+    {
+      "id": 6,
+      "t": 1794120581249,
+      "k": "auto",
+      "who": "notzac*",
+      "ch": "0029…t0E",
+      "mid": 313,
+      "emoji": "✨️💕🎀😍🗿"
     }
   ],
-  "feedSeq": 5
+  "feedSeq": 6
 }
