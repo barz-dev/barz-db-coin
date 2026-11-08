@@ -6414,6 +6414,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW": {
+      "id": "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW",
+      "email": "4lf1.2.0.0@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Alfi",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794148601007,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
