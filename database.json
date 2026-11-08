@@ -5822,12 +5822,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794091584404,
+      "freeResetAt": 1794171334325,
       "claimedCodes": [],
       "apiKey": "JOWOWIMAKAN-TN49ER29BA9Y",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7067,6 +7067,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7lkgc6-mw7k6qlp-mwkz",
+      "ts": 1794128134326,
+      "type": "react",
+      "text": "React 😥😓👎😭😭 ke 0029VbCekBy7oQhat5XodI16/216 (gratis)",
+      "uid": "user_3Lm9PELyimdqWjt9tEkVzqovUD3",
+      "username": "jowowimakan",
+      "meta": null
+    },
     {
       "id": "mw7ldq7c-mw7k740f-5pr0",
       "ts": 1794127820520,
