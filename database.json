@@ -6397,13 +6397,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794191474711,
       "claimedCodes": [],
       "apiKey": "ECHYNNZ-ADTCNBY4UMTE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7095,6 +7095,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7xk4rc-mw7xcsvv-5msf",
+      "ts": 1794148274712,
+      "type": "react",
+      "text": "React 💦🤤😂 ke 0029VbDOyyUBvvsWlptul81n/943 (gratis)",
+      "uid": "user_3LpPkZcKnbrLUCFoyiHN830eAxs",
+      "username": "echynnz",
+      "meta": null
+    },
     {
       "id": "mw7x7efv-mw7t6p8b-ktcd",
       "ts": 1794147680731,
