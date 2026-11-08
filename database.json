@@ -6333,13 +6333,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794180971560,
       "claimedCodes": [],
       "apiKey": "JOKOWIGANTENT-PMBLPRGQT2DA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7135,6 +7135,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw7rb0h4-mw7o6djd-2dkn",
+      "ts": 1794137771560,
+      "type": "react",
+      "text": "React 🤣🥰😍🤡🙏 ke 0029VbCWVDC7z4kjuq2IaW1P/187 (gratis)",
+      "uid": "user_3Lp4XrGYHcyIOfucj5Heoo4AhTe",
+      "username": "jokowigantent",
+      "meta": null
+    },
     {
       "id": "mw7qwfpb-mw7opt8z-790x",
       "ts": 1794137091455,
