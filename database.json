@@ -7559,6 +7559,26 @@
       "createdAt": 1794217889094,
       "expiresAt": 1794244889000,
       "fulfilled": false
+    },
+    "YjCRLPENzjzmglwZhWyb": {
+      "id": "YjCRLPENzjzmglwZhWyb",
+      "ref": "RCH-MW9SX5Q1-164BEF",
+      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 5000,
+      "label": "100 Limit",
+      "txId": "C4KH-26T2-118D-10PY",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/C4KH-26T2-118D-10PY.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/C4KH-26T2-118D-10PY",
+      "payAmount": 5209,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794261416761,
+      "expiresAt": 1794288417000,
+      "fulfilled": false
     }
   },
   "settings": {
