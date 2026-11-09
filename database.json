@@ -5236,13 +5236,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794234584781,
       "claimedCodes": [],
       "apiKey": "YUSS-G3ME95UKF4PW",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 5,
+      "totalReacts": 6,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7505,6 +7505,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw90or35-mw8x010t-8xk9",
+      "ts": 1794213995297,
+      "type": "react",
+      "text": "React 👍🤗😳 ke 0029VbE5A9VBPzjScJYKA50E/148 (gratis)",
+      "uid": "user_3Ljw4XdZIWQF6EHaBvhd6YyMZ3N",
+      "username": "yuss",
+      "meta": null
+    },
     {
       "id": "mw8zpwco-mw8xjbei-5avp",
       "ts": 1794212369160,
