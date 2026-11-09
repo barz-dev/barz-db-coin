@@ -6943,13 +6943,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794276202608,
       "claimedCodes": [],
       "apiKey": "JSKSKS-4LC9M282E5Z9",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7631,6 +7631,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9c0580-mw98wa6l-iijc",
+      "ts": 1794233002608,
+      "type": "react",
+      "text": "React 🤣🖕😹🦶👎 ke 0029VbDWkIz1dAw20AH2xo0g/271 (gratis)",
+      "uid": "user_3LsBYhVtJXiyOaYSvY5MeEQOgnH",
+      "username": "jsksks",
+      "meta": null
+    },
     {
       "id": "mw9ba6ys-mw98wa6k-ptvb",
       "ts": 1794231791812,
