@@ -6911,13 +6911,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794274865815,
       "claimedCodes": [],
       "apiKey": "DREE_01-BL72UX5Q43UT",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7597,6 +7597,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9ba6ys-mw98wa6k-ptvb",
+      "ts": 1794231791812,
+      "type": "react",
+      "text": "React 🤢 ke 0029Vb8zs8n4NVifHTP2Ag1v/105 (gratis)",
+      "uid": "user_3Ls8nLIS8aoYyTGbvsT3ErlrzbB",
+      "username": "dree_01",
+      "meta": null
+    },
     {
       "id": "mw9b8hsy-mw98wa6j-15sl",
       "ts": 1794231712546,
