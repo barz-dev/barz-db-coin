@@ -7351,7 +7351,7 @@
       "payUrl": "https://app.buatqris.site/trx/49F7-26Z7-11CU-09T3",
       "payAmount": 5279,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794217889094,
       "expiresAt": 1794244889000,
       "fulfilled": false
