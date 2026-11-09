@@ -6623,13 +6623,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794245648418,
       "claimedCodes": [],
       "apiKey": "ARMAN_-HDQ4DUVGA7PZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7335,6 +7335,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8u1cq3-mw8q6kyl-m31o",
+      "ts": 1794202825900,
+      "type": "react",
+      "text": "React 🥰🗿😌😹😋 ke 0029VbE6SLfA2pL8jyXNuE1X/105 (gratis)",
+      "uid": "user_3LrBaszhNYMayZGdpoqHwlubEkJ",
+      "username": "arman_",
+      "meta": null
+    },
     {
       "id": "mw8tt9gi-mw8q6kyk-h04o",
       "ts": 1794202448418,
