@@ -5757,13 +5757,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794197576210,
       "claimedCodes": [],
       "apiKey": "FRRO-5XPVEY8L9HGV",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7233,6 +7233,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8m4aye-mw8hpluf-6b36",
+      "ts": 1794189526646,
+      "type": "react",
+      "text": "React 👑👑☑️👍👏 ke 0029VbCekBy7oQhat5XodI16/221 (gratis)",
+      "uid": "user_3Lm3F1uIGGuVJYu2nMMTTHQKwMW",
+      "username": "frro",
+      "meta": null
+    },
     {
       "id": "mw8llmgp-mw8hnf7q-gaiv",
       "ts": 1794188655097,
