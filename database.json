@@ -6975,13 +6975,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794276799811,
       "claimedCodes": [],
       "apiKey": "ORANG_GANTENG12-JA8ULWHDDWCQ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7665,6 +7665,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9ce9zk-mw98wa6o-qr0r",
+      "ts": 1794233661968,
+      "type": "react",
+      "text": "React 😛🗿😈😂😏 ke 0029Vb94IhDF1YlVg4hVWj3q/105 (gratis)",
+      "uid": "user_3LsCJQtWmPLXeXvXnARXZtZWZTm",
+      "username": "orang_ganteng12",
+      "meta": null
+    },
     {
       "id": "mw9ccy0z-mw9bt0hb-rn9e",
       "ts": 1794233599811,
