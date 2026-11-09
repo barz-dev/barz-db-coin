@@ -5687,14 +5687,14 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2296,
+      "limit": 2294,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 102,
+      "totalReacts": 103,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
@@ -7505,6 +7505,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw91gec2-mw8yyrc4-w0xc",
+      "ts": 1794215285138,
+      "type": "react",
+      "text": "React 🛍️🤗🔥✨️💯 ke 0029VbCOihwFCCoTtsKHkt0E/341",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
     {
       "id": "mw90pja1-mw8xjbej-vh5g",
       "ts": 1794214031833,
