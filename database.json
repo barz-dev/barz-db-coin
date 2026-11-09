@@ -6237,13 +6237,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794250937610,
       "claimedCodes": [],
       "apiKey": "ILLUTHECOOLEST-XAXJK2YRGLGQ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7471,6 +7471,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8x2nnf-mw8udp7a-91gd",
+      "ts": 1794207925563,
+      "type": "react",
+      "text": "React 🆙❤🦕😡 ke 0029Vb9B0yf30LKIrSXmBo3h/114 (gratis)",
+      "uid": "user_3LoecgGpTU2y3CUvrGslfbfHngL",
+      "username": "illuthecoolest",
+      "meta": null
+    },
     {
       "id": "mw8wztmm-mw8udp79-3z7b",
       "ts": 1794207793342,
