@@ -6429,13 +6429,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794191903088,
+      "freeUsed": 1,
+      "freeResetAt": 1794274291705,
       "claimedCodes": [],
       "apiKey": "NURNUR-NBQSYYQL7D79",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7563,6 +7563,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9av6rd-mw98wa6i-cfew",
+      "ts": 1794231091705,
+      "type": "react",
+      "text": "React 🗿 ke 0029VbAaDKJICVfieV9dWz1N/4348 (gratis)",
+      "uid": "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW",
+      "username": "nurnur",
+      "meta": null
+    },
     {
       "id": "mw9ar31u-mw9ab7yl-r7jx",
       "ts": 1794230900274,
