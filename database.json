@@ -6655,13 +6655,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794246417755,
       "claimedCodes": [],
       "apiKey": "EFSEMVAK-XT9NGEFH5W3C",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7369,6 +7369,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8ua5sk-mw8q6kyo-fogq",
+      "ts": 1794203236820,
+      "type": "react",
+      "text": "React 🗿🗿🗿🔥🔥 ke 0029VbDXmOTFi8xZW54of132/209 (gratis)",
+      "uid": "user_3LrD7aD6H1R1DGchCEuCAwftRy3",
+      "username": "efsemvak",
+      "meta": null
+    },
     {
       "id": "mw8u9udc-mw8q6kyn-t55r",
       "ts": 1794203222016,
