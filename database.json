@@ -928,7 +928,7 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 78,
+      "totalReacts": 79,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
@@ -7699,6 +7699,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9jilvt-mw9hreg3-y0vt",
+      "ts": 1794245621321,
+      "type": "react",
+      "text": "React 👍 ke 0029Vb8axlxHrDZdd56pQt3U/515 (owner)",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
     {
       "id": "mw9i3dyh-mw9hyuxq-s3ac",
       "ts": 1794243231593,
