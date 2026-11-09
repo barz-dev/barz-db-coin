@@ -6783,13 +6783,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794252099052,
       "claimedCodes": [],
       "apiKey": "ALL01-SG3CFNQCCF5K",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7505,6 +7505,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw8xniss-mw8x010r-b32r",
+      "ts": 1794208899052,
+      "type": "react",
+      "text": "React 👍🤣 ke 0029VbCq5Yr1noz602nrfi1R/2596 (gratis)",
+      "uid": "user_3LrOacKmAcLtJA8En1QRQtRoqMt",
+      "username": "all01",
+      "meta": null
+    },
     {
       "id": "mw8x2nnf-mw8udp7a-91gd",
       "ts": 1794207925563,
