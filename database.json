@@ -3723,14 +3723,14 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 140,
+      "limit": 138,
       "freeUsed": 0,
       "freeResetAt": 1794282838834,
       "claimedCodes": [],
       "apiKey": "SKAY123-KV3VDV3XJG2H",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 8,
+      "totalReacts": 9,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7753,6 +7753,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9x938f-mw9v0uzc-pry5",
+      "ts": 1794268691871,
+      "type": "react",
+      "text": "React 🔥👍 ke 0029Vb97vVtKWEKibTGGZr2Q/128",
+      "uid": "user_3LdebGdKxCScQDaD65iIie4iBxF",
+      "username": "skay123",
+      "meta": null
+    },
     {
       "id": "mw9wxqop-mw9urv6o-4qdd",
       "ts": 1794268162393,
