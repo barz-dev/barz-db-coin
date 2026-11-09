@@ -928,17 +928,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 82,
+      "totalReacts": 83,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 765,
+        "lastId": 766,
         "emoji": "🔥",
-        "reacted": 56,
+        "reacted": 57,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1794248121633
+        "lastAt": 1794268162393
       },
       "badge": {
         "icon": "biohazard",
@@ -7753,6 +7753,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9wxqop-mw9urv6o-4qdd",
+      "ts": 1794268162393,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/766",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
     {
       "id": "mw9tfb5v-mw9rv5wv-9ihf",
       "ts": 1794262263619,
