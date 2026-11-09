@@ -7575,7 +7575,7 @@
       "payUrl": "https://app.buatqris.site/trx/C4KH-26T2-118D-10PY",
       "payAmount": 5209,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794261416761,
       "expiresAt": 1794288417000,
       "fulfilled": false
