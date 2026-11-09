@@ -7700,6 +7700,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mw9jk2g8-mw9jj723-y6gm",
+      "ts": 1794245689448,
+      "type": "admin",
+      "text": "Paket VIP (vip) disimpan · bulan Rp15.000",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mw9jilvt-mw9hreg3-y0vt",
       "ts": 1794245621321,
       "type": "react",
@@ -9018,6 +9027,16 @@
     "limitPrice": 50,
     "limitMin": 100,
     "limitMax": 10000000,
-    "limitDiscount": 0
+    "limitDiscount": 0,
+    "plans": {
+      "vip": {
+        "name": "VIP",
+        "month": 15000,
+        "perm": 100000,
+        "limitMonth": 1000,
+        "limitPerm": 2500,
+        "discount": 20
+      }
+    }
   }
 }
