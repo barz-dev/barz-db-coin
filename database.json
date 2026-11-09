@@ -7700,6 +7700,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mw9jka9z-mw9jj724-8546",
+      "ts": 1794245699591,
+      "type": "admin",
+      "text": "Paket SVIP (svip) disimpan · bulan Rp25.000",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mw9jk2g8-mw9jj723-y6gm",
       "ts": 1794245689448,
       "type": "admin",
@@ -9035,6 +9044,14 @@
         "perm": 100000,
         "limitMonth": 1000,
         "limitPerm": 2500,
+        "discount": 20
+      },
+      "svip": {
+        "name": "SVIP",
+        "month": 25000,
+        "perm": 150000,
+        "limitMonth": 10000,
+        "limitPerm": 15000,
         "discount": 20
       }
     }
