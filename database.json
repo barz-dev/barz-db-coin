@@ -7700,6 +7700,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mw9jp41r-mw9jj6t4-e4ib",
+      "ts": 1794245924799,
+      "type": "admin",
+      "text": "Paket ELITE (elite) disimpan · bulan Rp10.000",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mw9jnnij-mw9hyuxr-cp04",
       "ts": 1794245856715,
       "type": "autoreact",
@@ -9061,6 +9070,14 @@
         "perm": 150000,
         "limitMonth": 10000,
         "limitPerm": 15000,
+        "discount": 20
+      },
+      "elite": {
+        "name": "ELITE",
+        "month": 10000,
+        "perm": 50000,
+        "limitMonth": 500,
+        "limitPerm": 1000,
         "discount": 20
       }
     }
