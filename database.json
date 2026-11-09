@@ -7039,13 +7039,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794304225400,
       "claimedCodes": [],
       "apiKey": "RIDO4YOU-5RSXNAH9HL2H",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7733,6 +7733,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mw9sro1x-mw9rv5ws-3xt7",
+      "ts": 1794261160581,
+      "type": "react",
+      "text": "React 🕋☘️🩲👙 ke 0029Vb8fCYY0wajq36m8j42Y/843 (gratis)",
+      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
+      "username": "rido4you",
+      "meta": null
+    },
     {
       "id": "mw9sowji-mw9qd5ej-ou5u",
       "ts": 1794261031614,
