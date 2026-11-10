@@ -7199,13 +7199,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794360016669,
       "claimedCodes": [],
       "apiKey": "CHELL-ECQSKDBV2525",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7923,6 +7923,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwapwtdp-mwanrlaa-a9py",
+      "ts": 1794316828093,
+      "type": "react",
+      "text": "React 😳💘😻💟😍 ke 0029VbDuaK2DzgT4zQkULB3H/1224 (gratis)",
+      "uid": "user_3LuvIPvgQ4FOqcfnzq3cX0rtzsQ",
+      "username": "chell",
+      "meta": null
+    },
     {
       "id": "mwapwkke-mwaplh70-tn9i",
       "ts": 1794316816670,
