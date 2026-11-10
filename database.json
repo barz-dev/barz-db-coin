@@ -7263,13 +7263,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794364512177,
       "claimedCodes": [],
       "apiKey": "SENNA_KYOUJO-PSKN7GJDHPGZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7991,6 +7991,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwaskxbl-mwapzbpj-0kpu",
+      "ts": 1794321312177,
+      "type": "react",
+      "text": "React ❌ ke 0029VbCgkyQ4dTnNK55fwS1B/1869 (gratis)",
+      "uid": "user_3Lv4QkdIPSRc5HnGYGcEsDtZQUy",
+      "username": "senna_kyoujo",
+      "meta": null
+    },
     {
       "id": "mwas3xhi-mwar7kve-iv2e",
       "ts": 1794320519238,
@@ -9780,15 +9789,6 @@
       "text": "React 😮😱🥶 ke 0029VbDYM9b8vd1KMz5lHl2a/193 (gratis)",
       "uid": "user_3Lolc79TurPTowRiZxswSBHUe4p",
       "username": "nabielxx",
-      "meta": null
-    },
-    {
-      "id": "mw7lpnjg-mw7k96w0-fdai",
-      "ts": 1794128376940,
-      "type": "react",
-      "text": "React 💦💩🗿💩 ke 0029VbDljnbAInPtbg2N4l1E/1585 (gratis)",
-      "uid": "user_3Lm9PELyimdqWjt9tEkVzqovUD3",
-      "username": "jowowimakan",
       "meta": null
     }
   ],
