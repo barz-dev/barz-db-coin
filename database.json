@@ -5687,24 +5687,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2228,
+      "limit": 2226,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 136,
+      "totalReacts": 137,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 378,
+        "lastId": 379,
         "emoji": "✨🥰💕🍀🎀",
-        "reacted": 115,
+        "reacted": 116,
         "error": "",
         "updatedAt": 1794253163851,
-        "lastAt": 1794315148525
+        "lastAt": 1794319964183
       },
       "badge": {
         "icon": "crown",
@@ -7958,6 +7958,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwars17b-mwar7kvd-s2qp",
+      "ts": 1794319964183,
+      "type": "autoreact",
+      "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/379",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwaqkndk-mwapzbpi-gxoq",
       "ts": 1794317940056,
       "type": "react",
@@ -9744,15 +9753,6 @@
       "ts": 1794128271042,
       "type": "react",
       "text": "React 🥳🥰🔥 ke 0029VbCvyamDzgTB9cbZeg18/529 (gratis)",
-      "uid": "user_3Lm9PELyimdqWjt9tEkVzqovUD3",
-      "username": "jowowimakan",
-      "meta": null
-    },
-    {
-      "id": "mw7lkgc6-mw7k6qlp-mwkz",
-      "ts": 1794128134326,
-      "type": "react",
-      "text": "React 😥😓👎😭😭 ke 0029VbCekBy7oQhat5XodI16/216 (gratis)",
       "uid": "user_3Lm9PELyimdqWjt9tEkVzqovUD3",
       "username": "jowowimakan",
       "meta": null
