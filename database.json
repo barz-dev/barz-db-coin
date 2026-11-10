@@ -7295,13 +7295,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794365291456,
       "claimedCodes": [],
       "apiKey": "SENNO_JR-PU5V2U9DGNQC",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8025,6 +8025,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwat2o3w-mwaq026b-cit7",
+      "ts": 1794322140044,
+      "type": "react",
+      "text": "React ❤️❤️❤️❤️❤️ ke 0029VbCgkyQ4dTnNK55fwS1B/1881 (gratis)",
+      "uid": "user_3Lv68IPZyei9tbGSqRx9DDib54p",
+      "username": "senno_jr",
+      "meta": null
+    },
     {
       "id": "mwat1mm9-mwapzbpk-6xz5",
       "ts": 1794322091457,
@@ -9814,15 +9823,6 @@
       "text": "Auto react ✨️💕🎀😍🗿 ke 0029VbCOihwFCCoTtsKHkt0E/320",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mw7mdotb-mw7k6qlt-pzy3",
-      "ts": 1794129498335,
-      "type": "react",
-      "text": "React 💜🤍❤️ ke 0029Vb9RLjQ4tRrwHFGXW114/12 (gratis)",
-      "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
-      "username": "zamzz",
       "meta": null
     }
   ],
