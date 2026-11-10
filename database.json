@@ -5697,13 +5697,13 @@
       "totalReacts": 142,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": false,
+        "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 384,
-        "emoji": "✨🥰💕🍀🎀",
+        "lastId": 385,
+        "emoji": "🗿✨🥰💕🍀",
         "reacted": 121,
         "error": "",
-        "updatedAt": 1794253163851,
+        "updatedAt": 1794327279989,
         "lastAt": 1794327075266
       },
       "badge": {
