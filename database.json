@@ -4173,7 +4173,7 @@
       "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1052,
+      "limit": 1050,
       "freeUsed": 0,
       "freeResetAt": 1794331888620,
       "claimedCodes": [
@@ -4182,7 +4182,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 27,
+      "totalReacts": 28,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7924,6 +7924,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwaqicdk-mwaq0267-evc8",
+      "ts": 1794317832488,
+      "type": "react",
+      "text": "React 👍🤒👀☕🌧️ ke 0029Vb7sdXpEAKWOBRBM1L07/387",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwaq0b0n-mwaplh71-akqx",
       "ts": 1794316990919,
       "type": "react",
@@ -9712,15 +9721,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/754",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mw7kb89w-mw7ka2eo-53ya",
-      "ts": 1794126024356,
-      "type": "admin",
-      "text": "Pricing & diskon diperbarui",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
       "meta": null
     }
   ],
