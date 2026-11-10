@@ -7881,7 +7881,7 @@
       "payUrl": "https://app.buatqris.site/trx/KP8V-26M6-11DB-109B",
       "payAmount": 500837,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794327307768,
       "expiresAt": 1794354308000,
       "fulfilled": false
