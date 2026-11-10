@@ -6815,13 +6815,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794260771880,
+      "freeUsed": 1,
+      "freeResetAt": 1794352961170,
       "claimedCodes": [],
       "apiKey": "DER-HSZE937METLW",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -7855,6 +7855,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwalpcia-mwakx9od-qvg6",
+      "ts": 1794309761170,
+      "type": "react",
+      "text": "React 😋👆😝🤩🔥 ke 0029Vb8gj2b60eBlLepLAL3a/112 (gratis)",
+      "uid": "user_3LrfmU3VguUTKDqeCbun4WxqjHQ",
+      "username": "der",
+      "meta": null
+    },
     {
       "id": "mwajz9jx-mwagumsr-1t1y",
       "ts": 1794306864669,
