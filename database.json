@@ -8092,7 +8092,7 @@
       "payUrl": "https://app.buatqris.site/trx/23GR-26ES-11KV-11AU",
       "payAmount": 5271,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794403459188,
       "expiresAt": 1794430460000,
       "fulfilled": false
