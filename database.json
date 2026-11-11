@@ -7560,13 +7560,13 @@
       "totalReacts": 10,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": false,
-        "code": "",
-        "lastId": 0,
-        "emoji": "",
+        "enabled": true,
+        "code": "0029Vb8Ahsm2phHR7AkyIx2O",
+        "lastId": 1002,
+        "emoji": "🗿🔥💯😍👏",
         "reacted": 0,
         "error": "",
-        "updatedAt": 0
+        "updatedAt": 1794415895152
       }
     }
   },
