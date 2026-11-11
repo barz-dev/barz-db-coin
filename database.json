@@ -8021,6 +8021,26 @@
       "createdAt": 1794327307768,
       "expiresAt": 1794354308000,
       "fulfilled": false
+    },
+    "90Zk93eamLc-UIJPtxVq": {
+      "id": "90Zk93eamLc-UIJPtxVq",
+      "ref": "RCH-MWBX33CJ-852FC4",
+      "uid": "user_3LxIIwVM6VpJXJfWv2TBhNoDDNW",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 5000,
+      "label": "100 Limit",
+      "txId": "4Q3T-26CV-116V-11XU",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/4Q3T-26CV-116V-11XU.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/4Q3T-26CV-116V-11XU",
+      "payAmount": 5285,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794389344435,
+      "expiresAt": 1794416345000,
+      "fulfilled": false
     }
   },
   "settings": {
