@@ -7359,13 +7359,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794391792617,
+      "freeUsed": 1,
+      "freeResetAt": 1794480712602,
       "claimedCodes": [],
       "apiKey": "FALZZ01-33DLF7UERGV6",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8393,6 +8393,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwcpri56-mwcpgvhp-qfnc",
+      "ts": 1794437512602,
+      "type": "react",
+      "text": "React ❤️👏 ke 0029VagGBAe1XquR4FAiXe09/7652 (gratis)",
+      "uid": "user_3LvxtfV9QDWaltTUz5htfFVq5lI",
+      "username": "falzz01",
+      "meta": null
+    },
     {
       "id": "mwcpk3s0-mwcpgvny-jpq8",
       "ts": 1794437167392,
@@ -10189,15 +10198,6 @@
       "text": "React ❓💀😂😭🤓 ke 0029Vb9B0yf30LKIrSXmBo3h/115 (gratis)",
       "uid": "user_3LoecgGpTU2y3CUvrGslfbfHngL",
       "username": "illuthecoolest",
-      "meta": null
-    },
-    {
-      "id": "mw8wybbh-mw8udp77-fuix",
-      "ts": 1794207722957,
-      "type": "react",
-      "text": "React 👍🤩😘 ke 0029VbDXC3HHAdNOD33WQs2z/1151 (gratis)",
-      "uid": "user_3LrMLGB22tlNvf3Ppi9manWpApe",
-      "username": "japzsture01",
       "meta": null
     }
   ],
