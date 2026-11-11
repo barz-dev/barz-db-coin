@@ -7546,11 +7546,11 @@
       "avatar": false,
       "avatarVer": 0,
       "createdAt": 1794414835806,
-      "role": "free",
-      "roleExpiresAt": 0,
+      "role": "vip",
+      "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
-      "roleMonths": 0,
-      "limit": 0,
+      "roleMonths": 1,
+      "limit": 1000,
       "freeUsed": 3,
       "freeResetAt": 1794458111278,
       "claimedCodes": [],
@@ -8162,10 +8162,11 @@
       "payUrl": "https://app.buatqris.site/trx/YUD6-26GR-11E7-11BA",
       "payAmount": 12342,
       "test": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": 1794415285040,
       "expiresAt": 1794442285000,
-      "fulfilled": false
+      "fulfilled": true,
+      "paidAt": 1794415340715
     }
   },
   "settings": {
@@ -8358,6 +8359,19 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwccka87-mwcck9uf-mufb",
+      "ts": 1794415340743,
+      "type": "purchase",
+      "text": "Pembelian berhasil: 1 Bulan VIP · diskon 20% · Rp12.342",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": {
+        "kind": "role",
+        "tier": "vip",
+        "amount": 12342
+      }
+    },
     {
       "id": "mwccfx0t-mwcaubie-yedk",
       "ts": 1794415137005,
@@ -10150,15 +10164,6 @@
       "text": "React 🔥🚀👍🥰💦 ke 0029VbELvVDBKfi5CvmfcB2o/151 (gratis)",
       "uid": "user_3Lqj8ieoU3rwH9kXZ9mKxhR74Qh",
       "username": "rayenn",
-      "meta": null
-    },
-    {
-      "id": "mw8jdsbj-mw8g4qhz-e9fj",
-      "ts": 1794184930207,
-      "type": "autoreact",
-      "text": "Auto react ✨️💕🎀😍🗿 ke 0029VbCOihwFCCoTtsKHkt0E/332",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
