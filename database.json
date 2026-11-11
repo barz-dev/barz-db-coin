@@ -4173,7 +4173,7 @@
       "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1044,
+      "limit": 1042,
       "freeUsed": 0,
       "freeResetAt": 1794437775446,
       "claimedCodes": [
@@ -4182,7 +4182,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 31,
+      "totalReacts": 32,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8394,6 +8394,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwcpic7r-mwcpgvnw-48er",
+      "ts": 1794437085015,
+      "type": "react",
+      "text": "React 😭😮😂🍻💋 ke 0029Vb7sdXpEAKWOBRBM1L07/391",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwcoem6s-mwcmgwi8-f80m",
       "ts": 1794435231700,
       "type": "autoreact",
@@ -10189,15 +10198,6 @@
       "text": "React 🤣😂 ke 0029VajIwfQ2f3ECxJXdj80t/10388 (gratis)",
       "uid": "user_3Ljw4XdZIWQF6EHaBvhd6YyMZ3N",
       "username": "yuss",
-      "meta": null
-    },
-    {
-      "id": "mw8v97qv-mw8uffus-ysrt",
-      "ts": 1794204872312,
-      "type": "react",
-      "text": "React 🤓 ke 0029VbCCoBOAe5VpE1wEo70T/2945 (gratis)",
-      "uid": "user_3LrGOty6iRHxiOwu0lbkjnTdOUY",
-      "username": "zamz",
       "meta": null
     }
   ],
