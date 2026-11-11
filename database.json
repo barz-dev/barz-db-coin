@@ -7423,13 +7423,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794441025792,
       "claimedCodes": [],
       "apiKey": "NIZAM-Y2F267TSCPTS",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8234,6 +8234,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwc26hak-mwc24odo-8ykb",
+      "ts": 1794397900556,
+      "type": "react",
+      "text": "React 👍👻🎯 ke 0029Vb9YPVNLo4hauoXytO2Z/100 (gratis)",
+      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
+      "username": "nizam",
+      "meta": null
+    },
     {
       "id": "mwc24vlt-mwc24oer-hg3r",
       "ts": 1794397825793,
@@ -10026,15 +10035,6 @@
       "text": "React 💦🤤😂 ke 0029VbDOyyUBvvsWlptul81n/943 (gratis)",
       "uid": "user_3LpPkZcKnbrLUCFoyiHN830eAxs",
       "username": "echynnz",
-      "meta": null
-    },
-    {
-      "id": "mw7x7efv-mw7t6p8b-ktcd",
-      "ts": 1794147680731,
-      "type": "react",
-      "text": "React 👍🥺🙏🤍🤲 ke 0029Vb7sdXpEAKWOBRBM1L07/380",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
       "meta": null
     }
   ],
