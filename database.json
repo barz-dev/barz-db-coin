@@ -5687,24 +5687,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2194,
+      "limit": 2192,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 153,
+      "totalReacts": 154,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 400,
+        "lastId": 401,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 132,
+        "reacted": 133,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1794413811453
+        "lastAt": 1794415956174
       },
       "badge": {
         "icon": "crown",
@@ -8360,6 +8360,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwccxh3i-mwccm72g-3r7o",
+      "ts": 1794415956174,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/401",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwccugwu-mwcaubik-j294",
       "ts": 1794415815966,
       "type": "react",
@@ -10155,15 +10164,6 @@
       "text": "Auto react ✨️💕🎀😍🗿 ke 0029VbCOihwFCCoTtsKHkt0E/336",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mw8n84p9-mw8mcslv-d3rf",
-      "ts": 1794191384781,
-      "type": "react",
-      "text": "React 🔥🗿 ke 0029VbE5A9VBPzjScJYKA50E/145 (gratis)",
-      "uid": "user_3Ljw4XdZIWQF6EHaBvhd6YyMZ3N",
-      "username": "yuss",
       "meta": null
     }
   ],
