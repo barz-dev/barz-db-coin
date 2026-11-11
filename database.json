@@ -7519,13 +7519,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794451837589,
       "claimedCodes": [],
       "apiKey": "AYAM_20-XBEH7LHVRB8G",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8322,6 +8322,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwc8mgfy-mwc8karw-ywc5",
+      "ts": 1794408723646,
+      "type": "react",
+      "text": "React 🙏🗿🤣👻✨ ke 0029VbCz55rBvvshq0kpXz3t/5114 (gratis)",
+      "uid": "user_3LxvbMocmzVApYxEBcJyyLGFurT",
+      "username": "ayam_20",
+      "meta": null
+    },
     {
       "id": "mwc8km1h-mwc8karv-pyjx",
       "ts": 1794408637589,
@@ -10112,15 +10121,6 @@
       "ts": 1794149188768,
       "type": "react",
       "text": "React 🖕😘 ke 0029Vb5YfT24tRroMqNt4E2c/2870 (gratis)",
-      "uid": "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW",
-      "username": "nurnur",
-      "meta": null
-    },
-    {
-      "id": "mw7xy5zm-mw7xcsvy-rkft",
-      "ts": 1794148929490,
-      "type": "react",
-      "text": "React 🖕 ke 0029Vb5YfT24tRroMqNt4E2c/2869 (gratis)",
       "uid": "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW",
       "username": "nurnur",
       "meta": null
