@@ -8042,6 +8042,26 @@
       "expiresAt": 1794416345000,
       "fulfilled": true,
       "paidAt": 1794389372542
+    },
+    "oWBXQccCLLVS7jc4NKtF": {
+      "id": "oWBXQccCLLVS7jc4NKtF",
+      "ref": "RCH-MWC5HMD0-64F2E3",
+      "uid": "user_3Lny47qcAs6ats7gOzLXPyV2fDS",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 5000,
+      "label": "100 Limit",
+      "txId": "23GR-26ES-11KV-11AU",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/23GR-26ES-11KV-11AU.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/23GR-26ES-11KV-11AU",
+      "payAmount": 5271,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794403459188,
+      "expiresAt": 1794430460000,
+      "fulfilled": false
     }
   },
   "settings": {
