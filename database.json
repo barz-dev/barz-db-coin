@@ -928,17 +928,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 94,
+      "totalReacts": 95,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 777,
+        "lastId": 778,
         "emoji": "🔥",
-        "reacted": 68,
+        "reacted": 69,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1794393859815
+        "lastAt": 1794396288011
       },
       "badge": {
         "icon": "biohazard",
@@ -8235,6 +8235,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwc17x1n-mwbzqj6q-zw1y",
+      "ts": 1794396288011,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/778",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwc09ud4-mwbzqj6p-f7ia",
       "ts": 1794394698232,
       "type": "autoreact",
@@ -10024,15 +10033,6 @@
       "ts": 1794147235435,
       "type": "react",
       "text": "React 🗿🗿🗿🗿🗿 ke 0029VawBcYm4IBh67BAjqF1N/4306 (gratis)",
-      "uid": "user_3LpNZT68jsUqqnj6YV8HmSZ5uNY",
-      "username": "nijum_30",
-      "meta": null
-    },
-    {
-      "id": "mw7wwxka-mw7t56ep-ziuv",
-      "ts": 1794147192298,
-      "type": "react",
-      "text": "React 🗿 ke 0029VawBcYm4IBh67BAjqF1N/4306 (gratis)",
       "uid": "user_3LpNZT68jsUqqnj6YV8HmSZ5uNY",
       "username": "nijum_30",
       "meta": null
