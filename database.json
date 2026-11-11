@@ -8360,6 +8360,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwcg140a-mwcg08qj-c170",
+      "ts": 1794421164682,
+      "type": "admin",
+      "text": "Paket SVIP (svip) disimpan · bulan Rp25.000",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mwcg0wt6-mwcg08qi-45ir",
       "ts": 1794421155354,
       "type": "admin",
@@ -10156,15 +10165,6 @@
       "uid": "user_3LrBaszhNYMayZGdpoqHwlubEkJ",
       "username": "arman_",
       "meta": null
-    },
-    {
-      "id": "mw8tt9gi-mw8q6kyk-h04o",
-      "ts": 1794202448418,
-      "type": "react",
-      "text": "React 💯❤️🥳😍👍 ke 0029VbE6SLfA2pL8jyXNuE1X/105 (gratis)",
-      "uid": "user_3LrBaszhNYMayZGdpoqHwlubEkJ",
-      "username": "arman_",
-      "meta": null
     }
   ],
   "pricing": {
@@ -10187,7 +10187,7 @@
         "perm": 150000,
         "limitMonth": 10000,
         "limitPerm": 15000,
-        "discount": 20
+        "discount": 5
       }
     }
   }
