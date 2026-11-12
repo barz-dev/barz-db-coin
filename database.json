@@ -7873,13 +7873,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794531442654,
       "claimedCodes": [],
       "apiKey": "WINA_JOKU-CPP6M2SN9DLH",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8721,6 +8721,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdjytpa-mwdjjv0b-vgs0",
+      "ts": 1794488242654,
+      "type": "react",
+      "text": "React 😍👍🗿😱🥳 ke 0029Vb9WtChI7BeF1aUYHh1F/119 (gratis)",
+      "uid": "user_3M0Wd0dy8mjOgbOUc4YdrcoL4dq",
+      "username": "wina_joku",
+      "meta": null
+    },
     {
       "id": "mwdjguqg-mwdjc7gk-saky",
       "ts": 1794487404184,
@@ -10517,15 +10526,6 @@
       "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/351",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mw9cfxnv-mw98wa6p-p1bx",
-      "ts": 1794233739307,
-      "type": "react",
-      "text": "React 😂😹🤣🗿😭 ke 0029Vb94IhDF1YlVg4hVWj3q/106 (gratis)",
-      "uid": "user_3LsCJQtWmPLXeXvXnARXZtZWZTm",
-      "username": "orang_ganteng12",
       "meta": null
     }
   ],
