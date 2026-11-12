@@ -7550,14 +7550,14 @@
       "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 968,
+      "limit": 966,
       "freeUsed": 0,
       "freeResetAt": 1794505893888,
       "claimedCodes": [],
       "apiKey": "RASYA-59U2ZWDY86QZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 19,
+      "totalReacts": 20,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8653,6 +8653,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdgm76y-mwdfo8mz-hhrw",
+      "ts": 1794482614762,
+      "type": "react",
+      "text": "React 😍🔥🤑💯👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1017",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": null
+    },
     {
       "id": "mwdgg1nz-mwdfo8my-75h0",
       "ts": 1794482327664,
@@ -10449,15 +10458,6 @@
       "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/350",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mw9c0hki-mw98wa6n-hhch",
-      "ts": 1794233018610,
-      "type": "react",
-      "text": "React 🤣🖕😹🦶👎 ke 0029VbDWkIz1dAw20AH2xo0g/271 (gratis)",
-      "uid": "user_3LsBYhVtJXiyOaYSvY5MeEQOgnH",
-      "username": "jsksks",
       "meta": null
     }
   ],
