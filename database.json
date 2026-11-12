@@ -7679,13 +7679,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794518106745,
       "claimedCodes": [],
       "apiKey": "INDOMIEE-JEY9T8KNBVU5",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8515,6 +8515,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdc0znd-mwdbgzpj-592t",
+      "ts": 1794474906745,
+      "type": "react",
+      "text": "React 💦🥰😍😱 ke 0029VbDwWVwJkK76aTq3vQ03/715 (gratis)",
+      "uid": "user_3M05uoyeQN4oEyniqef4UKjeIx5",
+      "username": "indomiee",
+      "meta": null
+    },
     {
       "id": "mwdbhgua-mwdbgzqd-slal",
       "ts": 1794473995906,
@@ -10311,15 +10320,6 @@
       "text": "React 💕🩷😵💫🤩 ke 0029VbBtEk1It5rpSnA1hV3a/1398 (gratis)",
       "uid": "user_3LYkQyYuwOpe0sJJkRwqpYaZoL7",
       "username": "zyy",
-      "meta": null
-    },
-    {
-      "id": "mw98eu8u-mw9780s1-wpu4",
-      "ts": 1794226969758,
-      "type": "react",
-      "text": "React 👍 ke 0029VbDzIefEFeXse40L5k2S/171",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
       "meta": null
     }
   ],
