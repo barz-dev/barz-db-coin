@@ -7873,13 +7873,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794531442654,
       "claimedCodes": [],
       "apiKey": "WINA_JOKU-CPP6M2SN9DLH",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8721,6 +8721,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdk1zbj-mwdjc7kr-10pc",
+      "ts": 1794488389903,
+      "type": "react",
+      "text": "React ❤️💕😻🫠🫣 ke 0029Vb9WtChI7BeF1aUYHh1F/120 (gratis)",
+      "uid": "user_3M0Wd0dy8mjOgbOUc4YdrcoL4dq",
+      "username": "wina_joku",
+      "meta": null
+    },
     {
       "id": "mwdjze4z-mwdjjv0c-ip1k",
       "ts": 1794488269139,
@@ -10515,15 +10524,6 @@
       "ts": 1794236152696,
       "type": "autoreact",
       "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/353",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mw9dunzo-mw9ab7yp-y2nt",
-      "ts": 1794236106228,
-      "type": "autoreact",
-      "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/352",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
       "meta": null
