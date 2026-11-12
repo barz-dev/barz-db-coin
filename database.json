@@ -7809,13 +7809,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794524916488,
       "claimedCodes": [],
       "apiKey": "TIAMONIKA-BHJ7Y4JQ67V7",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8653,6 +8653,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdg4gxl-mwdfo8jz-qxz1",
+      "ts": 1794481787577,
+      "type": "react",
+      "text": "React 💦🎉👍 ke 0029VbEUHRGEQIawYMNqMN10/100 (gratis)",
+      "uid": "user_3M0JdQaXNUrjfselEZ8QNZJ8xax",
+      "username": "tiamonika",
+      "meta": null
+    },
     {
       "id": "mwdg3piw-mwdfo8jy-tuxb",
       "ts": 1794481752056,
@@ -10449,15 +10458,6 @@
       "text": "React 🤣🖕😹🦶👎 ke 0029VbDWkIz1dAw20AH2xo0g/271 (gratis)",
       "uid": "user_3LsBYhVtJXiyOaYSvY5MeEQOgnH",
       "username": "jsksks",
-      "meta": null
-    },
-    {
-      "id": "mw9ba6ys-mw98wa6k-ptvb",
-      "ts": 1794231791812,
-      "type": "react",
-      "text": "React 🤢 ke 0029Vb8zs8n4NVifHTP2Ag1v/105 (gratis)",
-      "uid": "user_3Ls8nLIS8aoYyTGbvsT3ErlrzbB",
-      "username": "dree_01",
       "meta": null
     }
   ],
