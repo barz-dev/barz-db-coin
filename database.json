@@ -7647,13 +7647,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794517195906,
       "claimedCodes": [],
       "apiKey": "RULJIR-TW8VHJAAXPB6",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8551,6 +8551,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwde8p8x-mwde7d6d-oxi4",
+      "ts": 1794478625745,
+      "type": "react",
+      "text": "React 🤣 ke 0029VbDARs4BvvscWUlgcS1H/3428 (gratis)",
+      "uid": "user_3M043w57awszlQQUWN3w16eFbGh",
+      "username": "ruljir",
+      "meta": null
+    },
     {
       "id": "mwde7lbj-mwde7d6c-ahuo",
       "ts": 1794478573999,
@@ -10347,15 +10356,6 @@
       "text": "React 🗿 ke 0029VbAaDKJICVfieV9dWz1N/4348 (gratis)",
       "uid": "user_3LpQb06mhS5Dj4ZK7Kj3hPilyvW",
       "username": "nurnur",
-      "meta": null
-    },
-    {
-      "id": "mw9ar31u-mw9ab7yl-r7jx",
-      "ts": 1794230900274,
-      "type": "autoreact",
-      "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/349",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
