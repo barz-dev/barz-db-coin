@@ -7841,13 +7841,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794530604184,
       "claimedCodes": [],
       "apiKey": "JOKOWI-R7ZZCY2VH7JN",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8687,6 +8687,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwdjguqg-mwdjc7gk-saky",
+      "ts": 1794487404184,
+      "type": "react",
+      "text": "React 👻🗿🍀😱 ke 0029Vb9WtChI7BeF1aUYHh1F/116 (gratis)",
+      "uid": "user_3M0V8N0NT43ud4yajnp60q6fSQg",
+      "username": "jokowi",
+      "meta": null
+    },
     {
       "id": "mwdjcq39-mwdjc7kq-oyq5",
       "ts": 1794487211541,
@@ -10481,15 +10490,6 @@
       "ts": 1794233739307,
       "type": "react",
       "text": "React 😂😹🤣🗿😭 ke 0029Vb94IhDF1YlVg4hVWj3q/106 (gratis)",
-      "uid": "user_3LsCJQtWmPLXeXvXnARXZtZWZTm",
-      "username": "orang_ganteng12",
-      "meta": null
-    },
-    {
-      "id": "mw9ce9zk-mw98wa6o-qr0r",
-      "ts": 1794233661968,
-      "type": "react",
-      "text": "React 😛🗿😈😂😏 ke 0029Vb94IhDF1YlVg4hVWj3q/105 (gratis)",
       "uid": "user_3LsCJQtWmPLXeXvXnARXZtZWZTm",
       "username": "orang_ganteng12",
       "meta": null
