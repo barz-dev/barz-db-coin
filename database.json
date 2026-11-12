@@ -8235,6 +8235,26 @@
       "expiresAt": 1794442285000,
       "fulfilled": true,
       "paidAt": 1794415340715
+    },
+    "hXwx2DXReJEJdnYEjPU1": {
+      "id": "hXwx2DXReJEJdnYEjPU1",
+      "ref": "RCH-MWD5I8CJ-004BE5",
+      "uid": "user_3Lny47qcAs6ats7gOzLXPyV2fDS",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 5000,
+      "label": "100 Limit",
+      "txId": "7XFW-26F5-11FF-12FX",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/7XFW-26F5-11FF-12FX.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/7XFW-26F5-11FF-12FX",
+      "payAmount": 5277,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794463953859,
+      "expiresAt": 1794490954000,
+      "fulfilled": false
     }
   },
   "settings": {
