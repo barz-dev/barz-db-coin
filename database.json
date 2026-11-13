@@ -8129,13 +8129,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794602846868,
       "claimedCodes": [],
       "apiKey": "NEIL-CZEGG638G9QE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9109,6 +9109,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mweyzv7h-mweyqyp8-r3cj",
+      "ts": 1794573951677,
+      "type": "react",
+      "text": "React 👍👻😍❤️🤣 ke 0029VbCcM4WKrWR2zSGUiY43/481 (gratis)",
+      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
+      "username": "neil",
+      "meta": null
+    },
     {
       "id": "mwexqwsf-mwew27et-axxf",
       "ts": 1794571854207,
@@ -10901,15 +10910,6 @@
     {
       "id": "mwaf4aqw-mwacarwx-wyxa",
       "ts": 1794298701416,
-      "type": "react",
-      "text": "React 👍❤️ ke 0029Vb9CDvb05MUky41BPE3d/114 (gratis)",
-      "uid": "user_3LuKihYEhhKMfYaYRZrQoAcMol0",
-      "username": "maszriioffc",
-      "meta": null
-    },
-    {
-      "id": "mwaf3vcn-mwacarww-7wqw",
-      "ts": 1794298681463,
       "type": "react",
       "text": "React 👍❤️ ke 0029Vb9CDvb05MUky41BPE3d/114 (gratis)",
       "uid": "user_3LuKihYEhhKMfYaYRZrQoAcMol0",
