@@ -7039,13 +7039,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794358096398,
+      "freeUsed": 1,
+      "freeResetAt": 1794589400465,
       "claimedCodes": [],
       "apiKey": "RIDO4YOU-5RSXNAH9HL2H",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8892,6 +8892,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mweih28h-mweigrt5-ogei",
+      "ts": 1794546200465,
+      "type": "react",
+      "text": "React 🕋☘️😂👍🗿 ke 0029Vb8fCYY0wajq36m8j42Y/867 (gratis)",
+      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
+      "username": "rido4you",
+      "meta": null
+    },
+    {
       "id": "mwehq6so-mweffjsj-fdtc",
       "ts": 1794544946664,
       "type": "autoreact",
@@ -10687,15 +10696,6 @@
       "text": "Paket VIP (vip) disimpan · bulan Rp15.000",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mw9jilvt-mw9hreg3-y0vt",
-      "ts": 1794245621321,
-      "type": "react",
-      "text": "React 👍 ke 0029Vb8axlxHrDZdd56pQt3U/515 (owner)",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
