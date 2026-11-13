@@ -8419,13 +8419,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794639343404,
       "claimedCodes": [],
       "apiKey": "BAYU-8ZPDKHRHXV6Z",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9301,6 +9301,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwfc7x5u-mwfc6d3e-op6w",
+      "ts": 1794596162466,
+      "type": "react",
+      "text": "React 😔🤍 ke 0029VbD6gXPHLHQgep86VG2I/2452 (gratis)",
+      "uid": "user_3M43ZyQmRJzTWGmv3PmkzGO0BOB",
+      "username": "bayu",
+      "meta": null
+    },
     {
       "id": "mwfc7igc-mwfc6d3d-02q8",
       "ts": 1794596143405,
@@ -11097,15 +11106,6 @@
       "text": "React 🕋☘️👍😂🩲 ke 0029Vb8fCYY0wajq36m8j42Y/853 (gratis)",
       "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
       "username": "rido4you",
-      "meta": null
-    },
-    {
-      "id": "mwan6e61-mwakx9oe-5wp5",
-      "ts": 1794312236089,
-      "type": "react",
-      "text": "React 🤣😱😜😝😂 ke 0029Vb91RMm3gvWfzwchei0o/963 (gratis)",
-      "uid": "user_3LeBTWjCk0IO8k5jXRzeA6ybnR5",
-      "username": "joko1209",
       "meta": null
     }
   ],
