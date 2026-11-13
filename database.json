@@ -8709,7 +8709,7 @@
       "payUrl": "https://app.buatqris.site/trx/G45V-26FJ-119L-13TR",
       "payAmount": 5253,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794548134183,
       "expiresAt": 1794575135000,
       "fulfilled": false
