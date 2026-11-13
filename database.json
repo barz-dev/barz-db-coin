@@ -8987,6 +8987,26 @@
       "createdAt": 1794548134183,
       "expiresAt": 1794575135000,
       "fulfilled": false
+    },
+    "5yO2jplvpgHj-ZHmDk2w": {
+      "id": "5yO2jplvpgHj-ZHmDk2w",
+      "ref": "RCH-MWF4MV1Z-5B283F",
+      "uid": "user_3M3dD8Y1hQzXUR5H2Q2dhOswJSG",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 1000,
+      "amount": 50000,
+      "label": "1.000 Limit",
+      "txId": "2MF5-268G-11RX-13LZ",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/2MF5-268G-11RX-13LZ.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/2MF5-268G-11RX-13LZ",
+      "payAmount": 50736,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794583422647,
+      "expiresAt": 1794610423000,
+      "fulfilled": false
     }
   },
   "settings": {
