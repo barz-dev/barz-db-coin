@@ -8065,13 +8065,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794590179973,
       "claimedCodes": [],
       "apiKey": "JOKOSW8SJDJ-GV3C8T8JCY5G",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -8925,6 +8925,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mweiy4hg-mweivxq1-45za",
+      "ts": 1794546996532,
+      "type": "react",
+      "text": "React 👻🗿🎯🥰💦 ke 0029VbCyZqAAzNbvuylKeK3T/6219 (gratis)",
+      "uid": "user_3M2S11t7sQZHiqHX6Zx0HVsOCri",
+      "username": "jokosw8sjdj",
+      "meta": null
+    },
     {
       "id": "mweixrph-mweivxq0-rl6m",
       "ts": 1794546979973,
@@ -10721,15 +10730,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/763",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mw9jka9z-mw9jj724-8546",
-      "ts": 1794245699591,
-      "type": "admin",
-      "text": "Paket SVIP (svip) disimpan · bulan Rp25.000",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
       "meta": null
     }
   ],
