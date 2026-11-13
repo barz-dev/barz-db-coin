@@ -9071,7 +9071,7 @@
       "payUrl": "https://app.buatqris.site/trx/2MF5-268G-11RX-13LZ",
       "payAmount": 50736,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794583422647,
       "expiresAt": 1794610423000,
       "fulfilled": false
