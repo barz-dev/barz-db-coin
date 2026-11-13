@@ -8161,13 +8161,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794606108328,
       "claimedCodes": [],
       "apiKey": "SEN-N4KJWVKABNQY",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9041,6 +9041,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mweu8eds-mweu2g2e-sjng",
+      "ts": 1794565951696,
+      "type": "react",
+      "text": "React 🔥🥶🥵 ke 0029VbEeee5LNSZyDYraki1n/104 (gratis)",
+      "uid": "user_3M2yJHpdsGM4zj6bBa1cI77X5bb",
+      "username": "sen",
+      "meta": null
+    },
     {
       "id": "mweu45jr-mweu2g1x-idmm",
       "ts": 1794565753623,
@@ -10837,15 +10846,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/766",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mw9tfb5v-mw9rv5wv-9ihf",
-      "ts": 1794262263619,
-      "type": "react",
-      "text": "React 😂👍😯🙏 ke 0029Vb7prb3Id7nFhOoAiJ3w/1525 (gratis)",
-      "uid": "user_3LeBTWjCk0IO8k5jXRzeA6ybnR5",
-      "username": "joko1209",
       "meta": null
     }
   ],
