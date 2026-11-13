@@ -8323,13 +8323,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794626567434,
       "claimedCodes": [],
       "apiKey": "JOKOW1-78F6G4BX3EEZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9179,6 +9179,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwf4loga-mwf4d4gw-mb2d",
+      "ts": 1794583367434,
+      "type": "react",
+      "text": "React 🗿 ke 0029VbEB2u2JJhzRNt3gFZ2Y/100 (gratis)",
+      "uid": "user_3M3dD8Y1hQzXUR5H2Q2dhOswJSG",
+      "username": "jokow1",
+      "meta": null
+    },
     {
       "id": "mwf3bjdo-mwf39hfk-p23r",
       "ts": 1794581214684,
@@ -10975,15 +10984,6 @@
       "text": "React 🤮 ke 0029VbEFmn8LI8YTRYICwX1C/308 (gratis)",
       "uid": "user_3LrGOty6iRHxiOwu0lbkjnTdOUY",
       "username": "zamz",
-      "meta": null
-    },
-    {
-      "id": "mwaibkrh-mwagsyki-opbn",
-      "ts": 1794304079837,
-      "type": "react",
-      "text": "React 👍🌧️🥶☕❌ ke 0029Vb7sdXpEAKWOBRBM1L07/384",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
       "meta": null
     }
   ],
