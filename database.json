@@ -8247,7 +8247,7 @@
       "id": "user_3M3AQ2pLZmO3gnrD6EEkwKxeVN6",
       "email": "agensaber@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "napoleon",
       "alias": "Agen",
       "avatar": false,
       "avatarVer": 0,
@@ -8260,7 +8260,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "NAPOLEON-X9DDNCH69VPJ",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -8498,7 +8498,8 @@
     "neil": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
     "sen": "user_3M2yJHpdsGM4zj6bBa1cI77X5bb",
     "yup": "user_3M30FJ2GlZxLe35TJS1QWVA9BhG",
-    "affanal": "user_3M38jWrId80xUFMjxZAkbpkLpee"
+    "affanal": "user_3M38jWrId80xUFMjxZAkbpkLpee",
+    "napoleon": "user_3M3AQ2pLZmO3gnrD6EEkwKxeVN6"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -8722,7 +8723,8 @@
     "NEIL-CZEGG638G9QE": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
     "SEN-N4KJWVKABNQY": "user_3M2yJHpdsGM4zj6bBa1cI77X5bb",
     "YUP-UN64P7Y3TFA8": "user_3M30FJ2GlZxLe35TJS1QWVA9BhG",
-    "AFFANAL-ATZRK2VFC2X2": "user_3M38jWrId80xUFMjxZAkbpkLpee"
+    "AFFANAL-ATZRK2VFC2X2": "user_3M38jWrId80xUFMjxZAkbpkLpee",
+    "NAPOLEON-X9DDNCH69VPJ": "user_3M3AQ2pLZmO3gnrD6EEkwKxeVN6"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
