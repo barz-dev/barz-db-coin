@@ -4173,16 +4173,16 @@
       "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1038,
+      "limit": 1036,
       "freeUsed": 0,
-      "freeResetAt": 1794437775446,
+      "freeResetAt": 1794620049755,
       "claimedCodes": [
         "FREE-100C"
       ],
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 34,
+      "totalReacts": 35,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9110,6 +9110,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwf0pzdo-mwf0o4l7-644h",
+      "ts": 1794576849756,
+      "type": "react",
+      "text": "React 👍😮 ke 0029Vb7sdXpEAKWOBRBM1L07/392",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mweyzv7h-mweyqyp8-r3cj",
       "ts": 1794573951677,
       "type": "react",
@@ -10905,15 +10914,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/770",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwaf4aqw-mwacarwx-wyxa",
-      "ts": 1794298701416,
-      "type": "react",
-      "text": "React 👍❤️ ke 0029Vb9CDvb05MUky41BPE3d/114 (gratis)",
-      "uid": "user_3LuKihYEhhKMfYaYRZrQoAcMol0",
-      "username": "maszriioffc",
       "meta": null
     }
   ],
