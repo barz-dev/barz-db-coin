@@ -9347,6 +9347,26 @@
       "createdAt": 1794658310423,
       "expiresAt": 1794685311000,
       "fulfilled": false
+    },
+    "QidneuUm9nHFP6VJzpgX": {
+      "id": "QidneuUm9nHFP6VJzpgX",
+      "ref": "RCH-MWGFEN0S-1BBE41",
+      "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 100,
+      "amount": 5000,
+      "label": "100 Limit",
+      "txId": "BCX9-26TB-114X-14WT",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/BCX9-26TB-114X-14WT.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/BCX9-26TB-114X-14WT",
+      "payAmount": 5263,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794661980940,
+      "expiresAt": 1794688981000,
+      "fulfilled": false
     }
   },
   "settings": {
