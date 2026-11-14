@@ -6847,13 +6847,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794711894253,
       "claimedCodes": [],
       "apiKey": "HGHGHVHHVH-A4R92ZVW2TBS",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9595,6 +9595,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwgjg7f2-mwgj6l4h-h6qn",
+      "ts": 1794668772494,
+      "type": "react",
+      "text": "React 🙏✨❤️🥳🤡 ke 0029VbBlBvUG8l59dNv8vr1H/124 (gratis)",
+      "uid": "user_3LrlptosheRkj01reyKLIUmlbpI",
+      "username": "hghghvhhvh",
+      "meta": null
+    },
+    {
       "id": "mwgjej1p-mwgj6l66-1gss",
       "ts": 1794668694253,
       "type": "react",
@@ -11391,15 +11400,6 @@
       "ts": 1794349130214,
       "type": "react",
       "text": "React 👍🥰👻🎯🗿 ke 0029VagGBAe1XquR4FAiXe09/7646 (gratis)",
-      "uid": "user_3LvxtfV9QDWaltTUz5htfFVq5lI",
-      "username": "falzz01",
-      "meta": null
-    },
-    {
-      "id": "mwb8uz6a-mwb6cxpp-f11a",
-      "ts": 1794348654994,
-      "type": "react",
-      "text": "React 👻🎯🥰👍❤️ ke 0029VagGBAe1XquR4FAiXe09/7646 (gratis)",
       "uid": "user_3LvxtfV9QDWaltTUz5htfFVq5lI",
       "username": "falzz01",
       "meta": null
