@@ -928,17 +928,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 107,
+      "totalReacts": 108,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 790,
+        "lastId": 791,
         "emoji": "🔥",
-        "reacted": 81,
+        "reacted": 82,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1794571854207
+        "lastAt": 1794655476883
       },
       "badge": {
         "icon": "biohazard",
@@ -9470,6 +9470,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwgbj8gj-mwgbgnb5-3kd5",
+      "ts": 1794655476883,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/791",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwfu1y27-mwfthpxy-6g21",
       "ts": 1794626116783,
       "type": "react",
@@ -11261,15 +11270,6 @@
     {
       "id": "mwaqiizv-mwaq0268-szz3",
       "ts": 1794317841067,
-      "type": "react",
-      "text": "React 👍🤒👀☕🌧️ ke 0029Vb7sdXpEAKWOBRBM1L07/387",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwaqicdk-mwaq0267-evc8",
-      "ts": 1794317832488,
       "type": "react",
       "text": "React 👍🤒👀☕🌧️ ke 0029Vb7sdXpEAKWOBRBM1L07/387",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
