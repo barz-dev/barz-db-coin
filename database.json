@@ -8163,13 +8163,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794606108328,
+      "freeUsed": 1,
+      "freeResetAt": 1794662598421,
       "claimedCodes": [],
       "apiKey": "SEN-N4KJWVKABNQY",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9301,6 +9301,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwfq1y51-mwfq1hnk-s59b",
+      "ts": 1794619398421,
+      "type": "react",
+      "text": "React 🤤🤤 ke 0029Vb7HfO8A2pLJ56N5TK2A/7244 (gratis)",
+      "uid": "user_3M2yJHpdsGM4zj6bBa1cI77X5bb",
+      "username": "sen",
+      "meta": null
+    },
     {
       "id": "mwfc7x5u-mwfc6d3e-op6w",
       "ts": 1794596162466,
@@ -11093,15 +11102,6 @@
     {
       "id": "mwaot6qb-mwakza1y-nkhs",
       "ts": 1794314979155,
-      "type": "react",
-      "text": "React 🕋☘️👍😂🩲 ke 0029Vb8fCYY0wajq36m8j42Y/853 (gratis)",
-      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
-      "username": "rido4you",
-      "meta": null
-    },
-    {
-      "id": "mwaorevi-mwakza1x-r7qw",
-      "ts": 1794314896398,
       "type": "react",
       "text": "React 🕋☘️👍😂🩲 ke 0029Vb8fCYY0wajq36m8j42Y/853 (gratis)",
       "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
