@@ -9309,7 +9309,7 @@
       "payUrl": "https://app.buatqris.site/trx/G6LT-26GW-11YE-147H",
       "payAmount": 5262,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794658310423,
       "expiresAt": 1794685311000,
       "fulfilled": false
