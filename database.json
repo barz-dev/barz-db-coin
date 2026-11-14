@@ -8739,13 +8739,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794733214861,
       "claimedCodes": [],
       "apiKey": "WEWE-GTD5MLUE8EEJ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9662,6 +9662,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgwrv2p-mwgwrq2c-upju",
+      "ts": 1794691151377,
+      "type": "react",
+      "text": "React 👍👏👻❤️ ke 0029Vb6meueA89McvY7vQo3d/9873 (gratis)",
+      "uid": "user_3M77uetMXqXn76JKMRk4wnNyqHc",
+      "username": "wewe",
+      "meta": null
+    },
     {
       "id": "mwgw6o4m-mwgw30qa-njnw",
       "ts": 1794690162598,
@@ -11458,15 +11467,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/778",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwc09ud4-mwbzqj6p-f7ia",
-      "ts": 1794394698232,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/394",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
