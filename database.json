@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "users": {
     "dev_1fuxth97n3m": {
       "coins": 0,
@@ -899,9 +899,9 @@
     "updatedAt": 1793639406329
   },
   "maintenanceInfo": {
-    "message": "Maintenance mingguan",
-    "endsAt": 0,
-    "startedAt": 0
+    "message": "Maintenance",
+    "endsAt": 1794657600000,
+    "startedAt": 1794643779956
   },
   "accounts": {
     "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q": {
