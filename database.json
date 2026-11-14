@@ -8483,13 +8483,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794668514176,
       "claimedCodes": [],
       "apiKey": "KENJI_17-S2GPFC6ESXH6",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9369,6 +9369,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwftkqrk-mwfthpxv-0ldw",
+      "ts": 1794625314176,
+      "type": "react",
+      "text": "React 🥰👍🔥🥳🗿 ke 0029Vb8tqYU0wajqCJ7i3F1N/456 (gratis)",
+      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
+      "username": "kenji_17",
+      "meta": null
+    },
     {
       "id": "mwftjpqj-mwfsdz9e-su5n",
       "ts": 1794625266187,
@@ -11165,15 +11174,6 @@
       "text": "React 😳💘😻💟😍 ke 0029VbDuaK2DzgT4zQkULB3H/1224 (gratis)",
       "uid": "user_3LuvIPvgQ4FOqcfnzq3cX0rtzsQ",
       "username": "chell",
-      "meta": null
-    },
-    {
-      "id": "mwapmawc-mwakza1z-duug",
-      "ts": 1794316337580,
-      "type": "react",
-      "text": "React 🤤🫦💦🥰👅 ke 0029Vb8trUhF6sn5RIQDJv3t/1558 (gratis)",
-      "uid": "user_3LuuY6qR8He7tmObYwF1zCQ9b95",
-      "username": "ambatukam",
       "meta": null
     }
   ],
