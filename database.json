@@ -8579,13 +8579,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794700905113,
       "claimedCodes": [],
       "apiKey": "YANTO-TCZ5V5SBAPT4",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9505,6 +9505,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgcww6y-mwgclwrb-n8mh",
+      "ts": 1794657793786,
+      "type": "react",
+      "text": "React 😱 ke 0029Vb7gmqU2phHUEIePRh24/3760 (gratis)",
+      "uid": "user_3M5zl5fYkt0uwjufu9LSzUdJBdo",
+      "username": "yanto",
+      "meta": null
+    },
     {
       "id": "mwgcuzru-mwgclwra-ynfg",
       "ts": 1794657705114,
@@ -11301,15 +11310,6 @@
       "text": "React ❤️❤️❤️❤️❤️ ke 0029VbCgkyQ4dTnNK55fwS1B/1881 (gratis)",
       "uid": "user_3Lv68IPZyei9tbGSqRx9DDib54p",
       "username": "senno_jr",
-      "meta": null
-    },
-    {
-      "id": "mwasuapr-mwar7kvf-blox",
-      "ts": 1794321749439,
-      "type": "autoreact",
-      "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/381",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
