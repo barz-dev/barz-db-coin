@@ -8707,13 +8707,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794719192412,
       "claimedCodes": [],
       "apiKey": "PUTRA_2000-BGQJTHXFHW8B",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9628,6 +9628,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgnqycd-mwgnolsi-ie19",
+      "ts": 1794675992413,
+      "type": "react",
+      "text": "React 🤭✌😯🥶🤣 ke 0029VbCdKwoK0IBpmjau8u0L/1284 (gratis)",
+      "uid": "user_3M6fIeRkOF6vZe7DQrlYM02Hhh1",
+      "username": "putra_2000",
+      "meta": null
+    },
     {
       "id": "mwgmnsie-mwgm6xzt-hbv1",
       "ts": 1794674165270,
@@ -11422,15 +11431,6 @@
       "ts": 1794393993103,
       "type": "autoreact",
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/393",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwbzu2xt-mwbzqj6n-asow",
-      "ts": 1794393962849,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/392",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
       "meta": null
