@@ -9466,7 +9466,7 @@
       "payUrl": "https://app.buatqris.site/trx/QVHL-26HH-112C-15XX",
       "payAmount": 5251,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794690244445,
       "expiresAt": 1794717245000,
       "fulfilled": false
