@@ -8642,14 +8642,14 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 100,
+      "limit": 98,
       "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeResetAt": 1794705330014,
       "claimedCodes": [],
       "apiKey": "ALEK-RFPPQUP37E2B",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9560,6 +9560,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgfhu1q-mwgfd984-pxbn",
+      "ts": 1794662130014,
+      "type": "react",
+      "text": "React 👻🤡😱😭⭐ ke 0029Vb7Yu2lJ3jutOcIHQs16/111",
+      "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
+      "username": "alek",
+      "meta": null
+    },
     {
       "id": "mwgffkid-mwgfemrk-j8tw",
       "ts": 1794662024341,
@@ -11359,15 +11368,6 @@
       "text": "React 😝🤩🔥😋👆 ke 0029Vb8gj2b60eBlLepLAL3a/113 (gratis)",
       "uid": "user_3LrfmU3VguUTKDqeCbun4WxqjHQ",
       "username": "der",
-      "meta": null
-    },
-    {
-      "id": "mwat4e98-mwapzbpl-wb5a",
-      "ts": 1794322220588,
-      "type": "react",
-      "text": "React ❤️❤️❤️❤️❤️ ke 0029VbCgkyQ4dTnNK55fwS1B/1881 (gratis)",
-      "uid": "user_3Lv68IPZyei9tbGSqRx9DDib54p",
-      "username": "senno_jr",
       "meta": null
     }
   ],
