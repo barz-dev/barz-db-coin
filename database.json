@@ -7040,12 +7040,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794668374916,
+      "freeResetAt": 1794715211215,
       "claimedCodes": [],
       "apiKey": "RIDO4YOU-5RSXNAH9HL2H",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 10,
+      "totalReacts": 11,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9595,6 +9595,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwgldmfj-mwgld6sj-9fwo",
+      "ts": 1794672011215,
+      "type": "react",
+      "text": "React 🕋☘️😂☝️ ke 0029Vb8fCYY0wajq36m8j42Y/886 (gratis)",
+      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
+      "username": "rido4you",
+      "meta": null
+    },
+    {
       "id": "mwgkcvz5-mwgjlh8d-sk6q",
       "ts": 1794670297313,
       "type": "autoreact",
@@ -11391,18 +11400,6 @@
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
       "meta": null
-    },
-    {
-      "id": "mwbx3p1a-mwbx3338-926f",
-      "ts": 1794389372542,
-      "type": "purchase",
-      "text": "Pembelian berhasil: 100 Limit · Rp5.285",
-      "uid": "user_3LxIIwVM6VpJXJfWv2TBhNoDDNW",
-      "username": "khleya26_",
-      "meta": {
-        "kind": "limit",
-        "amount": 5285
-      }
     }
   ],
   "pricing": {
