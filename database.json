@@ -8579,13 +8579,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794700905113,
       "claimedCodes": [],
       "apiKey": "YANTO-TCZ5V5SBAPT4",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9505,6 +9505,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgcuzru-mwgclwra-ynfg",
+      "ts": 1794657705114,
+      "type": "react",
+      "text": "React ❤️ ke 0029VbDOL4Q2f3EMAQqJne34/103 (gratis)",
+      "uid": "user_3M5zl5fYkt0uwjufu9LSzUdJBdo",
+      "username": "yanto",
+      "meta": null
+    },
     {
       "id": "mwgcrbae-mwgclws9-ufb3",
       "ts": 1794657533414,
@@ -11301,15 +11310,6 @@
       "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/381",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwasmsqs-mwaq026a-zu3v",
-      "ts": 1794321399556,
-      "type": "react",
-      "text": "React ❌ ke 0029VbCgkyQ4dTnNK55fwS1B/1869 (gratis)",
-      "uid": "user_3Lv4QkdIPSRc5HnGYGcEsDtZQUy",
-      "username": "senna_kyoujo",
       "meta": null
     }
   ],
