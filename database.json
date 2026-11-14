@@ -8131,13 +8131,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794703129626,
       "claimedCodes": [],
       "apiKey": "NEIL-CZEGG638G9QE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9594,6 +9594,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwghysbd-mwgh19by-r1mi",
+      "ts": 1794666280153,
+      "type": "react",
+      "text": "React 😭🥹👍😂❤ ke 0029VbCcM4WKrWR2zSGUiY43/488 (gratis)",
+      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
+      "username": "neil",
+      "meta": null
+    },
     {
       "id": "mwghrafp-mwghdahu-og0c",
       "ts": 1794665930389,
@@ -11393,15 +11402,6 @@
       "text": "React 👻🎯🥰👍 ke 0029VagGBAe1XquR4FAiXe09/7647 (gratis)",
       "uid": "user_3LvxtfV9QDWaltTUz5htfFVq5lI",
       "username": "falzz01",
-      "meta": null
-    },
-    {
-      "id": "mwawmnap-mwav1pbu-phze",
-      "ts": 1794328110961,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/386",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
