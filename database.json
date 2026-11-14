@@ -8611,13 +8611,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794700552390,
       "claimedCodes": [],
       "apiKey": "YGYTTA11-KY3EQ86VGMZL",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9503,6 +9503,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwgcnfly-mwgclws8-mgxa",
+      "ts": 1794657352390,
+      "type": "react",
+      "text": "React 👏🔥✨🎉 ke 0029Vb69d5x3wtb1QzMekD1F/153 (gratis)",
+      "uid": "user_3M63ZzDQu8w2nDuBvhGQlaxMr9e",
+      "username": "ygytta11",
+      "meta": null
+    },
     {
       "id": "mwgbm6s6-mwgbgnb9-3ooc",
       "ts": 1794655614678,
@@ -11295,15 +11304,6 @@
     {
       "id": "mwasmpgc-mwaq0269-hw2j",
       "ts": 1794321395292,
-      "type": "react",
-      "text": "React ❌ ke 0029VbCgkyQ4dTnNK55fwS1B/1869 (gratis)",
-      "uid": "user_3Lv4QkdIPSRc5HnGYGcEsDtZQUy",
-      "username": "senna_kyoujo",
-      "meta": null
-    },
-    {
-      "id": "mwaskxbl-mwapzbpj-0kpu",
-      "ts": 1794321312177,
       "type": "react",
       "text": "React ❌ ke 0029VbCgkyQ4dTnNK55fwS1B/1869 (gratis)",
       "uid": "user_3Lv4QkdIPSRc5HnGYGcEsDtZQUy",
