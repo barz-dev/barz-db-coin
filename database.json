@@ -8163,13 +8163,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794662598421,
       "claimedCodes": [],
       "apiKey": "SEN-N4KJWVKABNQY",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 5,
+      "totalReacts": 6,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9301,6 +9301,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwfq5m2l-mwfq1hjs-zk1y",
+      "ts": 1794619569405,
+      "type": "react",
+      "text": "React 🤤😑😶 ke 0029Vb7HfO8A2pLJ56N5TK2A/7244 (gratis)",
+      "uid": "user_3M2yJHpdsGM4zj6bBa1cI77X5bb",
+      "username": "sen",
+      "meta": null
+    },
     {
       "id": "mwfq3kdg-mwfq1hjr-7jd6",
       "ts": 1794619473892,
@@ -11097,15 +11106,6 @@
       "text": "React 🕋☘️😂💦👌 ke 0029Vb8fCYY0wajq36m8j42Y/854 (gratis)",
       "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
       "username": "rido4you",
-      "meta": null
-    },
-    {
-      "id": "mwaowtf1-mwan2tve-4ioe",
-      "ts": 1794315148525,
-      "type": "autoreact",
-      "text": "Auto react ✨🥰💕🍀🎀 ke 0029VbCOihwFCCoTtsKHkt0E/378",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
