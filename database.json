@@ -8837,7 +8837,7 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794770039053,
       "claimedCodes": [],
       "apiKey": "ARC-CYQN8BJT8JL7",
@@ -8845,7 +8845,7 @@
         "arc.wuaze.com"
       ],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9768,6 +9768,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwhi115o-mwhhzp0p-wxt3",
+      "ts": 1794726851100,
+      "type": "react",
+      "text": "React 🔥💦🗿🍀❤️ ke 0029VbCedYwDZ4Ljx94nRf2c/1409 (gratis)",
+      "uid": "user_3M8KDYggY9o4IkiTGRjBx3WOUBg",
+      "username": "arc",
+      "meta": null
+    },
     {
       "id": "mwhi0rv1-mwhhzp0o-6pvm",
       "ts": 1794726839053,
@@ -11564,15 +11573,6 @@
       "text": "React 👻😱💯💦 ke 0029VbE7BQp7tkjGjf4bb21Y/104 (gratis)",
       "uid": "user_3LqsZ8irwvKQE2FxqOC0SNS3lar",
       "username": "jawajawaa",
-      "meta": null
-    },
-    {
-      "id": "mwc29gr3-mwc24oes-dudu",
-      "ts": 1794398039823,
-      "type": "react",
-      "text": "React 🗿 ke 0029Vb9YPVNLo4hauoXytO2Z/101 (gratis)",
-      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
-      "username": "nizam",
       "meta": null
     }
   ],
