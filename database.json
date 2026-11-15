@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 3,
+      "usedCount": 4,
       "expiresAt": 1795338499576
     }
   },
@@ -8976,10 +8976,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 3,
       "freeResetAt": 1794791911817,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "SVCHOST-4XFRAM2URPZR",
       "allowedHosts": [],
       "banned": null,
@@ -9969,6 +9971,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwhwk5gs-mwhwk52f-4th6",
+      "ts": 1794751257772,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
+      "username": "svchost",
+      "meta": null
+    },
     {
       "id": "mwhwjx8a-mwhwgniw-95ql",
       "ts": 1794751247098,
@@ -11763,15 +11774,6 @@
       "ts": 1794462813457,
       "type": "react",
       "text": "React 🔥😳👍❤️😱 ke 0029Vb8Ahsm2phHR7AkyIx2O/1015",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwd4r85c-mwd216lw-yrfk",
-      "ts": 1794462693888,
-      "type": "react",
-      "text": "React 🔥💦❤️😱👍 ke 0029VbEK636KmCPXSBJ2Dq1a/148",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
