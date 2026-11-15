@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 2,
+      "usedCount": 3,
       "expiresAt": 1795338499576
     }
   },
@@ -1773,10 +1773,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 0,
       "freeResetAt": 0,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "KAHA-A8DJFQUC3TRY",
       "allowedHosts": [],
       "banned": null,
@@ -9834,6 +9836,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhps8bs-mwhps7zk-ktdn",
+      "ts": 1794739877416,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
+      "username": "kaha",
+      "meta": null
+    },
+    {
       "id": "mwhpe794-mwhoi1zc-xtoq",
       "ts": 1794739222840,
       "type": "admin",
@@ -11629,15 +11640,6 @@
       "text": "React 😭😮😂🍻💋 ke 0029Vb7sdXpEAKWOBRBM1L07/391",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwcoem6s-mwcmgwi8-f80m",
-      "ts": 1794435231700,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/412",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
