@@ -8967,7 +8967,7 @@
       "id": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
       "email": "bimazaidan51@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "svchost",
       "alias": "Bandit",
       "avatar": false,
       "avatarVer": 0,
@@ -8980,7 +8980,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "SVCHOST-4XFRAM2URPZR",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -9240,7 +9240,8 @@
     "arc": "user_3M8KDYggY9o4IkiTGRjBx3WOUBg",
     "sdd": "user_3M8TMn9mAEPsi4zVbXrgCRMqjp6",
     "tayoo": "user_3M8mCn3SFCv29GmEPYbZYeEUKaP",
-    "nizxxx": "user_3M8mmfTaYX6MNNIWPv1ozpiZExj"
+    "nizxxx": "user_3M8mmfTaYX6MNNIWPv1ozpiZExj",
+    "svchost": "user_3M92hCbBMJF2ngy6BShnPQyHWab"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -9486,7 +9487,8 @@
     "SDD-BZSZ5GZKHPXS": "user_3M8TMn9mAEPsi4zVbXrgCRMqjp6",
     "TES-GGJWRUQ3KX2V": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
     "TAYOO-VKJ6NA3T6X8M": "user_3M8mCn3SFCv29GmEPYbZYeEUKaP",
-    "NIZXXX-GXFNT8MKEH67": "user_3M8mmfTaYX6MNNIWPv1ozpiZExj"
+    "NIZXXX-GXFNT8MKEH67": "user_3M8mmfTaYX6MNNIWPv1ozpiZExj",
+    "SVCHOST-4XFRAM2URPZR": "user_3M92hCbBMJF2ngy6BShnPQyHWab"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
