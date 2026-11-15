@@ -965,7 +965,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 100,
+      "limit": 98,
       "freeUsed": 2,
       "freeResetAt": 1793656984728,
       "claimedCodes": [
@@ -976,7 +976,7 @@
       "apiKey": "TES-GGJWRUQ3KX2V",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
