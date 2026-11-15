@@ -7626,7 +7626,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 31,
+      "limit": 29,
       "freeUsed": 0,
       "freeResetAt": 1794828470544,
       "claimedCodes": [
@@ -7635,7 +7635,7 @@
       "apiKey": "JOKO_01-9UVYGCKKLJKM",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10208,6 +10208,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwigxlz9-mwigphtd-ialo",
+      "ts": 1794785478021,
+      "type": "react",
+      "text": "React 🔥🗿😍 ke 0029Vb9YPVNLo4hauoXytO2Z/104",
+      "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
+      "username": "joko_01",
+      "meta": null
+    },
+    {
       "id": "mwigxe1m-mwigur8s-z8ss",
       "ts": 1794785467738,
       "type": "autoreact",
@@ -12003,15 +12012,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/784",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwe5vasl-mwe5u9jg-fy4h",
-      "ts": 1794525029733,
-      "type": "react",
-      "text": "React 🔥😱❤️ ke 0029VbEUHRGEQIawYMNqMN10/101 (gratis)",
-      "uid": "user_3M0JdQaXNUrjfselEZ8QNZJ8xax",
-      "username": "tiamonika",
       "meta": null
     }
   ],
