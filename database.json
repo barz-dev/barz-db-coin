@@ -8271,13 +8271,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794612121560,
+      "freeUsed": 1,
+      "freeResetAt": 1794783253021,
       "claimedCodes": [],
       "apiKey": "NAPOLEON-X9DDNCH69VPJ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9835,6 +9835,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwhpvztp-mwhpretw-9e6l",
+      "ts": 1794740053021,
+      "type": "react",
+      "text": "React 😱 ke 0029Vb8CERg1SWstRkZdvJ3z/6563 (gratis)",
+      "uid": "user_3M3AQ2pLZmO3gnrD6EEkwKxeVN6",
+      "username": "napoleon",
+      "meta": null
+    },
     {
       "id": "mwhps8bs-mwhps7zk-ktdn",
       "ts": 1794739877416,
@@ -11629,15 +11638,6 @@
       "ts": 1794437130518,
       "type": "react",
       "text": "React 🗿😂😭❌💔 ke 0029Vb7sdXpEAKWOBRBM1L07/390",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwcpic7r-mwcpgvnw-48er",
-      "ts": 1794437085015,
-      "type": "react",
-      "text": "React 😭😮😂🍻💋 ke 0029Vb7sdXpEAKWOBRBM1L07/391",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
       "meta": null
