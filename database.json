@@ -9617,6 +9617,28 @@
       "createdAt": 1794734024109,
       "expiresAt": 1794761025000,
       "fulfilled": false
+    },
+    "ufqLzP6yFzlGASM5g9f5": {
+      "id": "ufqLzP6yFzlGASM5g9f5",
+      "ref": "RCH-MWHNYOZL-8E0FC4",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "gw": "buatqris",
+      "kind": "role",
+      "tier": "svip",
+      "months": 1,
+      "perm": false,
+      "amount": 23750,
+      "label": "1 Bulan SVIP · diskon 5%",
+      "txId": "CEGE-26TY-1174-15CF",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/CEGE-26TY-1174-15CF.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/CEGE-26TY-1174-15CF",
+      "payAmount": 24170,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794736819713,
+      "expiresAt": 1794763820000,
+      "fulfilled": false
     }
   },
   "settings": {
