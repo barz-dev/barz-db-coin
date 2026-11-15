@@ -7626,7 +7626,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 35,
+      "limit": 33,
       "freeUsed": 0,
       "freeResetAt": 1794828470544,
       "claimedCodes": [
@@ -7635,7 +7635,7 @@
       "apiKey": "JOKO_01-9UVYGCKKLJKM",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10208,6 +10208,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwigvh85-mwigphtb-oh23",
+      "ts": 1794785378549,
+      "type": "react",
+      "text": "React 🔥 ke 0029Vb8CERg1SWstRkZdvJ3z/6574",
+      "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
+      "username": "joko_01",
+      "meta": null
+    },
+    {
       "id": "mwigt5w0-mwigphta-asa0",
       "ts": 1794785270544,
       "type": "react",
@@ -12003,15 +12012,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/427",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwdk1zbj-mwdjc7kr-10pc",
-      "ts": 1794488389903,
-      "type": "react",
-      "text": "React ❤️💕😻🫠🫣 ke 0029Vb9WtChI7BeF1aUYHh1F/120 (gratis)",
-      "uid": "user_3M0Wd0dy8mjOgbOUc4YdrcoL4dq",
-      "username": "wina_joku",
       "meta": null
     }
   ],
