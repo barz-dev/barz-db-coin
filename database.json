@@ -4180,7 +4180,7 @@
       "roleExpiresAt": 1796656784508,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1026,
+      "limit": 1024,
       "freeUsed": 0,
       "freeResetAt": 1794779272323,
       "claimedCodes": [
@@ -4189,7 +4189,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 40,
+      "totalReacts": 41,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9808,6 +9808,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhnt9n3-mwhnh8ud-gazv",
+      "ts": 1794736566543,
+      "type": "react",
+      "text": "React 🔥 ke 0029Vb9NgI942DcWZOTUuS29/686",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwhnsu85-mwhnh8uc-9kmt",
       "ts": 1794736546565,
       "type": "react",
@@ -11597,15 +11606,6 @@
       "ts": 1794415815966,
       "type": "react",
       "text": "React 😑🤤😯🤑 ke 0029Vb8Ahsm2phHR7AkyIx2O/1003",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwcctl5a-mwcaubij-i6nq",
-      "ts": 1794415774798,
-      "type": "react",
-      "text": "React 🔥👆🥶😳🥵 ke 0029Vb8Ahsm2phHR7AkyIx2O/1004",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
