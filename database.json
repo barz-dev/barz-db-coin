@@ -4176,11 +4176,11 @@
       "avatar": true,
       "avatarVer": 1794064895996,
       "createdAt": 1793812658372,
-      "role": "vip",
-      "roleExpiresAt": 1796656784508,
+      "role": "svip",
+      "roleExpiresAt": 1797328934680,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 1024,
+      "limit": 11024,
       "freeUsed": 0,
       "freeResetAt": 1794779272323,
       "claimedCodes": [
@@ -9635,10 +9635,11 @@
       "payUrl": "https://app.buatqris.site/trx/CEGE-26TY-1174-15CF",
       "payAmount": 24170,
       "test": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": 1794736819713,
       "expiresAt": 1794763820000,
-      "fulfilled": false
+      "fulfilled": true,
+      "paidAt": 1794736934680
     }
   },
   "settings": {
@@ -9831,6 +9832,19 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwho15pw-mwho15e3-i6k2",
+      "ts": 1794736934708,
+      "type": "purchase",
+      "text": "Pembelian berhasil: 1 Bulan SVIP · diskon 5% · Rp24.170",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": {
+        "kind": "role",
+        "tier": "svip",
+        "amount": 24170
+      }
+    },
     {
       "id": "mwhnzzzp-mwhnh8ug-gepc",
       "ts": 1794736880629,
@@ -11623,15 +11637,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/404",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwceeh4r-mwcaubil-xq4i",
-      "ts": 1794418428987,
-      "type": "react",
-      "text": "React 👍❤️😍💯💦 ke 0029Vb8Ahsm2phHR7AkyIx2O/1014",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
