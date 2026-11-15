@@ -9834,6 +9834,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhp3grs-mwhoi1ur-jtwb",
+      "ts": 1794738721960,
+      "type": "admin",
+      "text": "Paket VIP (vip) disimpan · bulan Rp50.000",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mwhp3ezf-mwhoi1uq-26rx",
       "ts": 1794738719643,
       "type": "admin",
@@ -11630,15 +11639,6 @@
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
       "meta": null
-    },
-    {
-      "id": "mwcf92ie-mwcdjb96-i1vf",
-      "ts": 1794419856374,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/779",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
-      "meta": null
     }
   ],
   "pricing": {
@@ -11649,10 +11649,10 @@
     "plans": {
       "vip": {
         "name": "VIP",
-        "month": 15000,
-        "perm": 100000,
-        "limitMonth": 1000,
-        "limitPerm": 2500,
+        "month": 50000,
+        "perm": 300000,
+        "limitMonth": 2000,
+        "limitPerm": 25000,
         "discount": 5
       },
       "svip": {
