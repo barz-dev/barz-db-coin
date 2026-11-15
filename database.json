@@ -928,7 +928,7 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 111,
+      "totalReacts": 112,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
@@ -9733,6 +9733,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhgtyea-mwhgncng-1lo9",
+      "ts": 1794724841314,
+      "type": "react",
+      "text": "React 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/795 (owner)",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwgwrv2p-mwgwrq2c-upju",
       "ts": 1794691151377,
       "type": "react",
@@ -11528,15 +11537,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/395",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwc17x1n-mwbzqj6q-zw1y",
-      "ts": 1794396288011,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/778",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
