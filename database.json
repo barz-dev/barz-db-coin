@@ -9077,13 +9077,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794797990041,
       "claimedCodes": [],
       "apiKey": "RIDO4YOU_05-JXQPT5QWAAER",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10083,6 +10083,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwi0rnd2-mwi0ksas-k2l3",
+      "ts": 1794758326022,
+      "type": "react",
+      "text": "React 🕋☘️👍👌😂 ke 0029Vb8fCYY0wajq36m8j42Y/902 (gratis)",
+      "uid": "user_3M9EwYSb9OekPbUXAx4hyzCixRN",
+      "username": "rido4you_05",
+      "meta": null
+    },
     {
       "id": "mwi0lwkm-mwi0ksa4-3gpi",
       "ts": 1794758058022,
@@ -11877,15 +11886,6 @@
       "ts": 1794478625745,
       "type": "react",
       "text": "React 🤣 ke 0029VbDARs4BvvscWUlgcS1H/3428 (gratis)",
-      "uid": "user_3M043w57awszlQQUWN3w16eFbGh",
-      "username": "ruljir",
-      "meta": null
-    },
-    {
-      "id": "mwde7lbj-mwde7d6c-ahuo",
-      "ts": 1794478573999,
-      "type": "react",
-      "text": "React 🤣 ke 0029VbCpqK7ISTkDpyahj30Z/831 (gratis)",
       "uid": "user_3M043w57awszlQQUWN3w16eFbGh",
       "username": "ruljir",
       "meta": null
