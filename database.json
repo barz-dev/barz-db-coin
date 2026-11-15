@@ -1773,16 +1773,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 37,
+      "limit": 35,
       "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeResetAt": 1794783389548,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "KAHA-A8DJFQUC3TRY",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9836,6 +9836,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhpyx65-mwhprf0g-kyqr",
+      "ts": 1794740189549,
+      "type": "react",
+      "text": "React ❌ ke 0029VbDyayCHFxOv4eMSD645/140",
+      "uid": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
+      "username": "kaha",
+      "meta": null
+    },
+    {
       "id": "mwhpvztp-mwhpretw-9e6l",
       "ts": 1794740053021,
       "type": "react",
@@ -11629,15 +11638,6 @@
       "ts": 1794437167392,
       "type": "react",
       "text": "React 👍🌧️🥶 ke 0029Vb7sdXpEAKWOBRBM1L07/389",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwcpjbbq-mwcpgvnx-ycfk",
-      "ts": 1794437130518,
-      "type": "react",
-      "text": "React 🗿😂😭❌💔 ke 0029Vb7sdXpEAKWOBRBM1L07/390",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
       "meta": null
