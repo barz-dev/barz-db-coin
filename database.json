@@ -9885,7 +9885,7 @@
       "payUrl": "https://app.buatqris.site/trx/NFF5-269E-1178-1584",
       "payAmount": 2493,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794752282498,
       "expiresAt": 1794779283000,
       "fulfilled": false
