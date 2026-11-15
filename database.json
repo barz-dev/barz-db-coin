@@ -7784,15 +7784,15 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1794621792545,
+      "freeUsed": 1,
+      "freeResetAt": 1794779446266,
       "claimedCodes": [],
       "apiKey": "MARZZ-V76W324FYU84",
       "allowedHosts": [
         "whatsapp.com"
       ],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9808,6 +9808,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhnmeii-mwhnh8u9-uma5",
+      "ts": 1794736246266,
+      "type": "react",
+      "text": "React 🫢🚀☄️🤷😂 ke 0029VbDVdI259PwQQnvSuA0S/607 (gratis)",
+      "uid": "user_3M0J8P39TKRqhtHtwh5u4B8DxQR",
+      "username": "marzz",
+      "meta": null
+    },
+    {
       "id": "mwhnlbyh-mwhnh8re-h98f",
       "ts": 1794736196297,
       "type": "react",
@@ -11604,15 +11613,6 @@
         "tier": "vip",
         "amount": 12342
       }
-    },
-    {
-      "id": "mwccfx0t-mwcaubie-yedk",
-      "ts": 1794415137005,
-      "type": "react",
-      "text": "React 👍🥰🗿❤️ ke 0029Vb8Ahsm2phHR7AkyIx2O/1011 (gratis)",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
     }
   ],
   "pricing": {
