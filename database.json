@@ -9158,6 +9158,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3M9V0I4cHgc4POK9xp2Ns8ABE6l": {
+      "id": "user_3M9V0I4cHgc4POK9xp2Ns8ABE6l",
+      "email": "ezzypeazy8@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "ezzy",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794762548864,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
