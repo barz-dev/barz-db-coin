@@ -8807,7 +8807,9 @@
       "freeResetAt": 0,
       "claimedCodes": [],
       "apiKey": "FAZX-P4XXZN83A3ZY",
-      "allowedHosts": [],
+      "allowedHosts": [
+        "zefoy.com"
+      ],
       "banned": null,
       "totalReacts": 0,
       "legacyMigrated": true,
