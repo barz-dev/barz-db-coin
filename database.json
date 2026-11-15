@@ -8484,12 +8484,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794668514176,
+      "freeResetAt": 1794770113968,
       "claimedCodes": [],
       "apiKey": "KENJI_17-S2GPFC6ESXH6",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9768,6 +9768,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwhi2do0-mwhhzp0q-hj4g",
+      "ts": 1794726913968,
+      "type": "react",
+      "text": "React 🥰😍❤️🥳🔥 ke 0029Vb8tqYU0wajqCJ7i3F1N/508 (gratis)",
+      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
+      "username": "kenji_17",
+      "meta": null
+    },
     {
       "id": "mwhi115o-mwhhzp0p-wxt3",
       "ts": 1794726851100,
@@ -11564,15 +11573,6 @@
       "text": "React 🔥💦 ke 0029VbE7E4rGU3BNBeOkgp0y/205 (gratis)",
       "uid": "user_3LUhL3yYIzVLojjtufqfuzf3hN8",
       "username": "zarr",
-      "meta": null
-    },
-    {
-      "id": "mwc3ml7w-mwc3mawg-88ei",
-      "ts": 1794400331756,
-      "type": "react",
-      "text": "React 👻😱💯💦 ke 0029VbE7BQp7tkjGjf4bb21Y/104 (gratis)",
-      "uid": "user_3LqsZ8irwvKQE2FxqOC0SNS3lar",
-      "username": "jawajawaa",
       "meta": null
     }
   ],
