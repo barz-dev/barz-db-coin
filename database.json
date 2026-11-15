@@ -9831,7 +9831,7 @@
       "payUrl": "https://app.buatqris.site/trx/UBE2-26XM-113R-15T3",
       "payAmount": 47987,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794751344639,
       "expiresAt": 1794778345000,
       "fulfilled": false
