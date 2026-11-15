@@ -8841,7 +8841,9 @@
       "freeResetAt": 0,
       "claimedCodes": [],
       "apiKey": "ARC-CYQN8BJT8JL7",
-      "allowedHosts": [],
+      "allowedHosts": [
+        "arc.wuaze.com"
+      ],
       "banned": null,
       "totalReacts": 0,
       "legacyMigrated": true,
