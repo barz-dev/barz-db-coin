@@ -9075,13 +9075,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794797990041,
       "claimedCodes": [],
       "apiKey": "RIDO4YOU_05-JXQPT5QWAAER",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10081,6 +10081,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwhynuzd-mwhynbcx-h1li",
+      "ts": 1794754790041,
+      "type": "react",
+      "text": "React 😭🗿👍🕋😂 ke 0029Vb8fCYY0wajq36m8j42Y/901 (gratis)",
+      "uid": "user_3M9EwYSb9OekPbUXAx4hyzCixRN",
+      "username": "rido4you_05",
+      "meta": null
+    },
     {
       "id": "mwhy6awq-mwhxwdxr-um07",
       "ts": 1794753970875,
@@ -11877,15 +11886,6 @@
       "text": "React 💦🥰😍😱 ke 0029VbDwWVwJkK76aTq3vQ03/715 (gratis)",
       "uid": "user_3M05uoyeQN4oEyniqef4UKjeIx5",
       "username": "indomiee",
-      "meta": null
-    },
-    {
-      "id": "mwdbhgua-mwdbgzqd-slal",
-      "ts": 1794473995906,
-      "type": "react",
-      "text": "React 🔥👻 ke 0029Vb9ZOjFLNSaDFiv59f3k/104 (gratis)",
-      "uid": "user_3M043w57awszlQQUWN3w16eFbGh",
-      "username": "ruljir",
       "meta": null
     }
   ],
