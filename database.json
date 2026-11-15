@@ -965,7 +965,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 100,
       "freeUsed": 2,
       "freeResetAt": 1793656984728,
       "claimedCodes": [
@@ -9808,6 +9808,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhno4qu-mwhnnns7-yn44",
+      "ts": 1794736326918,
+      "type": "admin",
+      "text": "Limit @tes +100 → 100",
+      "uid": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
+      "username": "tes",
+      "meta": null
+    },
+    {
       "id": "mwhnmjgz-mwhnh8ub-xg0b",
       "ts": 1794736252691,
       "type": "react",
@@ -11597,15 +11606,6 @@
       "ts": 1794415661699,
       "type": "react",
       "text": "React 🤑👍👌🔥 ke 0029Vb8Ahsm2phHR7AkyIx2O/1008",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwccoi2g-mwcaubd3-aaq0",
-      "ts": 1794415537528,
-      "type": "react",
-      "text": "React 🔥🥶👍💯👻 ke 0029Vb8Ahsm2phHR7AkyIx2O/1009",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
