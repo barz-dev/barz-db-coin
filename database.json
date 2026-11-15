@@ -9834,6 +9834,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhpb5it-mwhoi1z7-1vce",
+      "ts": 1794739080629,
+      "type": "admin",
+      "text": "Pricing & diskon diperbarui",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mwhp4131-mwhoi1us-k4ne",
       "ts": 1794738748285,
       "type": "admin",
@@ -11630,22 +11639,13 @@
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "owner",
       "meta": null
-    },
-    {
-      "id": "mwcg0wt6-mwcg08qi-45ir",
-      "ts": 1794421155354,
-      "type": "admin",
-      "text": "Paket VIP (vip) disimpan · bulan Rp15.000",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
-      "meta": null
     }
   ],
   "pricing": {
     "limitPrice": 50,
-    "limitMin": 100,
+    "limitMin": 50,
     "limitMax": 10000000,
-    "limitDiscount": 0,
+    "limitDiscount": 5,
     "plans": {
       "vip": {
         "name": "VIP",
