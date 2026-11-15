@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 4,
+      "usedCount": 5,
       "expiresAt": 1795338499576
     }
   },
@@ -8494,10 +8494,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 2,
       "freeResetAt": 1794770113968,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "KENJI_17-S2GPFC6ESXH6",
       "allowedHosts": [],
       "banned": null,
@@ -10081,6 +10083,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwi0klgy-mwi0kl5o-b110",
+      "ts": 1794757996978,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
+      "username": "kenji_17",
+      "meta": null
+    },
     {
       "id": "mwi0cqhj-mwhyb3wp-kpoa",
       "ts": 1794757630231,
@@ -11877,15 +11888,6 @@
       "text": "React 👍💦❓😱 ke 0029Vb8z9wIH5JLv4iCXk73l/128",
       "uid": "user_3M083euk5lq7R0TPHcDdV1xupdJ",
       "username": "cihuy",
-      "meta": null
-    },
-    {
-      "id": "mwdc97bo-mwdaa4rw-z8x2",
-      "ts": 1794475289940,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/783",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
