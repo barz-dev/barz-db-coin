@@ -891,7 +891,14 @@
       ]
     }
   },
-  "redeems": {},
+  "redeems": {
+    "BARZ-BAIK": {
+      "coins": 37,
+      "maxUses": 50,
+      "usedCount": 0,
+      "expiresAt": 1795338499576
+    }
+  },
   "announcement": {
     "id": 5,
     "title": "plis minimal beli limit/role",
