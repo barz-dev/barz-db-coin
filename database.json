@@ -10009,7 +10009,7 @@
       "payUrl": "https://app.buatqris.site/trx/HZ94-26G7-11F2-15HJ",
       "payAmount": 2483,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794760420441,
       "expiresAt": 1794787421000,
       "fulfilled": false
