@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 115,
+      "totalReacts": 116,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 797,
+        "lastId": 798,
         "emoji": "🔥",
-        "reacted": 88,
+        "reacted": 89,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1794733863858
+        "lastAt": 1794757630231
       },
       "badge": {
         "icon": "biohazard",
@@ -10082,6 +10082,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwi0cqhj-mwhyb3wp-kpoa",
+      "ts": 1794757630231,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/798",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwhynuzd-mwhynbcx-h1li",
       "ts": 1794754790041,
       "type": "react",
@@ -11877,15 +11886,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/783",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwdc0znd-mwdbgzpj-592t",
-      "ts": 1794474906745,
-      "type": "react",
-      "text": "React 💦🥰😍😱 ke 0029VbDwWVwJkK76aTq3vQ03/715 (gratis)",
-      "uid": "user_3M05uoyeQN4oEyniqef4UKjeIx5",
-      "username": "indomiee",
       "meta": null
     }
   ],
