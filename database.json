@@ -9613,7 +9613,7 @@
       "payUrl": "https://app.buatqris.site/trx/SGF3-26EP-11RY-15D6",
       "payAmount": 500877,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794734024109,
       "expiresAt": 1794761025000,
       "fulfilled": false
