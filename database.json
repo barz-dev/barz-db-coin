@@ -9834,6 +9834,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhpe2dt-mwhoi1zb-guiv",
+      "ts": 1794739216529,
+      "type": "admin",
+      "text": "Pricing & diskon diperbarui",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "owner",
+      "meta": null
+    },
+    {
       "id": "mwhpbxwg-mwhoi1za-rpam",
       "ts": 1794739117408,
       "type": "admin",
@@ -11630,15 +11639,6 @@
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
       "meta": null
-    },
-    {
-      "id": "mwciqs2c-mwchxj9e-4p1l",
-      "ts": 1794425721492,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/410",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
-      "meta": null
     }
   ],
   "pricing": {
@@ -11664,7 +11664,7 @@
         "discount": 5
       }
     },
-    "reactCost": 1,
+    "reactCost": 2,
     "roleDiscount": 5
   }
 }
