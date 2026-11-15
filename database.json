@@ -7784,7 +7784,7 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794779446266,
       "claimedCodes": [],
       "apiKey": "MARZZ-V76W324FYU84",
@@ -7792,7 +7792,7 @@
         "whatsapp.com"
       ],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -9808,6 +9808,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwhnmh06-mwhnh8ua-e2uf",
+      "ts": 1794736249494,
+      "type": "react",
+      "text": "React 🫢🚀☄️🤷😂 ke 0029VbDVdI259PwQQnvSuA0S/607 (gratis)",
+      "uid": "user_3M0J8P39TKRqhtHtwh5u4B8DxQR",
+      "username": "marzz",
+      "meta": null
+    },
+    {
       "id": "mwhnmeii-mwhnh8u9-uma5",
       "ts": 1794736246266,
       "type": "react",
@@ -11600,19 +11609,6 @@
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
-    },
-    {
-      "id": "mwccka87-mwcck9uf-mufb",
-      "ts": 1794415340743,
-      "type": "purchase",
-      "text": "Pembelian berhasil: 1 Bulan VIP · diskon 20% · Rp12.342",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": {
-        "kind": "role",
-        "tier": "vip",
-        "amount": 12342
-      }
     }
   ],
   "pricing": {
