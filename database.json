@@ -9109,13 +9109,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794803505990,
       "claimedCodes": [],
       "apiKey": "WISNU-GNQ9PPHBK7LE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10117,6 +10117,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwi1y346-mwi1xt4y-mkkx",
+      "ts": 1794760305990,
+      "type": "react",
+      "text": "React 🥰👍😍❤️ ke 0029VbDsShOBVJl4HajfUD24/103 (gratis)",
+      "uid": "user_3M9QOteac1D8B7buCfJBPTuOjSr",
+      "username": "wisnu",
+      "meta": null
+    },
     {
       "id": "mwi0znq0-mwi0ksau-meif",
       "ts": 1794758699736,
@@ -11913,15 +11922,6 @@
       "text": "React 💦❤️🥰🔥✨ ke 0029VbEUHRGEQIawYMNqMN10/100 (gratis)",
       "uid": "user_3M0JdQaXNUrjfselEZ8QNZJ8xax",
       "username": "tiamonika",
-      "meta": null
-    },
-    {
-      "id": "mwdfq61v-mwdfo8mx-62qs",
-      "ts": 1794481120291,
-      "type": "react",
-      "text": "React 💩 ke 0029Vaj8XqW8Pgs8nExkiy1T/11175 (gratis)",
-      "uid": "user_3M0H14wjITJl3ictjUOUhcr2Jiy",
-      "username": "nada",
       "meta": null
     }
   ],
