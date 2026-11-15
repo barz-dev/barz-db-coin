@@ -9781,6 +9781,26 @@
       "expiresAt": 1794763820000,
       "fulfilled": true,
       "paidAt": 1794736934680
+    },
+    "CRiabKY5A5mooPTWEvik": {
+      "id": "CRiabKY5A5mooPTWEvik",
+      "ref": "RCH-MWHWM0HR-F7EBCF",
+      "uid": "user_3M983Gm5myY8fO0ZxYVdnpz4f0h",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 1000,
+      "amount": 47500,
+      "label": "1.000 Limit · diskon 5%",
+      "txId": "UBE2-26XM-113R-15T3",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/UBE2-26XM-113R-15T3.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/UBE2-26XM-113R-15T3",
+      "payAmount": 47987,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794751344639,
+      "expiresAt": 1794778345000,
+      "fulfilled": false
     }
   },
   "settings": {
