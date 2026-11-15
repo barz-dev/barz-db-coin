@@ -9094,6 +9094,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3M9QOteac1D8B7buCfJBPTuOjSr": {
+      "id": "user_3M9QOteac1D8B7buCfJBPTuOjSr",
+      "email": "ekawisnusaputra916@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Eka",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794760278645,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
