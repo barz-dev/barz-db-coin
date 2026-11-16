@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 6,
+      "usedCount": 7,
       "expiresAt": 1795338499576
     }
   },
@@ -3697,12 +3697,13 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [
         "TEST-VIP12",
-        "FREE-100C"
+        "FREE-100C",
+        "BARZ-BAIK"
       ],
       "apiKey": "MAY-UC4RSWMRLQYQ",
       "allowedHosts": [],
@@ -10208,6 +10209,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwik4tp3-mwik4td6-jvgz",
+      "ts": 1794790853463,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3LdPd6G76elZSkY9KPCzZvnGGic",
+      "username": "may",
+      "meta": null
+    },
+    {
       "id": "mwihc99p-mwigur8v-4cvt",
       "ts": 1794786161389,
       "type": "autoreact",
@@ -12003,15 +12013,6 @@
       "text": "React 🥰😍🥳✨ ke 0029VbEHa8SHwXbAfGeO9z2F/155 (gratis)",
       "uid": "user_3M1zPk96Nngl39XvO514GFgaEQA",
       "username": "yhyh",
-      "meta": null
-    },
-    {
-      "id": "mwebysve-mweavl5k-akvg",
-      "ts": 1794535270826,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/787",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
