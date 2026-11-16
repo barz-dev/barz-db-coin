@@ -9208,13 +9208,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1794836827982,
       "claimedCodes": [],
       "apiKey": "NIKO-UQW8RUFKSMPA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10432,6 +10432,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwj02uce-mwj0224m-bor3",
+      "ts": 1794817634846,
+      "type": "react",
+      "text": "React 💦🥰😱💗🫶 ke 0029Vb9clfK6mYPSqOhdgd2G/104 (gratis)",
+      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
+      "username": "niko",
+      "meta": null
+    },
     {
       "id": "mwiyyny2-mwiywe3n-q4u0",
       "ts": 1794815760314,
@@ -12228,15 +12237,6 @@
       "text": "React 👍🥰😍 ke 0029VbCcM4WKrWR2zSGUiY43/480 (gratis)",
       "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
       "username": "neil",
-      "meta": null
-    },
-    {
-      "id": "mwep9vyw-mwep6opw-a9vj",
-      "ts": 1794557623064,
-      "type": "react",
-      "text": "React 😂 ke 0029Vb6GMftElagnkDl6OW3E/4201 (gratis)",
-      "uid": "user_3Lp4XrGYHcyIOfucj5Heoo4AhTe",
-      "username": "jokowigantent",
       "meta": null
     }
   ],
