@@ -10118,6 +10118,26 @@
       "createdAt": 1794760420441,
       "expiresAt": 1794787421000,
       "fulfilled": false
+    },
+    "ZtW_mCSNw6ESGr7LZBo9": {
+      "id": "ZtW_mCSNw6ESGr7LZBo9",
+      "ref": "RCH-MWIRJOAE-7C352F",
+      "uid": "user_3M8mCn3SFCv29GmEPYbZYeEUKaP",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 1000,
+      "amount": 47500,
+      "label": "1.000 Limit · diskon 5%",
+      "txId": "22JW-26WS-11MW-16QG",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/22JW-26WS-11MW-16QG.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/22JW-26WS-11MW-16QG",
+      "payAmount": 47914,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1794803303606,
+      "expiresAt": 1794830304000,
+      "fulfilled": false
     }
   },
   "settings": {
