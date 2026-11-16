@@ -7563,14 +7563,14 @@
       "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 932,
+      "limit": 930,
       "freeUsed": 0,
       "freeResetAt": 1794854759927,
       "claimedCodes": [],
       "apiKey": "RASYA-59U2ZWDY86QZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 37,
+      "totalReacts": 38,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10365,6 +10365,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwiwigol-mwiwg7hs-ffvx",
+      "ts": 1794811645173,
+      "type": "react",
+      "text": "React ❤️🔥💯👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1028",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": null
+    },
+    {
       "id": "mwiwgmwn-mwiwg7hr-bmf1",
       "ts": 1794811559927,
       "type": "react",
@@ -12158,15 +12167,6 @@
       "ts": 1794544389078,
       "type": "react",
       "text": "React 👍👏☑️☑️👍 ke 0029VbEBK3X3WHTeVbtaeX1q/246 (gratis)",
-      "uid": "user_3Lm3F1uIGGuVJYu2nMMTTHQKwMW",
-      "username": "frro",
-      "meta": null
-    },
-    {
-      "id": "mwehcp1c-mwehbrhw-uepr",
-      "ts": 1794544317120,
-      "type": "react",
-      "text": "React 👍👏☑️☑️👍 ke 0029VbEBK3X3WHTeVbtaeX1q/9223372036854675000 (gratis)",
       "uid": "user_3Lm3F1uIGGuVJYu2nMMTTHQKwMW",
       "username": "frro",
       "meta": null
