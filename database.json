@@ -9193,6 +9193,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3MAVpfaPSlFi1PFFyNASwzEaYX4": {
+      "id": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
+      "email": "nikoxsadboy@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Niko x",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794793548366,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
