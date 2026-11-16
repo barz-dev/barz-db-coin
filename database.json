@@ -10168,7 +10168,7 @@
       "payUrl": "https://app.buatqris.site/trx/22JW-26WS-11MW-16QG",
       "payAmount": 47914,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794803303606,
       "expiresAt": 1794830304000,
       "fulfilled": false
