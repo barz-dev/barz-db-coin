@@ -9257,6 +9257,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3MAhn4WvuJULdlGCGmkFFMXICEn": {
+      "id": "user_3MAhn4WvuJULdlGCGmkFFMXICEn",
+      "email": "rahmawatidewi2106@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Dewi",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794799445651,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
