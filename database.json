@@ -6279,16 +6279,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 33,
-      "freeUsed": 3,
-      "freeResetAt": 1794779746565,
+      "limit": 31,
+      "freeUsed": 0,
+      "freeResetAt": 1794872131509,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "ZAMZZ-PLXYJRCHQ9JF",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 9,
+      "totalReacts": 10,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10504,6 +10504,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwj6sywl-mwj6qycu-ehf8",
+      "ts": 1794828931509,
+      "type": "react",
+      "text": "React 😹😂🐵🐶🦝 ke 0029Vb8pyFhBvvspAzskIE0l/2103",
+      "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
+      "username": "zamzz",
+      "meta": null
+    },
+    {
       "id": "mwj6a8vl-mwj68xuc-htky",
       "ts": 1794828057969,
       "type": "react",
@@ -12297,15 +12306,6 @@
       "ts": 1794576926799,
       "type": "react",
       "text": "React 👍💪💋😮🤭 ke 0029Vb7sdXpEAKWOBRBM1L07/393",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwf0pzdo-mwf0o4l7-644h",
-      "ts": 1794576849756,
-      "type": "react",
-      "text": "React 👍😮 ke 0029Vb7sdXpEAKWOBRBM1L07/392",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
       "meta": null
