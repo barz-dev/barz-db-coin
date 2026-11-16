@@ -9368,13 +9368,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1794858282658,
       "claimedCodes": [],
       "apiKey": "RESS-9HYGXR2JTDHZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10432,6 +10432,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwiylr41-mwixrvl8-p4cx",
+      "ts": 1794815157889,
+      "type": "react",
+      "text": "React 🥺🤍 ke 0029Vb21eI09xVJbddnaNV1F/271 (gratis)",
+      "uid": "user_3MBDOOgndbDAcOxZg94pW22dWf6",
+      "username": "ress",
+      "meta": null
+    },
     {
       "id": "mwiyk52a-mwixrvl7-1nju",
       "ts": 1794815082658,
@@ -12226,15 +12235,6 @@
       "ts": 1794547044790,
       "type": "react",
       "text": "React 🗿💯🔥💦🎉 ke 0029VbDbmYr6BIEYVeQe8i0S/232 (gratis)",
-      "uid": "user_3M2S11t7sQZHiqHX6Zx0HVsOCri",
-      "username": "jokosw8sjdj",
-      "meta": null
-    },
-    {
-      "id": "mweiy4hg-mweivxq1-45za",
-      "ts": 1794546996532,
-      "type": "react",
-      "text": "React 👻🗿🎯🥰💦 ke 0029VbCyZqAAzNbvuylKeK3T/6219 (gratis)",
       "uid": "user_3M2S11t7sQZHiqHX6Zx0HVsOCri",
       "username": "jokosw8sjdj",
       "meta": null
