@@ -8148,12 +8148,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794796916194,
+      "freeResetAt": 1794870720014,
       "claimedCodes": [],
       "apiKey": "NEIL-CZEGG638G9QE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10504,6 +10504,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwj5ypse-mwj5ygrf-hdqa",
+      "ts": 1794827520014,
+      "type": "react",
+      "text": "React 👍🔥😍👋👻 ke 0029VbCcM4WKrWR2zSGUiY43/498 (gratis)",
+      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
+      "username": "neil",
+      "meta": null
+    },
+    {
       "id": "mwj5ddyp-mwj5cjym-kyxq",
       "ts": 1794826524913,
       "type": "react",
@@ -12299,15 +12308,6 @@
       "text": "React 👍👻😍❤️🤣 ke 0029VbCcM4WKrWR2zSGUiY43/481 (gratis)",
       "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
       "username": "neil",
-      "meta": null
-    },
-    {
-      "id": "mwexqwsf-mwew27et-axxf",
-      "ts": 1794571854207,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/790",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
