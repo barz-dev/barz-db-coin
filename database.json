@@ -9208,7 +9208,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 37,
+      "limit": 35,
       "freeUsed": 3,
       "freeResetAt": 1794836827982,
       "claimedCodes": [
@@ -9217,7 +9217,7 @@
       "apiKey": "NIKO-UQW8RUFKSMPA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10469,6 +10469,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwj1prsx-mwj182vd-7sxp",
+      "ts": 1794820384257,
+      "type": "react",
+      "text": "React 💦😍🤤🫶💗 ke 0029VbE7rUvAInPrydoXdm27/263",
+      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
+      "username": "niko",
+      "meta": null
+    },
     {
       "id": "mwj1p36r-mwj1p2s8-dqzc",
       "ts": 1794820352355,
@@ -12265,15 +12274,6 @@
       "text": "React 🍀 ke 0029VazxZgj1SWt59GnLOb2a/24196 (gratis)",
       "uid": "user_3M38jWrId80xUFMjxZAkbpkLpee",
       "username": "affanal",
-      "meta": null
-    },
-    {
-      "id": "mweuvedz-mweusri4-zxzm",
-      "ts": 1794567024791,
-      "type": "react",
-      "text": "React 🦓🐍🦌🐔 ke 0029Vb7Tv0RCMY0BAGG13l0L/3188 (gratis)",
-      "uid": "user_3M2kVia8NZbo7ktgR9S9ibPvPka",
-      "username": "vika",
       "meta": null
     }
   ],
