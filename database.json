@@ -7573,13 +7573,13 @@
       "totalReacts": 42,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": false,
+        "enabled": true,
         "code": "0029Vb8Ahsm2phHR7AkyIx2O",
-        "lastId": 1002,
-        "emoji": "🗿🔥💯😍👏",
+        "lastId": 1029,
+        "emoji": "🔥👍❤️💯",
         "reacted": 0,
         "error": "",
-        "updatedAt": 1794415915801
+        "updatedAt": 1794818159752
       }
     },
     "user_3LyfRP9KMuY8TVbuw5qF4heB9Va": {
