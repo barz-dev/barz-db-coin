@@ -7573,7 +7573,7 @@
       "totalReacts": 46,
       "legacyMigrated": true,
       "autoReact": {
-        "enabled": true,
+        "enabled": false,
         "code": "0029Vb8Ahsm2phHR7AkyIx2O",
         "lastId": 1032,
         "emoji": "🔥👍❤️💯",
