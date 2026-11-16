@@ -8982,16 +8982,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 35,
-      "freeUsed": 3,
-      "freeResetAt": 1794791911817,
+      "limit": 33,
+      "freeUsed": 0,
+      "freeResetAt": 1794871257968,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "SVCHOST-4XFRAM2URPZR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10503,6 +10503,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwj6a8vl-mwj68xuc-htky",
+      "ts": 1794828057969,
+      "type": "react",
+      "text": "React 🤣💦🤡😍 ke 0029Vb7LkOMCnA7xaKdKPY2K/857",
+      "uid": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
+      "username": "svchost",
+      "meta": null
+    },
     {
       "id": "mwj5ypse-mwj5ygrf-hdqa",
       "ts": 1794827520014,
@@ -12299,15 +12308,6 @@
       "text": "React 👍😮 ke 0029Vb7sdXpEAKWOBRBM1L07/392",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mweyzv7h-mweyqyp8-r3cj",
-      "ts": 1794573951677,
-      "type": "react",
-      "text": "React 👍👻😍❤️🤣 ke 0029VbCcM4WKrWR2zSGUiY43/481 (gratis)",
-      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
-      "username": "neil",
       "meta": null
     }
   ],
