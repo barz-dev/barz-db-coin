@@ -9386,6 +9386,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3MBMVnVBZQzP0ZGGutwHlKLImWG": {
+      "id": "user_3MBMVnVBZQzP0ZGGutwHlKLImWG",
+      "email": "polosanmamba2k27@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "polosan mamba",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1794819537835,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
