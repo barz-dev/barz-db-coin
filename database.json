@@ -9208,16 +9208,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 31,
-      "freeUsed": 3,
-      "freeResetAt": 1794836827982,
+      "limit": 29,
+      "freeUsed": 0,
+      "freeResetAt": 1794966523024,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "NIKO-UQW8RUFKSMPA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10708,6 +10708,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwkr03v4-mwkqzsai-5bu0",
+      "ts": 1794923323024,
+      "type": "react",
+      "text": "React 😍👍🔥🗿❤️ ke 0029Vb9clfK6mYPSqOhdgd2G/109",
+      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
+      "username": "niko",
+      "meta": null
+    },
     {
       "id": "mwkpsvry-mwkpqh84-bhb3",
       "ts": 1794921306334,
@@ -12504,15 +12513,6 @@
       "text": "React 😱💯💦🔥👍 ke 0029VbEK636KmCPXSBJ2Dq1a/198",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwftkqrk-mwfthpxv-0ldw",
-      "ts": 1794625314176,
-      "type": "react",
-      "text": "React 🥰👍🔥🥳🗿 ke 0029Vb8tqYU0wajqCJ7i3F1N/456 (gratis)",
-      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
-      "username": "kenji_17",
       "meta": null
     }
   ],
