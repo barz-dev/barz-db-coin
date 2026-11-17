@@ -5698,24 +5698,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2074,
+      "limit": 2072,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 213,
+      "totalReacts": 214,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 449,
+        "lastId": 450,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 181,
+        "reacted": 182,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1794823923395
+        "lastAt": 1794920283924
       },
       "badge": {
         "icon": "crown",
@@ -10700,6 +10700,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwkp6yvo-mwkow47v-aij8",
+      "ts": 1794920283925,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/450",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwkow9fc-mwkow1a5-a6py",
       "ts": 1794919784376,
       "type": "react",
@@ -12495,15 +12504,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/437",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwfthrb8-mwfthq9t-alub",
-      "ts": 1794625174916,
-      "type": "react",
-      "text": "React 🕋☘️😂👍😍 ke 0029Vb8fCYY0wajq36m8j42Y/875 (gratis)",
-      "uid": "user_3Lt5xvad5alIurmJ6O0a69FPiwR",
-      "username": "rido4you",
       "meta": null
     }
   ],
