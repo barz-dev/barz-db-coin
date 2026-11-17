@@ -935,7 +935,7 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 119,
+      "totalReacts": 120,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
@@ -10743,6 +10743,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwkuyoqk-mwkuu376-7zka",
+      "ts": 1794929975228,
+      "type": "react",
+      "text": "React 👍 ke 0029Vb8KMS32phHVPVQEXu1c/800 (owner)",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwkr1l5y-mwkqzsaj-u0zi",
       "ts": 1794923392102,
       "type": "react",
@@ -12536,15 +12545,6 @@
       "ts": 1794626116783,
       "type": "react",
       "text": "React 🔥❤️👍💯🥶 ke 0029Vb9Vt2A1XquQdI5ZuG2b/134",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwftyio0-mwfthpxx-evj0",
-      "ts": 1794625956864,
-      "type": "react",
-      "text": "React ❤️👍😯🥶 ke 0029VbEK636KmCPXSBJ2Dq1a/199",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
