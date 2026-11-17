@@ -9627,13 +9627,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1794962172749,
       "claimedCodes": [],
       "apiKey": "PARKER-LZM8T8FDE5NE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10699,6 +10699,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwkoev65-mwko8czj-wojs",
+      "ts": 1794918972749,
+      "type": "react",
+      "text": "React 💕😍🥰😘🤩 ke 0029Vb9S99V9hXFAKwlYIb1n/115 (gratis)",
+      "uid": "user_3MEbwH7uDSH8JijslYR7gdlKyRU",
+      "username": "parker",
+      "meta": null
+    },
     {
       "id": "mwkoeq2i-mwko8czt-f05w",
       "ts": 1794918966138,
@@ -12491,15 +12500,6 @@
     {
       "id": "mwf6jed6-mwf6fzq9-t14u",
       "ts": 1794586620282,
-      "type": "react",
-      "text": "React 💃😜🤟😈😭 ke 0029VbDHGLqK5cDKxuYwb233/1054 (gratis)",
-      "uid": "user_3M3k3gzDQkNQppyly0qg8i5RRvp",
-      "username": "abibuy2",
-      "meta": null
-    },
-    {
-      "id": "mwf6hx3f-mwf6fzog-rd81",
-      "ts": 1794586551243,
       "type": "react",
       "text": "React 💃😜🤟😈😭 ke 0029VbDHGLqK5cDKxuYwb233/1054 (gratis)",
       "uid": "user_3M3k3gzDQkNQppyly0qg8i5RRvp",
