@@ -4183,9 +4183,9 @@
       "roleExpiresAt": 1797328934680,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 11059,
+      "limit": 11057,
       "freeUsed": 0,
-      "freeResetAt": 1794779272323,
+      "freeResetAt": 1794964506334,
       "claimedCodes": [
         "FREE-100C",
         "BARZ-BAIK"
@@ -4193,7 +4193,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 42,
+      "totalReacts": 43,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -10709,6 +10709,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwkpsvry-mwkpqh84-bhb3",
+      "ts": 1794921306334,
+      "type": "react",
+      "text": "React 👍🔥 ke 0029Vb7sdXpEAKWOBRBM1L07/405",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwkp6yvo-mwkow47v-aij8",
       "ts": 1794920283925,
       "type": "autoreact",
@@ -12504,15 +12513,6 @@
       "text": "React 🥰👍🔥🥳🗿 ke 0029Vb8tqYU0wajqCJ7i3F1N/456 (gratis)",
       "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
       "username": "kenji_17",
-      "meta": null
-    },
-    {
-      "id": "mwftjpqj-mwfsdz9e-su5n",
-      "ts": 1794625266187,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/437",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
