@@ -5698,24 +5698,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2056,
+      "limit": 2054,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 222,
+      "totalReacts": 223,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 457,
+        "lastId": 458,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 189,
+        "reacted": 190,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1794995498139
+        "lastAt": 1795002079875
       },
       "badge": {
         "icon": "crown",
@@ -11027,6 +11027,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwm1w51g-mwm04fbx-gsr9",
+      "ts": 1795002079876,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/458",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwm16qx1-mwm15zqz-uvpr",
       "ts": 1795000895173,
       "type": "react",
@@ -12820,18 +12829,6 @@
       "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
       "username": "alek",
       "meta": null
-    },
-    {
-      "id": "mwgffkid-mwgfemrk-j8tw",
-      "ts": 1794662024341,
-      "type": "purchase",
-      "text": "Pembelian berhasil: 100 Limit · Rp5.263",
-      "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
-      "username": "alek",
-      "meta": {
-        "kind": "limit",
-        "amount": 5263
-      }
     }
   ],
   "pricing": {
