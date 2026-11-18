@@ -9436,12 +9436,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794866014992,
+      "freeResetAt": 1795046643543,
       "claimedCodes": [],
       "apiKey": "RYAN-ZHF2D4V3G3DY",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11026,6 +11026,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwm2pd94-mwm2p3om-upb4",
+      "ts": 1795003443544,
+      "type": "react",
+      "text": "React 🍆 ke 0029VbBYidPEwEjuQI5vCw01/2291 (gratis)",
+      "uid": "user_3MBT3hgIhTLMFutMWzpYWmPXWgI",
+      "username": "ryan",
+      "meta": null
+    },
     {
       "id": "mwm25xer-mwm25ixe-td8t",
       "ts": 1795002536547,
@@ -12819,15 +12828,6 @@
       "text": "React 👻🤡😱😭⭐ ke 0029VbE9hoB6buMDuLO4cW14/226",
       "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
       "username": "alek",
-      "meta": null
-    },
-    {
-      "id": "mwgfjbl6-mwgbgnba-2awx",
-      "ts": 1794662199402,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/440",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
