@@ -975,7 +975,11 @@
       ],
       "apiKey": "TES-3K32AQ9MFD4A",
       "allowedHosts": [],
-      "banned": null,
+      "banned": {
+        "reason": "tes",
+        "at": 1795022286389,
+        "until": 1795108686389
+      },
       "totalReacts": 6,
       "legacyMigrated": true,
       "autoReact": {
@@ -11065,6 +11069,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwmdx8hi-mwmdwsoh-h5vq",
+      "ts": 1795022286390,
+      "type": "admin",
+      "text": "BAN @tes 1h — tes",
+      "uid": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
+      "username": "tes",
+      "meta": null
+    },
+    {
       "id": "mwmatoda-mwmabhm4-ylk9",
       "ts": 1795017081502,
       "type": "react",
@@ -12853,15 +12866,6 @@
     {
       "id": "mwhi115o-mwhhzp0p-wxt3",
       "ts": 1794726851100,
-      "type": "react",
-      "text": "React 🔥💦🗿🍀❤️ ke 0029VbCedYwDZ4Ljx94nRf2c/1409 (gratis)",
-      "uid": "user_3M8KDYggY9o4IkiTGRjBx3WOUBg",
-      "username": "arc",
-      "meta": null
-    },
-    {
-      "id": "mwhi0rv1-mwhhzp0o-6pvm",
-      "ts": 1794726839053,
       "type": "react",
       "text": "React 🔥💦🗿🍀❤️ ke 0029VbCedYwDZ4Ljx94nRf2c/1409 (gratis)",
       "uid": "user_3M8KDYggY9o4IkiTGRjBx3WOUBg",
