@@ -10053,13 +10053,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795087705468,
       "claimedCodes": [],
       "apiKey": "FIKRI_12-JFWMUK6Z9HV7",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11102,6 +11102,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwmr5gu4-mwmr2ttj-vg09",
+      "ts": 1795044505468,
+      "type": "react",
+      "text": "React 🙏🤣👍🗿 ke 0029VbEWL9eGufIoyVww4O2e/100 (gratis)",
+      "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
+      "username": "fikri_12",
+      "meta": null
+    },
     {
       "id": "mwmo53gg-mwmo35c0-ux1z",
       "ts": 1795039449280,
@@ -12895,15 +12904,6 @@
       "text": "React 🦌🐔🍞🍶💀 ke 0029Vb7Tv0RCMY0BAGG13l0L/3203 (gratis)",
       "uid": "user_3M2kVia8NZbo7ktgR9S9ibPvPka",
       "username": "vika",
-      "meta": null
-    },
-    {
-      "id": "mwhi33t8-mwhhzp7o-4lck",
-      "ts": 1794726947852,
-      "type": "react",
-      "text": "React ❤️🔥💯🎉⭐ ke 0029Vb8tqYU0wajqCJ7i3F1N/508 (gratis)",
-      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
-      "username": "kenji_17",
       "meta": null
     }
   ],
