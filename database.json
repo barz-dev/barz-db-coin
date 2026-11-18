@@ -10651,7 +10651,7 @@
       "payUrl": "https://app.buatqris.site/trx/DPRX-26KS-11UB-18Q4",
       "payAmount": 2482,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1794970920961,
       "expiresAt": 1794997922000,
       "fulfilled": false
