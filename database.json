@@ -7628,16 +7628,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 25,
+      "limit": 23,
       "freeUsed": 0,
-      "freeResetAt": 1794828470544,
+      "freeResetAt": 1795047822016,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "JOKO_01-9UVYGCKKLJKM",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11027,6 +11027,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwm3emkg-mwm3cfrw-i0zh",
+      "ts": 1795004622016,
+      "type": "react",
+      "text": "React 🤣 ke 0029VbDdjrs1noyyXocUGL1s/863",
+      "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
+      "username": "joko_01",
+      "meta": null
+    },
+    {
       "id": "mwm2pd94-mwm2p3om-upb4",
       "ts": 1795003443544,
       "type": "react",
@@ -12819,15 +12828,6 @@
       "text": "React 😹🖕 ke 0029VbEITO0IHphGqm3SKc3W/100 (gratis)",
       "uid": "user_3LrGOty6iRHxiOwu0lbkjnTdOUY",
       "username": "zamz",
-      "meta": null
-    },
-    {
-      "id": "mwgfk9bd-mwgfd985-wg34",
-      "ts": 1794662243113,
-      "type": "react",
-      "text": "React 👻🤡😱😭⭐ ke 0029VbE9hoB6buMDuLO4cW14/226",
-      "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
-      "username": "alek",
       "meta": null
     }
   ],
