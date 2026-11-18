@@ -10053,13 +10053,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795087705468,
       "claimedCodes": [],
       "apiKey": "FIKRI_12-JFWMUK6Z9HV7",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11102,6 +11102,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwmr9kxl-mwmr2tvo-8ssj",
+      "ts": 1795044697401,
+      "type": "react",
+      "text": "React 🤣 ke 0029VbEWL9eGufIoyVww4O2e/102 (gratis)",
+      "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
+      "username": "fikri_12",
+      "meta": null
+    },
     {
       "id": "mwmr8cme-mwmr2tvn-d5st",
       "ts": 1795044639974,
@@ -12895,15 +12904,6 @@
       "text": "React 💯❤️🗿🔥👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1023",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwhklu86-mwhkli3w-dwq9",
-      "ts": 1794731181126,
-      "type": "react",
-      "text": "React ❤️👍🔥🗿 ke 0029VbDI9ie4yltN5rTXG22s/2527 (gratis)",
-      "uid": "user_3M8TMn9mAEPsi4zVbXrgCRMqjp6",
-      "username": "sdd",
       "meta": null
     }
   ],
