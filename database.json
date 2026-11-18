@@ -9875,7 +9875,7 @@
       "id": "user_3MGj3DswNNGmZgEGjsC4BngVD9U",
       "email": "senpaifanzzz@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "fanzzz",
       "alias": "senpai",
       "avatar": false,
       "avatarVer": 0,
@@ -9888,7 +9888,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "FANZZZ-7W82SBPLHKR9",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -10173,7 +10173,8 @@
     "iccang": "user_3MGCjXTFr7gJoduudGoESkuxYis",
     "aldos": "user_3MGEreVZkqJZK8OYNJXkKEupzS0",
     "algame": "user_3MGIuyRCItiTFatT0lKG3fe69gL",
-    "zack": "user_3MGYJOKkRx79DsBRfF1X36sUbh0"
+    "zack": "user_3MGYJOKkRx79DsBRfF1X36sUbh0",
+    "fanzzz": "user_3MGj3DswNNGmZgEGjsC4BngVD9U"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -10444,7 +10445,8 @@
     "ICCANG-DEMUZL8WTYQA": "user_3MGCjXTFr7gJoduudGoESkuxYis",
     "ALDOS-NEBPATBHAXZU": "user_3MGEreVZkqJZK8OYNJXkKEupzS0",
     "ALGAME-MB34DGQSDTCG": "user_3MGIuyRCItiTFatT0lKG3fe69gL",
-    "ZACK-BTRYW6SRHGMV": "user_3MGYJOKkRx79DsBRfF1X36sUbh0"
+    "ZACK-BTRYW6SRHGMV": "user_3MGYJOKkRx79DsBRfF1X36sUbh0",
+    "FANZZZ-7W82SBPLHKR9": "user_3MGj3DswNNGmZgEGjsC4BngVD9U"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
