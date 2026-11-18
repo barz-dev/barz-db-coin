@@ -9981,13 +9981,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795044088944,
       "claimedCodes": [],
       "apiKey": "QOSIM-4CBPFAWWS59N",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11026,6 +11026,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwm16m41-mwm15zqy-il25",
+      "ts": 1795000888945,
+      "type": "react",
+      "text": "React 🥳👍🔥🥰😍 ke 0029VbBljSL3WHTSM5fDjC3H/580 (gratis)",
+      "uid": "user_3MHHzDAli5mOXdqouXZ2ephS1oN",
+      "username": "qosim",
+      "meta": null
+    },
     {
       "id": "mwlxz2jf-mwlwbu7i-my20",
       "ts": 1794995498139,
@@ -12822,15 +12831,6 @@
       "text": "React 👍💦😍❤️🥰 ke 0029VbCcM4WKrWR2zSGUiY43/487 (gratis)",
       "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
       "username": "neil",
-      "meta": null
-    },
-    {
-      "id": "mwgcww6y-mwgclwrb-n8mh",
-      "ts": 1794657793786,
-      "type": "react",
-      "text": "React 😱 ke 0029Vb7gmqU2phHUEIePRh24/3760 (gratis)",
-      "uid": "user_3M5zl5fYkt0uwjufu9LSzUdJBdo",
-      "username": "yanto",
       "meta": null
     }
   ],
