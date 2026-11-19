@@ -4187,9 +4187,9 @@
       "roleExpiresAt": 1797328934680,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 11057,
+      "limit": 11055,
       "freeUsed": 0,
-      "freeResetAt": 1794964506334,
+      "freeResetAt": 1795134547223,
       "claimedCodes": [
         "FREE-100C",
         "BARZ-BAIK"
@@ -4197,7 +4197,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 43,
+      "totalReacts": 44,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11392,6 +11392,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnj1g5z-mwnikrd3-wxnw",
+      "ts": 1795091347223,
+      "type": "react",
+      "text": "React 👍🥰🔥 ke 0029VbDZQsrGOj9woGleO43x/437",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwnit9ei-mwninqo4-wc21",
       "ts": 1795090965210,
       "type": "redeem",
@@ -13184,19 +13193,6 @@
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
       "meta": null
-    },
-    {
-      "id": "mwho15pw-mwho15e3-i6k2",
-      "ts": 1794736934708,
-      "type": "purchase",
-      "text": "Pembelian berhasil: 1 Bulan SVIP · diskon 5% · Rp24.170",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": {
-        "kind": "role",
-        "tier": "svip",
-        "amount": 24170
-      }
     }
   ],
   "pricing": {
