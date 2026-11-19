@@ -11308,7 +11308,7 @@
       "payUrl": "https://app.buatqris.site/trx/AFF9-26VW-1199-19JH",
       "payAmount": 2547,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795095700713,
       "expiresAt": 1795122701000,
       "fulfilled": false
