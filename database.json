@@ -9473,13 +9473,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795115804003,
       "claimedCodes": [],
       "apiKey": "NOPAL-YL62AJSCY56Y",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11240,6 +11240,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwn7w2wd-mwn7v9g4-73pe",
+      "ts": 1795072620973,
+      "type": "react",
+      "text": "React 🎯🥰😍🥳💦 ke 0029Vb9WqSg3AzNYlIZfGz3c/140 (gratis)",
+      "uid": "user_3MC7fcwnwvj7eveEKk8aqQtfF9S",
+      "username": "nopal",
+      "meta": null
+    },
     {
       "id": "mwn7vyku-mwn7v9g3-aalu",
       "ts": 1795072615374,
@@ -13031,15 +13040,6 @@
       "ts": 1794736196297,
       "type": "react",
       "text": "React 👍 ke 0029Vb7sdXpEAKWOBRBM1L07/398",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwhnioar-mwhnh8rd-btpv",
-      "ts": 1794736072323,
-      "type": "react",
-      "text": "React 👍 ke 0029Vb70nhWDDmFW0T7fAh2u/1741",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
       "meta": null
