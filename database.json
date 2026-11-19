@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 12,
+      "usedCount": 13,
       "expiresAt": 1795338499576
     }
   },
@@ -9344,10 +9344,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 1,
       "freeResetAt": 1795045736547,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "KAII_-CGZA75XQQUK3",
       "allowedHosts": [],
       "banned": null,
@@ -11390,6 +11392,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnit9ei-mwninqo4-wc21",
+      "ts": 1795090965210,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3MBAlEqvz5KIgIRSCf89D7UkojL",
+      "username": "kaii_",
+      "meta": null
+    },
+    {
       "id": "mwnirpps-mwnikrd2-g5zp",
       "ts": 1795090893040,
       "type": "react",
@@ -13186,15 +13197,6 @@
         "tier": "svip",
         "amount": 24170
       }
-    },
-    {
-      "id": "mwhnzzzp-mwhnh8ug-gepc",
-      "ts": 1794736880629,
-      "type": "react",
-      "text": "React 🔥 ke 0029Vb8bRH21dAwBdPZc2v1n/1598",
-      "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
-      "username": "zamzz",
-      "meta": null
     }
   ],
   "pricing": {
