@@ -11224,6 +11224,26 @@
       "expiresAt": 1795108955000,
       "fulfilled": true,
       "paidAt": 1795082013903
+    },
+    "gkO1TliH91IJv_7FcSBv": {
+      "id": "gkO1TliH91IJv_7FcSBv",
+      "ref": "RCH-MWNLMRC9-7CB82D",
+      "uid": "user_3MKNLaQybvONPAPAjj1ckG2Af89",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 50,
+      "amount": 2375,
+      "label": "50 Limit · diskon 5%",
+      "txId": "AFF9-26VW-1199-19JH",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/AFF9-26VW-1199-19JH.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/AFF9-26VW-1199-19JH",
+      "payAmount": 2547,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1795095700713,
+      "expiresAt": 1795122701000,
+      "fulfilled": false
     }
   },
   "settings": {
