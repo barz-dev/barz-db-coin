@@ -7567,14 +7567,14 @@
       "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 878,
+      "limit": 876,
       "freeUsed": 0,
       "freeResetAt": 1795133838050,
       "claimedCodes": [],
       "apiKey": "RASYA-59U2ZWDY86QZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 64,
+      "totalReacts": 65,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11446,6 +11446,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnlpmvq-mwnldehp-lv9e",
+      "ts": 1795095834902,
+      "type": "react",
+      "text": "React 👆✅🔥👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1058",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": null
+    },
+    {
       "id": "mwnlk65x-mwnldeie-zeul",
       "ts": 1795095579957,
       "type": "react",
@@ -13233,15 +13242,6 @@
     {
       "id": "mwhpe2dt-mwhoi1zb-guiv",
       "ts": 1794739216529,
-      "type": "admin",
-      "text": "Pricing & diskon diperbarui",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mwhpbxwg-mwhoi1za-rpam",
-      "ts": 1794739117408,
       "type": "admin",
       "text": "Pricing & diskon diperbarui",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
