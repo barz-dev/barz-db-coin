@@ -4187,7 +4187,7 @@
       "roleExpiresAt": 1797328934680,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 11053,
+      "limit": 11051,
       "freeUsed": 0,
       "freeResetAt": 1795134547223,
       "claimedCodes": [
@@ -4197,7 +4197,7 @@
       "apiKey": "PIANN_-492NRR5MCSVP",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 45,
+      "totalReacts": 46,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11392,6 +11392,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnji824-mwnikrd6-qp8g",
+      "ts": 1795092129868,
+      "type": "react",
+      "text": "React 👍❤️🙏 ke 0029VbEEgfZ96H4XFqcUqJ2A/542",
+      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
+      "username": "piann_",
+      "meta": null
+    },
+    {
       "id": "mwnjhpxv-mwnikrd5-3wyg",
       "ts": 1795092106387,
       "type": "react",
@@ -13181,15 +13190,6 @@
       "ts": 1794738748285,
       "type": "admin",
       "text": "Paket SVIP (svip) disimpan · bulan Rp100.000",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mwhp3grs-mwhoi1ur-jtwb",
-      "ts": 1794738721960,
-      "type": "admin",
-      "text": "Paket VIP (vip) disimpan · bulan Rp50.000",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "owner",
       "meta": null
