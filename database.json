@@ -10376,7 +10376,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 35,
+      "limit": 33,
       "freeUsed": 3,
       "freeResetAt": 1795133832360,
       "claimedCodes": [
@@ -10385,7 +10385,7 @@
       "apiKey": "RISS_11-JARQJMWEBVG4",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11391,6 +11391,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwnjgvpw-mwnikrd4-ihp1",
+      "ts": 1795092067220,
+      "type": "react",
+      "text": "React 👍💯 ke 0029Vb9Koj559PwJpWbnBV1X/105",
+      "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
+      "username": "riss_11",
+      "meta": null
+    },
     {
       "id": "mwnj48xq-mwng0m3g-eh57",
       "ts": 1795091477822,
@@ -13183,15 +13192,6 @@
       "text": "Paket SVIP (svip) disimpan · bulan Rp100.000",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mwhoexew-mwhnh8ri-ez43",
-      "ts": 1794737577128,
-      "type": "react",
-      "text": "React 🤑👍👌🔥 ke 0029Vb8Ahsm2phHR7AkyIx2O/1025",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
