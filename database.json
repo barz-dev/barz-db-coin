@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 2040,
+      "limit": 2038,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 230,
+      "totalReacts": 231,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 464,
+        "lastId": 465,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 196,
+        "reacted": 197,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795090831661
+        "lastAt": 1795092634674
       },
       "badge": {
         "icon": "crown",
@@ -11392,6 +11392,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnjt1ki-mwng0m3h-qt8l",
+      "ts": 1795092634674,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/465",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwnji824-mwnikrd6-qp8g",
       "ts": 1795092129868,
       "type": "react",
@@ -13181,15 +13190,6 @@
       "ts": 1794739080629,
       "type": "admin",
       "text": "Pricing & diskon diperbarui",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mwhp4131-mwhoi1us-k4ne",
-      "ts": 1794738748285,
-      "type": "admin",
-      "text": "Paket SVIP (svip) disimpan · bulan Rp100.000",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "owner",
       "meta": null
