@@ -10375,13 +10375,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795133832360,
       "claimedCodes": [],
       "apiKey": "RISS_11-JARQJMWEBVG4",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11387,6 +11387,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwniok9z-mwni84sb-8cs5",
+      "ts": 1795090746023,
+      "type": "react",
+      "text": "React 👍💯 ke 0029Vb9Koj559PwJpWbnBV1X/104 (gratis)",
+      "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
+      "username": "riss_11",
+      "meta": null
+    },
     {
       "id": "mwninzmk-mwni84sa-ie35",
       "ts": 1795090719260,
@@ -13183,15 +13192,6 @@
       "text": "React 😂😹 ke 0029Vb99qbSAjPXLHjl0ev0G/250 (gratis)",
       "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
       "username": "zamzz",
-      "meta": null
-    },
-    {
-      "id": "mwhnt9n3-mwhnh8ud-gazv",
-      "ts": 1794736566543,
-      "type": "react",
-      "text": "React 🔥 ke 0029Vb9NgI942DcWZOTUuS29/686",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
       "meta": null
     }
   ],
