@@ -10244,7 +10244,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 50,
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
@@ -11043,10 +11043,11 @@
       "payUrl": "https://app.buatqris.site/trx/VFHP-26VJ-11PE-19NC",
       "payAmount": 2525,
       "test": false,
-      "status": "pending",
+      "status": "paid",
       "createdAt": 1795081954730,
       "expiresAt": 1795108955000,
-      "fulfilled": false
+      "fulfilled": true,
+      "paidAt": 1795082013903
     }
   },
   "settings": {
@@ -11248,6 +11249,18 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwndhejw-mwndhe5p-qfsl",
+      "ts": 1795082013932,
+      "type": "purchase",
+      "text": "Pembelian berhasil: 50 Limit · diskon 5% · Rp2.525",
+      "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
+      "username": "jenna",
+      "meta": {
+        "kind": "limit",
+        "amount": 2525
+      }
+    },
     {
       "id": "mwn7w2wd-mwn7v9g4-73pe",
       "ts": 1795072620973,
@@ -13041,15 +13054,6 @@
       "text": "React 🫢🚀☄️🤷😂 ke 0029VbDVdI259PwQQnvSuA0S/607 (gratis)",
       "uid": "user_3M0J8P39TKRqhtHtwh5u4B8DxQR",
       "username": "marzz",
-      "meta": null
-    },
-    {
-      "id": "mwhnlbyh-mwhnh8re-h98f",
-      "ts": 1794736196297,
-      "type": "react",
-      "text": "React 👍 ke 0029Vb7sdXpEAKWOBRBM1L07/398",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
       "meta": null
     }
   ],
