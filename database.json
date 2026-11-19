@@ -10345,13 +10345,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795132293670,
       "claimedCodes": [],
       "apiKey": "JOKOWI_717-9AQETGVFWVW5",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11547,6 +11547,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwnr6h31-mwnr68qk-x98w",
+      "ts": 1795105018621,
+      "type": "react",
+      "text": "React 🥰👍🔥🥳😍 ke 0029Vb9phNYDzgTECXznnm33/192 (gratis)",
+      "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
+      "username": "jokowi_717",
+      "meta": null
+    },
     {
       "id": "mwnqb334-mwnpye49-aisa",
       "ts": 1795103554144,
@@ -13339,15 +13348,6 @@
       "text": "React 🤢😹🤮🥺 ke 0029VbDxqG7CXC3FxXWlkV2R/557 (gratis)",
       "uid": "user_3M8mmfTaYX6MNNIWPv1ozpiZExj",
       "username": "nizxxx",
-      "meta": null
-    },
-    {
-      "id": "mwhpzs38-mwhpretx-4ypx",
-      "ts": 1794740229620,
-      "type": "react",
-      "text": "React 🗿 ke 0029VbDyayCHFxOv4eMSD645/140",
-      "uid": "user_3LU3NvgQjB8bZsZKQ721ueqHopH",
-      "username": "kaha",
       "meta": null
     }
   ],
