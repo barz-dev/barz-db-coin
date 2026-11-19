@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 126,
+      "totalReacts": 127,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 804,
+        "lastId": 805,
         "emoji": "🔥",
-        "reacted": 95,
+        "reacted": 96,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1795091477822
+        "lastAt": 1795097830079
       },
       "badge": {
         "icon": "biohazard",
@@ -11480,6 +11480,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwnmwedb-mwnk9psn-qdww",
+      "ts": 1795097830079,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/805",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwnlpmvq-mwnldehp-lv9e",
       "ts": 1795095834902,
       "type": "react",
@@ -13267,15 +13276,6 @@
     {
       "id": "mwhpe794-mwhoi1zc-xtoq",
       "ts": 1794739222840,
-      "type": "admin",
-      "text": "Pricing & diskon diperbarui",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "owner",
-      "meta": null
-    },
-    {
-      "id": "mwhpe2dt-mwhoi1zb-guiv",
-      "ts": 1794739216529,
       "type": "admin",
       "text": "Pricing & diskon diperbarui",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
