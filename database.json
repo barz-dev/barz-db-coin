@@ -10763,13 +10763,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795209693969,
       "claimedCodes": [],
       "apiKey": "KAKAN-DKU3CLZ9BSLZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11819,6 +11819,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwortyid-mworqxjl-5w28",
+      "ts": 1795166580469,
+      "type": "react",
+      "text": "React 💦💦💦💦 ke 0029VbDfnH2CBtxHZJJVV910/128 (gratis)",
+      "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
+      "username": "kakan",
+      "meta": null
+    },
     {
       "id": "mwors3rm-mworqxjk-581f",
       "ts": 1795166493970,
@@ -13611,15 +13620,6 @@
       "text": "React 🖕🖕🖕🖕🖕 ke 0029Vb8ExWh7T8bNtXaxiQ1W/380 (gratis)",
       "uid": "user_3M9CaujezECgeBYH73zTFz0Zoab",
       "username": "siapa_kek12342",
-      "meta": null
-    },
-    {
-      "id": "mwhy0uea-mwhxwdyc-4i0i",
-      "ts": 1794753716194,
-      "type": "react",
-      "text": "React 👍😭😑❤️🔥 ke 0029VbCcM4WKrWR2zSGUiY43/494 (gratis)",
-      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
-      "username": "neil",
       "meta": null
     }
   ],
