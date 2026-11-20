@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 13,
+      "usedCount": 14,
       "expiresAt": 1795338499576
     }
   },
@@ -7439,10 +7439,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 3,
       "freeResetAt": 1795227189087,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "NIZAM-Y2F267TSCPTS",
       "allowedHosts": [],
       "banned": null,
@@ -11931,6 +11933,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwp2epnf-mwp2ep9t-k8hn",
+      "ts": 1795184344923,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
+      "username": "nizam",
+      "meta": null
+    },
+    {
       "id": "mwp2duv5-mwp1uk0s-hyzp",
       "ts": 1795184305025,
       "type": "react",
@@ -13722,15 +13733,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/441",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwigwdao-mwigphtc-ugzc",
-      "ts": 1794785420112,
-      "type": "react",
-      "text": "React 🔥🗿 ke 0029Vb9YPVNLo4hauoXytO2Z/103",
-      "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
-      "username": "joko_01",
       "meta": null
     }
   ],
