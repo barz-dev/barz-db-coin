@@ -10795,13 +10795,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795215725002,
       "claimedCodes": [],
       "apiKey": "ALVIANTAMPAN_68-S2TXBUQB4UGG",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11853,6 +11853,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwovddcb-mwov864a-n8qy",
+      "ts": 1795172525003,
+      "type": "react",
+      "text": "React 👏🦗🦋😭🥺 ke 0029Vb9gR5g30LKVZCaGsg1g/409 (gratis)",
+      "uid": "user_3MMtPjW3f7qgxICjTGSFwhIWTsE",
+      "username": "alviantampan_68",
+      "meta": null
+    },
     {
       "id": "mwosd3tr-mwoscnaj-0tsq",
       "ts": 1795167473823,
@@ -13645,15 +13654,6 @@
       "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
       "username": "kenji_17",
-      "meta": null
-    },
-    {
-      "id": "mwi0cqhj-mwhyb3wp-kpoa",
-      "ts": 1794757630231,
-      "type": "autoreact",
-      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/798",
-      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
-      "username": "barz_dev",
       "meta": null
     }
   ],
