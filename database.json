@@ -7567,14 +7567,14 @@
       "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 868,
+      "limit": 866,
       "freeUsed": 0,
       "freeResetAt": 1795222571148,
       "claimedCodes": [],
       "apiKey": "RASYA-59U2ZWDY86QZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 69,
+      "totalReacts": 70,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11888,6 +11888,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwp0iqqb-mwp0i5zj-c0nw",
+      "ts": 1795181173715,
+      "type": "react",
+      "text": "React 👆✅🔥👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1062",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": null
+    },
+    {
       "id": "mwozi0i6-mwozayc0-5a8a",
       "ts": 1795179460110,
       "type": "react",
@@ -13679,15 +13688,6 @@
       "text": "React 👏🗿👍🔥💦 ke 0029VbDsShOBVJl4HajfUD24/104 (gratis)",
       "uid": "user_3M9S2PPirumiToiL38MCwWAicUS",
       "username": "babi",
-      "meta": null
-    },
-    {
-      "id": "mwi1ypro-mwi1xt50-5g6t",
-      "ts": 1794760335348,
-      "type": "react",
-      "text": "React 🥰👍😍❤️ ke 0029VbDsShOBVJl4HajfUD24/103 (gratis)",
-      "uid": "user_3M9QOteac1D8B7buCfJBPTuOjSr",
-      "username": "wisnu",
       "meta": null
     }
   ],
