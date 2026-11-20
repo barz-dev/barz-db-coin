@@ -9250,12 +9250,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1794839677164,
+      "freeResetAt": 1795208025625,
       "claimedCodes": [],
       "apiKey": "BRAT-FVF7N47UCHMT",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11786,6 +11786,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwoqscgp-mwoqe94a-qia2",
+      "ts": 1795164825625,
+      "type": "react",
+      "text": "React 🗿👻 ke 0029VbDo6vx17EmxcxIT3x3f/102 (gratis)",
+      "uid": "user_3MAbTeN2pTbfIinkriYIQ9vWOxA",
+      "username": "brat",
+      "meta": null
+    },
+    {
       "id": "mwool83o-mwoodz1u-vmlr",
       "ts": 1795161134148,
       "type": "react",
@@ -13577,15 +13586,6 @@
       "text": "React ❤️❤️❤️❤️❤️ ke 0029Vb8ExWh7T8bNtXaxiQ1W/379 (gratis)",
       "uid": "user_3M9CaujezECgeBYH73zTFz0Zoab",
       "username": "siapa_kek12342",
-      "meta": null
-    },
-    {
-      "id": "mwhxkf17-mwhwxpew-py7x",
-      "ts": 1794752949787,
-      "type": "react",
-      "text": "React 👍👍👍👍👍 ke 0029Vb3qZDlLikgF7SXgWq18/7133 (gratis)",
-      "uid": "user_3LpNZT68jsUqqnj6YV8HmSZ5uNY",
-      "username": "nijum_30",
       "meta": null
     }
   ],
