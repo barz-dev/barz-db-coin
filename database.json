@@ -1011,12 +1011,12 @@
       "roleMonths": 0,
       "limit": 1,
       "freeUsed": 1,
-      "freeResetAt": 1793675413890,
+      "freeResetAt": 1795231857998,
       "claimedCodes": [],
       "apiKey": "DAPREACTION_VVIP-NQGDZW2ZMVTM",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 6,
+      "totalReacts": 7,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -12103,6 +12103,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwp4z5n2-mwp4668b-tf57",
+      "ts": 1795188657998,
+      "type": "react",
+      "text": "React 😱🍀🤣🔥✨ ke 0029VbApXBrDjiOdQbZpbD2f/7553 (gratis)",
+      "uid": "user_3LR8QJptHdOsGWFpV6tiEx94dhs",
+      "username": "dapreaction_vvip",
+      "meta": null
+    },
+    {
       "id": "mwp4wrmn-mwp44pey-oe82",
       "ts": 1795188546527,
       "type": "react",
@@ -13894,15 +13903,6 @@
       "text": "React 💯👍❤️🔥 ke 0029Vb8Ahsm2phHR7AkyIx2O/1028",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwiumuyk-mwiubjox-p17i",
-      "ts": 1794808491068,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/446",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
