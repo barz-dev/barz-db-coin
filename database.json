@@ -10925,13 +10925,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795228937515,
       "claimedCodes": [],
       "apiKey": "LEVRAM-A6B4MQYZL5ME",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -12000,6 +12000,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwp3945v-mwp37iql-tvsz",
+      "ts": 1795185763412,
+      "type": "react",
+      "text": "React 😭😌🫠🥹 ke 0029Vb8qR7KEawdlP2M8uL3b/741 (gratis)",
+      "uid": "user_3MNKdUD4xNNn4sErumwTrUHgKg5",
+      "username": "levram",
+      "meta": null
+    },
     {
       "id": "mwp38k6j-mwp37iqk-1xc1",
       "ts": 1795185737515,
@@ -13790,15 +13799,6 @@
       "ts": 1794786161389,
       "type": "autoreact",
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/444",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwih4dh6-mwigur8u-3oje",
-      "ts": 1794785793594,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/443",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
       "meta": null
