@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 127,
+      "totalReacts": 128,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 805,
+        "lastId": 806,
         "emoji": "🔥",
-        "reacted": 96,
+        "reacted": 97,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1795097830079
+        "lastAt": 1795174495409
       },
       "badge": {
         "icon": "biohazard",
@@ -11888,6 +11888,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwowjlpt-mwouczb9-3yws",
+      "ts": 1795174495409,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/806",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwowhofr-mwouczb8-w0sr",
       "ts": 1795174405623,
       "type": "autoreact",
@@ -13679,15 +13688,6 @@
       "text": "React 🥰👍😍❤️ ke 0029VbDsShOBVJl4HajfUD24/103 (gratis)",
       "uid": "user_3M9QOteac1D8B7buCfJBPTuOjSr",
       "username": "wisnu",
-      "meta": null
-    },
-    {
-      "id": "mwi0znq0-mwi0ksau-meif",
-      "ts": 1794758699736,
-      "type": "react",
-      "text": "React 🥰😍❤️👏✨ ke 0029Vb8tqYU0wajqCJ7i3F1N/532",
-      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
-      "username": "kenji_17",
       "meta": null
     }
   ],
