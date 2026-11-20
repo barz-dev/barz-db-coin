@@ -9539,13 +9539,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795182117259,
       "claimedCodes": [],
       "apiKey": "FALLNIEHH-EXQNS6WFUA5B",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11616,6 +11616,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwobd1fv-mwobcp9u-5ckj",
+      "ts": 1795138917259,
+      "type": "react",
+      "text": "React 😈🤩🔥🤪🙌 ke 0029VbENcn3IyPtPmJ9obi3o/361 (gratis)",
+      "uid": "user_3MDbqsLjlyUDuTRZSGeduMbNtNT",
+      "username": "fallniehh",
+      "meta": null
+    },
+    {
       "id": "mwob2xsq-mwoaxz6q-mbwd",
       "ts": 1795138445978,
       "type": "react",
@@ -13405,15 +13414,6 @@
       "ts": 1794749427926,
       "type": "react",
       "text": "React 💦🎯🔥👻 ke 0029VbDmnq46WaKqtTvKdq24/102 (gratis)",
-      "uid": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
-      "username": "svchost",
-      "meta": null
-    },
-    {
-      "id": "mwhv3bbx-mwhuzk7j-o72q",
-      "ts": 1794748792605,
-      "type": "react",
-      "text": "React ❤️ ke 0029VbDmnq46WaKqtTvKdq24/101 (gratis)",
       "uid": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
       "username": "svchost",
       "meta": null
