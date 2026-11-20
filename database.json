@@ -10020,16 +10020,16 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 27,
-      "freeUsed": 3,
-      "freeResetAt": 1795059540031,
+      "limit": 25,
+      "freeUsed": 0,
+      "freeResetAt": 1795227187345,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
       "apiKey": "YANZZXD-P99RHKUCDP43",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 8,
+      "totalReacts": 9,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11931,6 +11931,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwp271qp-mwp1ujzh-dx4j",
+      "ts": 1795183987345,
+      "type": "react",
+      "text": "React 🤡👻💦👍🎉 ke 0029VbE3nDZ4o7qTUIWPOI31/109",
+      "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
+      "username": "yanzzxd",
+      "meta": null
+    },
+    {
       "id": "mwp24hmt-mwp1ujzg-nj6w",
       "ts": 1795183867973,
       "type": "react",
@@ -13722,15 +13731,6 @@
       "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
       "username": "joko_01",
-      "meta": null
-    },
-    {
-      "id": "mwigqkte-mwigphta-ae2x",
-      "ts": 1794785149922,
-      "type": "react",
-      "text": "React 😢😣😖 ke 0029Vb7gmqU2phHUEIePRh24/3779 (gratis)",
-      "uid": "user_3M5zl5fYkt0uwjufu9LSzUdJBdo",
-      "username": "yanto",
       "meta": null
     }
   ],
