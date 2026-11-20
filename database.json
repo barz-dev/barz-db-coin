@@ -11011,7 +11011,7 @@
       "id": "user_3MNQ8uYG8KaKoocJf2hWk3VzM0q",
       "email": "awelliodys@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "mxwell",
       "alias": "maxwelly",
       "avatar": false,
       "avatarVer": 0,
@@ -11024,7 +11024,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "MXWELL-T3QGK57YDGGD",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -11345,7 +11345,8 @@
     "sjajja": "user_3MNJ5GfeyOso5XzcoJ5iAk5OHtn",
     "levram": "user_3MNKdUD4xNNn4sErumwTrUHgKg5",
     "ryy": "user_3MNLrp7zVTNRkWXW0FdAfqPnWyV",
-    "dirstore_23": "user_3MNNhj33JJKGv8UjFnbiboXTIMl"
+    "dirstore_23": "user_3MNNhj33JJKGv8UjFnbiboXTIMl",
+    "mxwell": "user_3MNQ8uYG8KaKoocJf2hWk3VzM0q"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -11652,7 +11653,8 @@
     "SJAJJA-A4AZMD6KS28R": "user_3MNJ5GfeyOso5XzcoJ5iAk5OHtn",
     "LEVRAM-A6B4MQYZL5ME": "user_3MNKdUD4xNNn4sErumwTrUHgKg5",
     "RYY-AWKUH96K2B79": "user_3MNLrp7zVTNRkWXW0FdAfqPnWyV",
-    "DIRSTORE_23-R383663DA3LE": "user_3MNNhj33JJKGv8UjFnbiboXTIMl"
+    "DIRSTORE_23-R383663DA3LE": "user_3MNNhj33JJKGv8UjFnbiboXTIMl",
+    "MXWELL-T3QGK57YDGGD": "user_3MNQ8uYG8KaKoocJf2hWk3VzM0q"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
