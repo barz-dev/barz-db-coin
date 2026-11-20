@@ -10989,13 +10989,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795230639945,
       "claimedCodes": [],
       "apiKey": "DIRSTORE_23-R383663DA3LE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -12068,6 +12068,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwp4g5bu-mwp4668a-ojtc",
+      "ts": 1795187771130,
+      "type": "react",
+      "text": "React 🗿🔥🍀💦😱 ke 0029VbEwhYK30LKUp7BDN943/1 (gratis)",
+      "uid": "user_3MNNhj33JJKGv8UjFnbiboXTIMl",
+      "username": "dirstore_23",
+      "meta": null
+    },
     {
       "id": "mwp4b3sx-mwp44pew-f7kq",
       "ts": 1795187535873,
@@ -13860,15 +13869,6 @@
       "text": "React 🗿❤️😱 ke 0029VbDp2YZ7YSd2bYZCAO0f/853 (gratis)",
       "uid": "user_3MAr26MFHLiwIPWYMqyOx3yWOKI",
       "username": "kayzii",
-      "meta": null
-    },
-    {
-      "id": "mwip9mpl-mwip4i0z-oesx",
-      "ts": 1794799475769,
-      "type": "react",
-      "text": "React 🔥👍⭐💯🍀 ke 0029VbDsShOBVJl4HajfUD24/105 (gratis)",
-      "uid": "user_3MAhn4WvuJULdlGCGmkFFMXICEn",
-      "username": "hhhhhhhh",
       "meta": null
     }
   ],
