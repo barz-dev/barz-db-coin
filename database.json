@@ -10957,13 +10957,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795229632969,
       "claimedCodes": [],
       "apiKey": "RYY-AWKUH96K2B79",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -12034,6 +12034,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwp3om1v-mwp37imt-lht3",
+      "ts": 1795186486435,
+      "type": "react",
+      "text": "React ❤️🔥🙏👍🗿 ke 0029VbE14LY8vd1LPKV52D11/187 (gratis)",
+      "uid": "user_3MNLrp7zVTNRkWXW0FdAfqPnWyV",
+      "username": "ryy",
+      "meta": null
+    },
     {
       "id": "mwp3ofq7-mwp37ims-j6w6",
       "ts": 1795186478239,
@@ -13822,15 +13831,6 @@
     {
       "id": "mwilsmgw-mwilqy6g-mk76",
       "ts": 1794793643456,
-      "type": "react",
-      "text": "React 💦💞🫰💗😍 ke 0029VbE7rUvAInPrydoXdm27/259 (gratis)",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
-      "meta": null
-    },
-    {
-      "id": "mwilsaj2-mwilqy6f-bpys",
-      "ts": 1794793627982,
       "type": "react",
       "text": "React 💦💞🫰💗😍 ke 0029VbE7rUvAInPrydoXdm27/259 (gratis)",
       "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
