@@ -10667,13 +10667,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795200997741,
       "claimedCodes": [],
       "apiKey": "JOKOWIDODO6767-HF3PPH5F2PND",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11717,6 +11717,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwomlppp-mwomh3cj-3zsh",
+      "ts": 1795157797741,
+      "type": "react",
+      "text": "React ❤️ ke 0029Vb9J61hDJ6GuSr2KsS0v/1054 (gratis)",
+      "uid": "user_3MMPcBPkTkSu0EyrWLclhfcFGEL",
+      "username": "jokowidodo6767",
+      "meta": null
+    },
     {
       "id": "mwol9aq8-mwojijzo-1pfq",
       "ts": 1795155538832,
@@ -13507,15 +13516,6 @@
       "ts": 1794752267424,
       "type": "react",
       "text": "React 🔥👍⚡🔥💦 ke 0029VbEB3vC6LwHbrivEwJ3m/102 (gratis)",
-      "uid": "user_3M983Gm5myY8fO0ZxYVdnpz4f0h",
-      "username": "yusuf_002",
-      "meta": null
-    },
-    {
-      "id": "mwhx4p2o-mwhwgni1-0aj6",
-      "ts": 1794752216304,
-      "type": "react",
-      "text": "React 🔥👍😱🙏😍 ke 0029VbEB3vC6LwHbrivEwJ3m/102 (gratis)",
       "uid": "user_3M983Gm5myY8fO0ZxYVdnpz4f0h",
       "username": "yusuf_002",
       "meta": null
