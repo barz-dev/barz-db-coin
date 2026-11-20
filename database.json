@@ -7439,7 +7439,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 35,
+      "limit": 33,
       "freeUsed": 3,
       "freeResetAt": 1795227189087,
       "claimedCodes": [
@@ -7448,7 +7448,7 @@
       "apiKey": "NIZAM-Y2F267TSCPTS",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 10,
+      "totalReacts": 11,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11933,6 +11933,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwp2h6k8-mwp1uk0u-90qm",
+      "ts": 1795184460152,
+      "type": "react",
+      "text": "React 🤣 ke 0029VbCM3gTJP21B8JquoZ3I/4908",
+      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
+      "username": "nizam",
+      "meta": null
+    },
+    {
       "id": "mwp2fqut-mwp1uk0t-x8od",
       "ts": 1795184393141,
       "type": "react",
@@ -13720,15 +13729,6 @@
     {
       "id": "mwigyawe-mwigphte-jh4g",
       "ts": 1794785510318,
-      "type": "react",
-      "text": "React 🔥🗿😍 ke 0029Vb9YPVNLo4hauoXytO2Z/104",
-      "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
-      "username": "joko_01",
-      "meta": null
-    },
-    {
-      "id": "mwigxlz9-mwigphtd-ialo",
-      "ts": 1794785478021,
       "type": "react",
       "text": "React 🔥🗿😍 ke 0029Vb9YPVNLo4hauoXytO2Z/104",
       "uid": "user_3LzQNo4dTtkM0FIEDg1BlZOGWBn",
