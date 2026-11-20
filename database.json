@@ -10859,13 +10859,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795226642258,
       "claimedCodes": [],
       "apiKey": "JENNIE-7ZJBXKNS9M9N",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11921,6 +11921,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwp1x4gj-mwp1uk0m-lrdw",
+      "ts": 1795183524307,
+      "type": "react",
+      "text": "React 🍭🫐🫧🍰👀 ke 0029VbDvkqE7j6gB4ZhP3m3X/8 (gratis)",
+      "uid": "user_3MNFz1RNtcILu5Oq2vugnFaYi9Y",
+      "username": "jennie",
+      "meta": null
+    },
     {
       "id": "mwp1vd5e-mwp1ujzf-vp5q",
       "ts": 1795183442258,
@@ -13711,15 +13720,6 @@
       "ts": 1794762192702,
       "type": "react",
       "text": "React 💦🔥🗿🤡🎯 ke 0029Vb99VAn8PgsDNyiwt82d/619 (gratis)",
-      "uid": "user_3M9S2PPirumiToiL38MCwWAicUS",
-      "username": "babi",
-      "meta": null
-    },
-    {
-      "id": "mwi2hpnf-mwi2ezlk-gbo0",
-      "ts": 1794761221660,
-      "type": "react",
-      "text": "React 💦🥳👏🗿🤣 ke 0029Vb99VAn8PgsDNyiwt82d/620 (gratis)",
       "uid": "user_3M9S2PPirumiToiL38MCwWAicUS",
       "username": "babi",
       "meta": null
