@@ -10827,13 +10827,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795216971696,
       "claimedCodes": [],
       "apiKey": "YUKI-Y9PQ54QNBXXH",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -11887,6 +11887,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwow43ao-mwow35v5-hniz",
+      "ts": 1795173771696,
+      "type": "react",
+      "text": "React 😱🤙👻😈🤛 ke 0029VbDhEqo4SpkOPsg5J91d/1824 (gratis)",
+      "uid": "user_3MMwO9tdSP5rl2rjlrl4GqQb6X1",
+      "username": "yuki",
+      "meta": null
+    },
     {
       "id": "mwoviheu-mwov864b-5b7n",
       "ts": 1795172763558,
@@ -13679,15 +13688,6 @@
       "text": "React 🕋☘️👍👌😂 ke 0029Vb8fCYY0wajq36m8j42Y/902 (gratis)",
       "uid": "user_3M9EwYSb9OekPbUXAx4hyzCixRN",
       "username": "rido4you_05",
-      "meta": null
-    },
-    {
-      "id": "mwi0lwkm-mwi0ksa4-3gpi",
-      "ts": 1794758058022,
-      "type": "react",
-      "text": "React 🥰😍❤️🔥🥳 ke 0029Vb8tqYU0wajqCJ7i3F1N/523",
-      "uid": "user_3M50lFVSzEP9kZGpeSQ5qGhC3tp",
-      "username": "kenji_17",
       "meta": null
     }
   ],
