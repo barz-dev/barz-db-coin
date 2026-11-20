@@ -10989,13 +10989,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795230639945,
       "claimedCodes": [],
       "apiKey": "DIRSTORE_23-R383663DA3LE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -12068,6 +12068,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwp491s9-mwp44pev-gjj9",
+      "ts": 1795187439945,
+      "type": "react",
+      "text": "React 🔥🍀💦😱🙏 ke 0029VbEwhYK30LKUp7BDN/943 (gratis)",
+      "uid": "user_3MNNhj33JJKGv8UjFnbiboXTIMl",
+      "username": "dirstore_23",
+      "meta": null
+    },
     {
       "id": "mwp3om1v-mwp37imt-lht3",
       "ts": 1795186486435,
@@ -13860,15 +13869,6 @@
       "text": "React 🤡💦 ke 0029VaXeUja7tkj3rAkAIY0B/13172 (gratis)",
       "uid": "user_3MAbTeN2pTbfIinkriYIQ9vWOxA",
       "username": "brat",
-      "meta": null
-    },
-    {
-      "id": "mwilsmgw-mwilqy6g-mk76",
-      "ts": 1794793643456,
-      "type": "react",
-      "text": "React 💦💞🫰💗😍 ke 0029VbE7rUvAInPrydoXdm27/259 (gratis)",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
       "meta": null
     }
   ],
