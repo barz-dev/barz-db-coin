@@ -11104,6 +11104,38 @@
         "error": "",
         "updatedAt": 0
       }
+    },
+    "user_3MPEmpc0oxI0jB0DwIEiUKRz4ju": {
+      "id": "user_3MPEmpc0oxI0jB0DwIEiUKRz4ju",
+      "email": "infinixsmart8140524@gmail.com",
+      "emailVerified": true,
+      "username": "",
+      "alias": "Infinix",
+      "avatar": false,
+      "avatarVer": 0,
+      "createdAt": 1795243968595,
+      "role": "free",
+      "roleExpiresAt": 0,
+      "rolePermanent": false,
+      "roleMonths": 0,
+      "limit": 0,
+      "freeUsed": 0,
+      "freeResetAt": 0,
+      "claimedCodes": [],
+      "apiKey": "",
+      "allowedHosts": [],
+      "banned": null,
+      "totalReacts": 0,
+      "legacyMigrated": false,
+      "autoReact": {
+        "enabled": false,
+        "code": "",
+        "lastId": 0,
+        "emoji": "",
+        "reacted": 0,
+        "error": "",
+        "updatedAt": 0
+      }
     }
   },
   "usernames": {
