@@ -11527,7 +11527,7 @@
       "id": "user_3MQ0MT4dI08Qmj8xLw0pH3IVqeI",
       "email": "zora34831@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "zora",
       "alias": "zora",
       "avatar": false,
       "avatarVer": 0,
@@ -11540,7 +11540,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "ZORA-55DCNZXPR3RU",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -11877,7 +11877,8 @@
     "abdi": "user_3MPasdIgnMefzj04CuYPxcnBPtu",
     "ojan": "user_3MPhatqqiwblnqp7bIK8obrYVFM",
     "memek": "user_3MPvGKqhmY4yyWJjJsSbonC693m",
-    "joko7": "user_3MPyr8DWdCSXyTQlR9slXTMjWbD"
+    "joko7": "user_3MPyr8DWdCSXyTQlR9slXTMjWbD",
+    "zora": "user_3MQ0MT4dI08Qmj8xLw0pH3IVqeI"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -12200,7 +12201,8 @@
     "ABDI-LKRFNP8JCY54": "user_3MPasdIgnMefzj04CuYPxcnBPtu",
     "OJAN-UC6E7MYJZ5ZM": "user_3MPhatqqiwblnqp7bIK8obrYVFM",
     "MEMEK-AD3W87HETC39": "user_3MPvGKqhmY4yyWJjJsSbonC693m",
-    "JOKO7-E7U7BWHTFSWG": "user_3MPyr8DWdCSXyTQlR9slXTMjWbD"
+    "JOKO7-E7U7BWHTFSWG": "user_3MPyr8DWdCSXyTQlR9slXTMjWbD",
+    "ZORA-55DCNZXPR3RU": "user_3MQ0MT4dI08Qmj8xLw0pH3IVqeI"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
