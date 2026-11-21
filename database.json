@@ -895,7 +895,7 @@
     "BARZ-BAIK": {
       "coins": 37,
       "maxUses": 50,
-      "usedCount": 14,
+      "usedCount": 15,
       "expiresAt": 1795338499576
     }
   },
@@ -11084,10 +11084,12 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 0,
+      "limit": 37,
       "freeUsed": 0,
       "freeResetAt": 0,
-      "claimedCodes": [],
+      "claimedCodes": [
+        "BARZ-BAIK"
+      ],
       "apiKey": "RARA-955LNSEJBNTE",
       "allowedHosts": [],
       "banned": null,
@@ -12170,6 +12172,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwpq6h7a-mwpq1v0r-6l0c",
+      "ts": 1795224271510,
+      "type": "redeem",
+      "text": "Redeem BARZ-BAIK · +37 limit",
+      "uid": "user_3MOaPD5DwC8hRQYoKVuuumuhHuW",
+      "username": "rara",
+      "meta": null
+    },
     {
       "id": "mwpcwu5q-mwpbs5s7-op85",
       "ts": 1795201986734,
@@ -13960,15 +13971,6 @@
       "ts": 1794815157889,
       "type": "react",
       "text": "React 🥺🤍 ke 0029Vb21eI09xVJbddnaNV1F/271 (gratis)",
-      "uid": "user_3MBDOOgndbDAcOxZg94pW22dWf6",
-      "username": "ress",
-      "meta": null
-    },
-    {
-      "id": "mwiyk52a-mwixrvl7-1nju",
-      "ts": 1794815082658,
-      "type": "react",
-      "text": "React 🥺🤍🔥 ke 0029Vb21eI09xVJbddnaNV1F/271 (gratis)",
       "uid": "user_3MBDOOgndbDAcOxZg94pW22dWf6",
       "username": "ress",
       "meta": null
