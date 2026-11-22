@@ -12243,13 +12243,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795417564251,
       "claimedCodes": [],
       "apiKey": "JOKOWIDOAOAO-62SB4E5AFJD4",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13400,6 +13400,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mws7jhi3-mws7ikx9-hyh7",
+      "ts": 1795374364251,
+      "type": "react",
+      "text": "React 🗿🍀❤️🔥 ke 0029VbDeyJj8F2pDXYLvs52F/106 (gratis)",
+      "uid": "user_3MTUw5vMSBEXC3qzbWqD1Oqknhz",
+      "username": "jokowidoaoao",
+      "meta": null
+    },
     {
       "id": "mws0jzfy-mws0d36o-z8cy",
       "ts": 1795362630190,
@@ -15192,15 +15201,6 @@
       "text": "React ♻️🏳🌈🏳️⚧️ ke 0029VbBYidPEwEjuQI5vCw01/2258 (gratis)",
       "uid": "user_3MBT3hgIhTLMFutMWzpYWmPXWgI",
       "username": "ryan",
-      "meta": null
-    },
-    {
-      "id": "mwj2weyb-mwj0btx8-jcxa",
-      "ts": 1794822373811,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/447",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
