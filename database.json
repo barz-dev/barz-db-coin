@@ -12105,7 +12105,7 @@
       "id": "user_3MSUF7HaJ1RRdvjuJzYq3Zi4NAw",
       "email": "vallene.walcott@fusioninbox.com",
       "emailVerified": true,
-      "username": "",
+      "username": "nexsus",
       "alias": "",
       "avatar": false,
       "avatarVer": 0,
@@ -12118,7 +12118,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "NEXSUS-76NUFJ97MCEL",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -12473,7 +12473,8 @@
     "joni_2": "user_3MRcoFYUzGEllmBeQdmXb75zUW5",
     "kontox": "user_3MRdaAHgtWPgzLgOijAnkxYC7uz",
     "bayzz_23": "user_3MS7B5SK2fiJVxBPuh5h0q4LPXM",
-    "jokowidodo": "user_3MSFXdDIHLipyxZSlt9EITrq51b"
+    "jokowidodo": "user_3MSFXdDIHLipyxZSlt9EITrq51b",
+    "nexsus": "user_3MSUF7HaJ1RRdvjuJzYq3Zi4NAw"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -12814,7 +12815,8 @@
     "JONI_2-MRQ5GDSPABZM": "user_3MRcoFYUzGEllmBeQdmXb75zUW5",
     "KONTOX-RRGBQT9ERRQR": "user_3MRdaAHgtWPgzLgOijAnkxYC7uz",
     "BAYZZ_23-ZM8G4GJ3F8KV": "user_3MS7B5SK2fiJVxBPuh5h0q4LPXM",
-    "JOKOWIDODO-C4U4TMYRA45W": "user_3MSFXdDIHLipyxZSlt9EITrq51b"
+    "JOKOWIDODO-C4U4TMYRA45W": "user_3MSFXdDIHLipyxZSlt9EITrq51b",
+    "NEXSUS-76NUFJ97MCEL": "user_3MSUF7HaJ1RRdvjuJzYq3Zi4NAw"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
