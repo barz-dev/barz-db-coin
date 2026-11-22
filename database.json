@@ -12147,13 +12147,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795388807161,
       "claimedCodes": [],
       "apiKey": "XIN-XPG3SBFAMCAE",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13298,6 +13298,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwrqgzhm-mwrpyh2y-0r3y",
+      "ts": 1795345694122,
+      "type": "react",
+      "text": "React 🔥 ke 0029Vb9I2ZkAu3aS16ShKZ1k/621 (gratis)",
+      "uid": "user_3MSYUbyvVP9FtoyRfcY9KLgpNhp",
+      "username": "xin",
+      "meta": null
+    },
     {
       "id": "mwrqf4e1-mwrpyh2x-wuym",
       "ts": 1795345607161,
@@ -15088,15 +15097,6 @@
       "ts": 1794820384257,
       "type": "react",
       "text": "React 💦😍🤤🫶💗 ke 0029VbE7rUvAInPrydoXdm27/263",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
-      "meta": null
-    },
-    {
-      "id": "mwj1p36r-mwj1p2s8-dqzc",
-      "ts": 1794820352355,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
       "username": "niko",
       "meta": null
