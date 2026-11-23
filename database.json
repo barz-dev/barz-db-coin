@@ -12307,13 +12307,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795452833659,
       "claimedCodes": [],
       "apiKey": "JOKOWIDODO67-AM36G5AKZ3EK",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13468,6 +13468,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwssjfjv-mwssiw5z-r4rk",
+      "ts": 1795409633659,
+      "type": "react",
+      "text": "React 🙏👍😢 ke 0029Vb8zDME1NCrUOPEGKy2N/102 (gratis)",
+      "uid": "user_3MUeUnSUliiAKLNDUl9JtYMyd83",
+      "username": "jokowidodo67",
+      "meta": null
+    },
     {
       "id": "mwsrcm2q-mwsrbmb8-8rpu",
       "ts": 1795407635906,
@@ -15260,15 +15269,6 @@
       "text": "React 👍🔥😍👋👻 ke 0029VbCcM4WKrWR2zSGUiY43/498 (gratis)",
       "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
       "username": "neil",
-      "meta": null
-    },
-    {
-      "id": "mwj5ddyp-mwj5cjym-kyxq",
-      "ts": 1794826524913,
-      "type": "react",
-      "text": "React 💦😍❤️💗🫶 ke 0029Vb9clfK6mYPSqOhdgd2G/107",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
       "meta": null
     }
   ],
