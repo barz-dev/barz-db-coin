@@ -9477,13 +9477,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1795115804003,
+      "freeUsed": 1,
+      "freeResetAt": 1795460754124,
       "claimedCodes": [],
       "apiKey": "NOPAL-YL62AJSCY56Y",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13503,6 +13503,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwsx970s-mwsx8vt9-y1my",
+      "ts": 1795417554124,
+      "type": "react",
+      "text": "React 🎉🎯🥰💦🔥 ke 0029Vb9WqSg3AzNYlIZfGz3c/158 (gratis)",
+      "uid": "user_3MC7fcwnwvj7eveEKk8aqQtfF9S",
+      "username": "nopal",
+      "meta": null
+    },
+    {
       "id": "mwswlwv2-mwswlkfp-42mf",
       "ts": 1795416467870,
       "type": "react",
@@ -15292,15 +15301,6 @@
       "ts": 1794829922810,
       "type": "react",
       "text": "React 🥰🔥😍❤️😱 ke 0029VbDsShOBVJl4HajfUD24/106 (gratis)",
-      "uid": "user_3MAhn4WvuJULdlGCGmkFFMXICEn",
-      "username": "hhhhhhhh",
-      "meta": null
-    },
-    {
-      "id": "mwj6wfzf-mwj6qycw-x7u1",
-      "ts": 1794829093611,
-      "type": "react",
-      "text": "React ❤️⭐✨🔥🥰 ke 0029VbDsShOBVJl4HajfUD24/106 (gratis)",
       "uid": "user_3MAhn4WvuJULdlGCGmkFFMXICEn",
       "username": "hhhhhhhh",
       "meta": null
