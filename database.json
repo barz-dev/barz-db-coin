@@ -12339,13 +12339,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795458404653,
       "claimedCodes": [],
       "apiKey": "ASU_4-VAQJARNEP4TT",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13502,6 +13502,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwsvuu5p-mwsvub41-xu5d",
+      "ts": 1795415204653,
+      "type": "react",
+      "text": "React 😹 ke 0029Vb85GmIDeON02ib5N53T/857 (gratis)",
+      "uid": "user_3MUpkhtXGBZC78vTEFmoyFusOOV",
+      "username": "asu_4",
+      "meta": null
+    },
     {
       "id": "mwsv3gou-mwsv2kg1-ux4i",
       "ts": 1795413927486,
@@ -15292,15 +15301,6 @@
       "ts": 1794828975060,
       "type": "react",
       "text": "React 🔥🥳🥰 ke 0029VbDkcwr4CrfbM61YPU0s/7563",
-      "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
-      "username": "zamzz",
-      "meta": null
-    },
-    {
-      "id": "mwj6sywl-mwj6qycu-ehf8",
-      "ts": 1794828931509,
-      "type": "react",
-      "text": "React 😹😂🐵🐶🦝 ke 0029Vb8pyFhBvvspAzskIE0l/2103",
       "uid": "user_3LojJYTaLOTvOVycdtH0vKxYweA",
       "username": "zamzz",
       "meta": null
