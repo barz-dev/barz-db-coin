@@ -943,7 +943,7 @@
         "lastId": 806,
         "emoji": "🔥",
         "reacted": 97,
-        "error": "Bot belum bisa membaca pesan channel ini (cek log VPS: [AUTO]).",
+        "error": "Channel tidak ditemukan. Cek linknya.",
         "updatedAt": 1794067541326,
         "lastAt": 1795174495409
       },
