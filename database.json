@@ -12307,13 +12307,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795452833659,
       "claimedCodes": [],
       "apiKey": "JOKOWIDODO67-AM36G5AKZ3EK",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13468,6 +13468,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwsskcy3-mwssiw60-9jg3",
+      "ts": 1795409676939,
+      "type": "react",
+      "text": "React 👍 ke 0029Vb8zDME1NCrUOPEGKy2N/102 (gratis)",
+      "uid": "user_3MUeUnSUliiAKLNDUl9JtYMyd83",
+      "username": "jokowidodo67",
+      "meta": null
+    },
     {
       "id": "mwssjfjv-mwssiw5z-r4rk",
       "ts": 1795409633659,
@@ -15260,15 +15269,6 @@
       "text": "React 🤣💦🤡😍 ke 0029Vb7LkOMCnA7xaKdKPY2K/857",
       "uid": "user_3M92hCbBMJF2ngy6BShnPQyHWab",
       "username": "svchost",
-      "meta": null
-    },
-    {
-      "id": "mwj5ypse-mwj5ygrf-hdqa",
-      "ts": 1794827520014,
-      "type": "react",
-      "text": "React 👍🔥😍👋👻 ke 0029VbCcM4WKrWR2zSGUiY43/498 (gratis)",
-      "uid": "user_3M2rg4UVvMJ41n6WGMtR4iHb7J1",
-      "username": "neil",
       "meta": null
     }
   ],
