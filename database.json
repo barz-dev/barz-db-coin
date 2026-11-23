@@ -10121,13 +10121,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795518960488,
       "claimedCodes": [],
       "apiKey": "CENSMARKET-3ME7GYDYFTSK",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -13673,6 +13673,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwtvyfu7-mwtvvf5k-ztkn",
+      "ts": 1795475838895,
+      "type": "react",
+      "text": "React 🔥👍🗿💯🥳 ke 0029Vb8BX2SId7nOWPXmQk0y/824 (gratis)",
+      "uid": "user_3MJFslo5L9vGXKndpnSVuylf3af",
+      "username": "censmarket",
+      "meta": null
+    },
+    {
       "id": "mwtvwrc8-mwtvvf5j-zswr",
       "ts": 1795475760488,
       "type": "react",
@@ -15464,15 +15473,6 @@
       "text": "React 🔥👆🥶😳 ke 0029VbEK636KmCPXSBJ2Dq1a/283",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwkog3yl-mwko8czn-5l7m",
-      "ts": 1794919030797,
-      "type": "react",
-      "text": "React 😍🥰💕😋🥴 ke 0029Vb9S99V9hXFAKwlYIb1n/117 (gratis)",
-      "uid": "user_3MEbwH7uDSH8JijslYR7gdlKyRU",
-      "username": "parker",
       "meta": null
     }
   ],
