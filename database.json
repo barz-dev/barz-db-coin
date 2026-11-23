@@ -965,7 +965,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 2,
+      "limit": 52,
       "freeUsed": 2,
       "freeResetAt": 1793656984728,
       "claimedCodes": [
@@ -13435,6 +13435,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwsrcm2q-mwsrbmb8-8rpu",
+      "ts": 1795407635906,
+      "type": "admin",
+      "text": "Limit @tes +50 → 52",
+      "uid": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
+      "username": "tes",
+      "meta": null
+    },
+    {
       "id": "mwsjqyop-mwshcfig-6vue",
       "ts": 1795394868505,
       "type": "autoreact",
@@ -15224,15 +15233,6 @@
       "ts": 1794826524913,
       "type": "react",
       "text": "React 💦😍❤️💗🫶 ke 0029Vb9clfK6mYPSqOhdgd2G/107",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
-      "meta": null
-    },
-    {
-      "id": "mwj5d0gh-mwj5cjyl-9niy",
-      "ts": 1794826507409,
-      "type": "react",
-      "text": "React 💦😍❤️💗🫶 ke 0029Vb9clfK6mYPSqOhdgd2G/106",
       "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
       "username": "niko",
       "meta": null
