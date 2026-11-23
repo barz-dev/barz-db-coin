@@ -965,7 +965,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 18,
+      "limit": 16,
       "freeUsed": 2,
       "freeResetAt": 1793656984728,
       "claimedCodes": [
@@ -980,7 +980,7 @@
         "at": 1795022286389,
         "until": 1795108686389
       },
-      "totalReacts": 43,
+      "totalReacts": 44,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
