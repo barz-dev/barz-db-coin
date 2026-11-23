@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1998,
+      "limit": 1996,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 251,
+      "totalReacts": 252,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 484,
+        "lastId": 485,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 216,
-        "error": "Channel tidak ditemukan. Cek linknya.",
+        "reacted": 217,
+        "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795352581457
+        "lastAt": 1795394868505
       },
       "badge": {
         "icon": "crown",
@@ -13401,6 +13401,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwsjqyop-mwshcfig-6vue",
+      "ts": 1795394868505,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/485",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mws7qe7y-mws7ikw8-9ad9",
       "ts": 1795374686590,
       "type": "react",
@@ -15192,15 +15201,6 @@
       "text": "React 💦😍❤️💗🫶 ke 0029Vb9clfK6mYPSqOhdgd2G/106",
       "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
       "username": "niko",
-      "meta": null
-    },
-    {
-      "id": "mwj3tmmb-mwj0btxa-bit7",
-      "ts": 1794823923395,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/449",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
