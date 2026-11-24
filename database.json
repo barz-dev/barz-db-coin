@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 128,
+      "totalReacts": 129,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 806,
+        "lastId": 807,
         "emoji": "🔥",
-        "reacted": 97,
-        "error": "Channel tidak ditemukan. Cek linknya.",
+        "reacted": 98,
+        "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1795174495409
+        "lastAt": 1795504648892
       },
       "badge": {
         "icon": "biohazard",
@@ -13673,6 +13673,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwud3xrw-mwubvbno-y6x8",
+      "ts": 1795504648892,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/807",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwu5rsn4-mwu3mumm-i29j",
       "ts": 1795492325056,
       "type": "autoreact",
@@ -15462,15 +15471,6 @@
       "ts": 1794923392102,
       "type": "react",
       "text": "React 💞🫶💦⭐😱 ke 0029Vb9clfK6mYPSqOhdgd2G/106",
-      "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
-      "username": "niko",
-      "meta": null
-    },
-    {
-      "id": "mwkr03v4-mwkqzsai-5bu0",
-      "ts": 1794923323024,
-      "type": "react",
-      "text": "React 😍👍🔥🗿❤️ ke 0029Vb9clfK6mYPSqOhdgd2G/109",
       "uid": "user_3MAVpfaPSlFi1PFFyNASwzEaYX4",
       "username": "niko",
       "meta": null
