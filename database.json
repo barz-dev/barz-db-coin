@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 145,
+      "totalReacts": 146,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 823,
+        "lastId": 824,
         "emoji": "🔥",
-        "reacted": 114,
+        "reacted": 115,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1795505168072
+        "lastAt": 1795506736475
       },
       "badge": {
         "icon": "biohazard",
@@ -13675,6 +13675,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwuecokb-mwubvbo5-s4rx",
+      "ts": 1795506736475,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/824",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwudx4dg-mwudwvb9-0uoi",
       "ts": 1795506010468,
       "type": "react",
@@ -15466,15 +15475,6 @@
       "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3M8KDYggY9o4IkiTGRjBx3WOUBg",
       "username": "arc",
-      "meta": null
-    },
-    {
-      "id": "mwm5f07y-mwm4b7fv-ny0w",
-      "ts": 1795007998942,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/460",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
