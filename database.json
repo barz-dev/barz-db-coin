@@ -9354,7 +9354,8 @@
       ],
       "apiKey": "KAII_-CGZA75XQQUK3",
       "allowedHosts": [
-        "1.1.1.1"
+        "1.1.1.1",
+        "auto-reaction.zxcoderid.web.id"
       ],
       "banned": null,
       "totalReacts": 4,
