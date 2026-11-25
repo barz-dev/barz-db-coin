@@ -13488,7 +13488,7 @@
       "payUrl": "https://app.buatqris.site/trx/VGYQ-26MY-11MR-25J2",
       "payAmount": 2533,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795594323590,
       "expiresAt": 1795621324000,
       "fulfilled": false
