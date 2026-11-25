@@ -9353,7 +9353,9 @@
         "BARZ-BAIK"
       ],
       "apiKey": "KAII_-CGZA75XQQUK3",
-      "allowedHosts": [],
+      "allowedHosts": [
+        "1.1.1.1"
+      ],
       "banned": null,
       "totalReacts": 4,
       "legacyMigrated": true,
