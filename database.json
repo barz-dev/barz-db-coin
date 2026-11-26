@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1970,
+      "limit": 1968,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 265,
+      "totalReacts": 266,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 499,
+        "lastId": 500,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 231,
+        "reacted": 232,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795704920670
+        "lastAt": 1795704934403
       },
       "badge": {
         "icon": "crown",
@@ -13964,6 +13964,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxocr2b-mwxo04hm-ulrq",
+      "ts": 1795704934403,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/500",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwxocggu-mwxo04hl-na4a",
       "ts": 1795704920670,
       "type": "autoreact",
@@ -15755,15 +15764,6 @@
       "text": "BAN @tes 1h — tes",
       "uid": "user_3LR0ELCFRNKmUSCqYUgKd1iXCYJ",
       "username": "tes",
-      "meta": null
-    },
-    {
-      "id": "mwmatoda-mwmabhm4-ylk9",
-      "ts": 1795017081502,
-      "type": "react",
-      "text": "React 💦🗿🔥😱 ke 0029VbE3nDZ4o7qTUIWPOI31/100",
-      "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
-      "username": "yanzzxd",
       "meta": null
     }
   ],
