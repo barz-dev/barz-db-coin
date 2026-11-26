@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1990,
+      "limit": 1988,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 255,
+      "totalReacts": 256,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 488,
+        "lastId": 489,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 220,
-        "error": "Channel tidak ditemukan. Cek linknya.",
+        "reacted": 221,
+        "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795492325056
+        "lastAt": 1795704482725
       },
       "badge": {
         "icon": "crown",
@@ -13964,6 +13964,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxo32jp-mwxo04hb-qg1l",
+      "ts": 1795704482725,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/489",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwxo1lx9-mwxo04ha-v2se",
       "ts": 1795704414525,
       "type": "autoreact",
@@ -15755,15 +15764,6 @@
       "text": "React 🤣 ke 0029Vb8KMS32phHVPVQEXu1c/801 (owner)",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwm7m1cc-mwm7la6b-akgr",
-      "ts": 1795011686220,
-      "type": "react",
-      "text": "React 👍❤👌👆 ke 0029Vb8Ahsm2phHR7AkyIx2O/1048",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
