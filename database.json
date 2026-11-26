@@ -13733,6 +13733,26 @@
       "createdAt": 1795594323590,
       "expiresAt": 1795621324000,
       "fulfilled": false
+    },
+    "sbuMsp4qXwfJnQFDj_oZ": {
+      "id": "sbuMsp4qXwfJnQFDj_oZ",
+      "ref": "RCH-MWXKD5FT-3A0E9A",
+      "uid": "user_3Me4IkLuQTxiiFa8phbFKhqRa6E",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 50,
+      "amount": 2375,
+      "label": "50 Limit · diskon 5%",
+      "txId": "YJ9J-26YJ-11J8-26CF",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/YJ9J-26YJ-11J8-26CF.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/YJ9J-26YJ-11J8-26CF",
+      "payAmount": 2517,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1795698234569,
+      "expiresAt": 1795725235000,
+      "fulfilled": false
     }
   },
   "settings": {
