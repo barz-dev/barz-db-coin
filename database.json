@@ -13749,7 +13749,7 @@
       "payUrl": "https://app.buatqris.site/trx/YJ9J-26YJ-11J8-26CF",
       "payAmount": 2517,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795698234569,
       "expiresAt": 1795725235000,
       "fulfilled": false
