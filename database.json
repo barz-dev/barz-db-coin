@@ -12908,7 +12908,7 @@
       "id": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
       "email": "xa455077@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "xavier",
       "alias": "Xavier",
       "avatar": false,
       "avatarVer": 0,
@@ -12921,7 +12921,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "XAVIER-J5KNWX4CP8FL",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -13302,7 +13302,8 @@
     "denzz": "user_3Me4IkLuQTxiiFa8phbFKhqRa6E",
     "discord": "user_3MeJBq1XvR9Yr9ErL27wQXj1faA",
     "vinzz_": "user_3MeJau9NlL1vNDoxdtTK3I4SEzE",
-    "owkwkwkwkwkwk": "user_3MeRxc9iGmknhXXRRstyUu78uVQ"
+    "owkwkwkwkwkwk": "user_3MeRxc9iGmknhXXRRstyUu78uVQ",
+    "xavier": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -13669,7 +13670,8 @@
     "DENZZ-NSUY4LU34A2T": "user_3Me4IkLuQTxiiFa8phbFKhqRa6E",
     "DISCORD-PY7YGSJXPUPS": "user_3MeJBq1XvR9Yr9ErL27wQXj1faA",
     "VINZZ_-QP2US2Q34L5Z": "user_3MeJau9NlL1vNDoxdtTK3I4SEzE",
-    "OWKWKWKWKWKWK-DDNSMUR3J8KK": "user_3MeRxc9iGmknhXXRRstyUu78uVQ"
+    "OWKWKWKWKWKWK-DDNSMUR3J8KK": "user_3MeRxc9iGmknhXXRRstyUu78uVQ",
+    "XAVIER-J5KNWX4CP8FL": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
