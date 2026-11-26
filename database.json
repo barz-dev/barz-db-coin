@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1974,
+      "limit": 1972,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 263,
+      "totalReacts": 264,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 497,
+        "lastId": 498,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 229,
+        "reacted": 230,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795704760004
+        "lastAt": 1795704775485
       },
       "badge": {
         "icon": "crown",
@@ -13964,6 +13964,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxo9cfx-mwxo04hk-3kr1",
+      "ts": 1795704775485,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/498",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwxo90hw-mwxo04hj-u2y7",
       "ts": 1795704760004,
       "type": "autoreact",
@@ -15753,15 +15762,6 @@
       "ts": 1795017021656,
       "type": "react",
       "text": "React 💦🗿🔥😱 ke 0029VbE3nDZ4o7qTUIWPOI31/101",
-      "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
-      "username": "yanzzxd",
-      "meta": null
-    },
-    {
-      "id": "mwmaqq52-mwmabhmm-p2b6",
-      "ts": 1795016943830,
-      "type": "react",
-      "text": "React 😱💦🔥 ke 0029VbE3nDZ4o7qTUIWPOI31/103",
       "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
       "username": "yanzzxd",
       "meta": null
