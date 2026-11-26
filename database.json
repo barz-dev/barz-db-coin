@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 148,
+      "totalReacts": 149,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 826,
+        "lastId": 827,
         "emoji": "🔥",
-        "reacted": 117,
+        "reacted": 118,
         "error": "",
         "updatedAt": 1794067541326,
-        "lastAt": 1795704407358
+        "lastAt": 1795704414525
       },
       "badge": {
         "icon": "biohazard",
@@ -13964,6 +13964,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxo1lx9-mwxo04ha-v2se",
+      "ts": 1795704414525,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/827",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwxo1ge6-mwxo04h9-1l28",
       "ts": 1795704407358,
       "type": "autoreact",
@@ -15753,15 +15762,6 @@
       "ts": 1795011686220,
       "type": "react",
       "text": "React 👍❤👌👆 ke 0029Vb8Ahsm2phHR7AkyIx2O/1048",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
-      "meta": null
-    },
-    {
-      "id": "mwm7ljnu-mwm7la6a-j2ax",
-      "ts": 1795011663306,
-      "type": "react",
-      "text": "React 👆✅🔥👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1047",
       "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
       "username": "rasya",
       "meta": null
