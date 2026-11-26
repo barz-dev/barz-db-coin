@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1980,
+      "limit": 1978,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 260,
+      "totalReacts": 261,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 494,
+        "lastId": 495,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 226,
+        "reacted": 227,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795704724250
+        "lastAt": 1795704731162
       },
       "badge": {
         "icon": "crown",
@@ -13964,6 +13964,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxo8e8q-mwxo04hh-753o",
+      "ts": 1795704731162,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/495",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwxo88wq-mwxo04hg-leao",
       "ts": 1795704724250,
       "type": "autoreact",
@@ -15753,15 +15762,6 @@
       "ts": 1795016815336,
       "type": "react",
       "text": "React 🥳🗿💯💦🎉 ke 0029VbE3nDZ4o7qTUIWPOI31/104",
-      "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
-      "username": "yanzzxd",
-      "meta": null
-    },
-    {
-      "id": "mwmano08-mwmakko7-yids",
-      "ts": 1795016801096,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3MHnEqBeaZz7Pbg1j38jmDbdRrm",
       "username": "yanzzxd",
       "meta": null
