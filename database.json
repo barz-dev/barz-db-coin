@@ -13905,7 +13905,7 @@
       "payUrl": "https://app.buatqris.site/trx/YZC3-2688-11T2-27GK",
       "payAmount": 2508,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795726576459,
       "expiresAt": 1795753577000,
       "fulfilled": false
