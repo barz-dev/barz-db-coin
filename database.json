@@ -12918,13 +12918,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795769685789,
       "claimedCodes": [],
       "apiKey": "XAVIER-J5KNWX4CP8FL",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14099,6 +14099,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwy16o7x-mwy16by8-qf4o",
+      "ts": 1795726485789,
+      "type": "react",
+      "text": "React 😍👍🤣🗿 ke 0029Vb9r8f6EquiV0s9uUF0O/100 (gratis)",
+      "uid": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
+      "username": "xavier",
+      "meta": null
+    },
     {
       "id": "mwxvh6le-mwxvh5ow-7w9d",
       "ts": 1795716898466,
@@ -15889,15 +15898,6 @@
       "ts": 1795044697401,
       "type": "react",
       "text": "React 🤣 ke 0029VbEWL9eGufIoyVww4O2e/102 (gratis)",
-      "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
-      "username": "fikri_12",
-      "meta": null
-    },
-    {
-      "id": "mwmr8cme-mwmr2tvn-d5st",
-      "ts": 1795044639974,
-      "type": "react",
-      "text": "React 🤣👍🗿 ke 0029VbEWL9eGufIoyVww4O2e/101 (gratis)",
       "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
       "username": "fikri_12",
       "meta": null
