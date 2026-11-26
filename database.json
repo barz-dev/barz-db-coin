@@ -935,7 +935,7 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 149,
+      "totalReacts": 150,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
@@ -14066,6 +14066,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxvh6le-mwxvh5ow-7w9d",
+      "ts": 1795716898466,
+      "type": "react",
+      "text": "React 🤣⭐ ke 0029Vb8KMS32phHVPVQEXu1c/827 (owner)",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwxogr1w-mwxo04hq-rg0w",
       "ts": 1795705121012,
       "type": "autoreact",
@@ -15855,15 +15864,6 @@
       "ts": 1795044639974,
       "type": "react",
       "text": "React 🤣👍🗿 ke 0029VbEWL9eGufIoyVww4O2e/101 (gratis)",
-      "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
-      "username": "fikri_12",
-      "meta": null
-    },
-    {
-      "id": "mwmr5gu4-mwmr2ttj-vg09",
-      "ts": 1795044505468,
-      "type": "react",
-      "text": "React 🙏🤣👍🗿 ke 0029VbEWL9eGufIoyVww4O2e/100 (gratis)",
       "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
       "username": "fikri_12",
       "meta": null
