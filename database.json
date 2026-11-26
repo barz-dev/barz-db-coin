@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1962,
+      "limit": 1960,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 269,
+      "totalReacts": 270,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 503,
+        "lastId": 504,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 235,
+        "reacted": 236,
         "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795704979363
+        "lastAt": 1795705121012
       },
       "badge": {
         "icon": "crown",
@@ -13998,6 +13998,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwxogr1w-mwxo04hq-rg0w",
+      "ts": 1795705121012,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/504",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwxodpr8-mwxo04hp-4d3j",
       "ts": 1795704979364,
       "type": "autoreact",
@@ -15789,15 +15798,6 @@
       "text": "React 🙏🤣👍🗿 ke 0029VbEWL9eGufIoyVww4O2e/100 (gratis)",
       "uid": "user_3MIiBn70QG234iIYlBFheS0vlAn",
       "username": "fikri_12",
-      "meta": null
-    },
-    {
-      "id": "mwmo53gg-mwmo35c0-ux1z",
-      "ts": 1795039449280,
-      "type": "react",
-      "text": "React 🤑 ke 0029Vb7Yu2lJ3jutOcIHQs16/113",
-      "uid": "user_3M6Cwa8u3225zkNLSXjF3MrrwNd",
-      "username": "alek",
       "meta": null
     }
   ],
