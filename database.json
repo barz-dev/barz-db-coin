@@ -13889,6 +13889,26 @@
       "createdAt": 1795698234569,
       "expiresAt": 1795725235000,
       "fulfilled": false
+    },
+    "mCVrANr4Iy22t_WhuN90": {
+      "id": "mCVrANr4Iy22t_WhuN90",
+      "ref": "RCH-MWY18M6J-AD810C",
+      "uid": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
+      "gw": "buatqris",
+      "kind": "limit",
+      "units": 50,
+      "amount": 2375,
+      "label": "50 Limit · diskon 5%",
+      "txId": "YZC3-2688-11T2-27GK",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/YZC3-2688-11T2-27GK.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/YZC3-2688-11T2-27GK",
+      "payAmount": 2508,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1795726576459,
+      "expiresAt": 1795753577000,
+      "fulfilled": false
     }
   },
   "settings": {
