@@ -14456,7 +14456,7 @@
       "payUrl": "https://app.buatqris.site/trx/87SU-26FE-114C-27RX",
       "payAmount": 2544,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795794485333,
       "expiresAt": 1795821486000,
       "fulfilled": false
