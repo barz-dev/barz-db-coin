@@ -13302,13 +13302,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795829453282,
       "claimedCodes": [],
       "apiKey": "JOKI-BDW9RLPNF43L",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14527,6 +14527,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz0rp42-mwz0nd4t-thh0",
+      "ts": 1795786253282,
+      "type": "react",
+      "text": "React 👍🔥💯🎉 ke 0029VbE7mQZElagvLI0Scx1E/100 (gratis)",
+      "uid": "user_3MgxnLJ6z3BsL8X4NB3cFgeyW6q",
+      "username": "joki",
+      "meta": null
+    },
     {
       "id": "mwz0qvzw-mwz0nd24-pxxo",
       "ts": 1795786215548,
@@ -16314,15 +16323,6 @@
       "ts": 1795128007122,
       "type": "react",
       "text": "React 😓💕💜🙂 ke 0029VbDStdXF1YlJVxwHOX1Y/317",
-      "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
-      "username": "jenna",
-      "meta": null
-    },
-    {
-      "id": "mwo4i04n-mwo4h8yv-ckvh",
-      "ts": 1795127391527,
-      "type": "react",
-      "text": "React 👻🗿🥳✨ ke 0029VbEI3i1KgsNvexvVa247/102",
       "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
       "username": "jenna",
       "meta": null
