@@ -9346,9 +9346,9 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 35,
+      "limit": 33,
       "freeUsed": 0,
-      "freeResetAt": 1795144818068,
+      "freeResetAt": 1795833010532,
       "claimedCodes": [
         "BARZ-BAIK"
       ],
@@ -9358,7 +9358,7 @@
         "auto-reaction.zxcoderid.web.id"
       ],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14562,6 +14562,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwz2vxwk-mwz2v1dr-7268",
+      "ts": 1795789810532,
+      "type": "react",
+      "text": "React 👻 ke 0029Vb7rZ6T7j6gDkLnNca3h/19790",
+      "uid": "user_3MBAlEqvz5KIgIRSCf89D7UkojL",
+      "username": "kaii_",
+      "meta": null
+    },
+    {
       "id": "mwz14woi-mwz0nd28-p0gh",
       "ts": 1795786869618,
       "type": "react",
@@ -16348,15 +16357,6 @@
       "ts": 1795138445978,
       "type": "react",
       "text": "React 💯💯💯💯💯 ke 0029Vb97WhK4IBhBc6IyZZ15/182 (gratis)",
-      "uid": "user_3MLmOQQjYIQJU5kpZQDdh3SfoMk",
-      "username": "vaking",
-      "meta": null
-    },
-    {
-      "id": "mwob1nq1-mwoaxzgc-g0tn",
-      "ts": 1795138386265,
-      "type": "react",
-      "text": "React 🔥👍🥰🥳💯 ke 0029Vb97WhK4IBhBc6IyZZ15/185 (gratis)",
       "uid": "user_3MLmOQQjYIQJU5kpZQDdh3SfoMk",
       "username": "vaking",
       "meta": null
