@@ -13142,13 +13142,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795813611182,
       "claimedCodes": [],
       "apiKey": "RELZZNOGIMIC-9LT4CZQ2QQXJ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14357,6 +14357,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyrc59q-mwyrb9xx-xjax",
+      "ts": 1795770411182,
+      "type": "react",
+      "text": "React 👍👍👍👍👍 ke 0029VbDnv2mE50Ue51pXLJ2Z/100 (gratis)",
+      "uid": "user_3MgRhupKOTHIEst08toYhfNraUD",
+      "username": "relzznogimic",
+      "meta": null
+    },
     {
       "id": "mwyquw6d-mwyqqrwy-hgz0",
       "ts": 1795769606245,
@@ -16144,15 +16153,6 @@
       "ts": 1795090893040,
       "type": "react",
       "text": "React 👍💯 ke 0029Vb9Koj559PwJpWbnBV1X/104",
-      "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
-      "username": "riss_11",
-      "meta": null
-    },
-    {
-      "id": "mwnirhgd-mwninqo3-7auz",
-      "ts": 1795090882333,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
       "username": "riss_11",
       "meta": null
