@@ -7569,14 +7569,14 @@
       "roleExpiresAt": 1797007340715,
       "rolePermanent": false,
       "roleMonths": 1,
-      "limit": 854,
+      "limit": 852,
       "freeUsed": 0,
       "freeResetAt": 1795827326737,
       "claimedCodes": [],
       "apiKey": "RASYA-59U2ZWDY86QZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 76,
+      "totalReacts": 77,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14426,6 +14426,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwyzjk6d-mwyzh7a0-w0i7",
+      "ts": 1795784194021,
+      "type": "react",
+      "text": "React 🔥👆🥶😳 ke 0029Vb8Ahsm2phHR7AkyIx2O/1098",
+      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
+      "username": "rasya",
+      "meta": null
+    },
+    {
       "id": "mwyzj5m4-mwyzh79z-5nj0",
       "ts": 1795784175148,
       "type": "react",
@@ -16214,15 +16223,6 @@
       "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/805",
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
-      "meta": null
-    },
-    {
-      "id": "mwnlpmvq-mwnldehp-lv9e",
-      "ts": 1795095834902,
-      "type": "react",
-      "text": "React 👆✅🔥👍 ke 0029Vb8Ahsm2phHR7AkyIx2O/1058",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
