@@ -13399,13 +13399,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795838665256,
       "claimedCodes": [],
       "apiKey": "ARTHUR-YR5BJWPAVE3E",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14670,6 +14670,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz69548-mwz68ckp-cvp5",
+      "ts": 1795795465256,
+      "type": "react",
+      "text": "React 🔥👍 ke 0029VbE4hIA1Xque69cl3W0E/277 (gratis)",
+      "uid": "user_3MhEeixrv2DaASvj8Tj08BrlXHH",
+      "username": "arthur",
+      "meta": null
+    },
     {
       "id": "mwz5031v-mwz4mjxa-7fv8",
       "ts": 1795793363059,
@@ -16459,15 +16468,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/468",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwok08en-mwojntqn-7qyw",
-      "ts": 1795153436303,
-      "type": "react",
-      "text": "React 👻🎯🥰 ke 0029Vb9eirpCBtxJsTAkYt3o/185 (gratis)",
-      "uid": "user_3MMG4Lpu62vldA4tdxXhTZ0xl2K",
-      "username": "fizzyganteng123",
       "meta": null
     }
   ],
