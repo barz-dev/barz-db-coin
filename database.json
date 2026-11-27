@@ -13046,13 +13046,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795808565817,
       "claimedCodes": [],
       "apiKey": "KEVIN_000-P6DWKHNFRA82",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14255,6 +14255,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyoc08p-mwyo8rf1-c1pi",
+      "ts": 1795765365817,
+      "type": "react",
+      "text": "React 👍💯🍀🤣🗿 ke 0029VbEba1z9MF975rmlNq0X/147 (gratis)",
+      "uid": "user_3MgHG4MqV5obhAR8S1aCJJGrZZI",
+      "username": "kevin_000",
+      "meta": null
+    },
     {
       "id": "mwyhzyg6-mwygoc6b-kri9",
       "ts": 1795754725926,
@@ -16044,15 +16053,6 @@
       "text": "React 💀👻 ke 0029Vb9phNYDzgTECXznnm33/173 (gratis)",
       "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
       "username": "jokowi_717",
-      "meta": null
-    },
-    {
-      "id": "mwnekvg5-mwnek6yw-fs93",
-      "ts": 1795083855413,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
-      "uid": "user_3MK0AgAzxR1fDNTNpMxlVUpkBOz",
-      "username": "danen",
       "meta": null
     }
   ],
