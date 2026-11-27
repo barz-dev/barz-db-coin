@@ -13078,13 +13078,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795808736298,
       "claimedCodes": [],
       "apiKey": "LIPP-X6384SM244XN",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14289,6 +14289,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyofwqq-mwyo8ref-7r9e",
+      "ts": 1795765547906,
+      "type": "react",
+      "text": "React 🗿💦🤤😂🍀 ke 0029VbDwl7MDZ4LSgowskD2g/38 (gratis)",
+      "uid": "user_3MgHhqRsKN1OYrt3JXIxTma2SvS",
+      "username": "lipp",
+      "meta": null
+    },
     {
       "id": "mwyofnsa-mwyo8ree-umwu",
       "ts": 1795765536298,
@@ -16078,15 +16087,6 @@
       "text": "React 👍💯 ke 0029Vb9Koj559PwJpWbnBV1X/103 (gratis)",
       "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
       "username": "riss_11",
-      "meta": null
-    },
-    {
-      "id": "mwnimxul-mwni84s9-pwz7",
-      "ts": 1795090670301,
-      "type": "react",
-      "text": "React 🔥👆🥶😳 ke 0029Vb8Ahsm2phHR7AkyIx2O/1056",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
