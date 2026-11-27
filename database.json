@@ -12790,13 +12790,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 3,
-      "freeResetAt": 1795745920898,
+      "freeUsed": 1,
+      "freeResetAt": 1795795823137,
       "claimedCodes": [],
       "apiKey": "DENZZ-NSUY4LU34A2T",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 3,
+      "totalReacts": 4,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14187,6 +14187,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwygqvxd-mwygn5vf-bg9v",
+      "ts": 1795752623137,
+      "type": "react",
+      "text": "React 👍 ke 0029Vb9BFw46hENhZHdxun40/112 (gratis)",
+      "uid": "user_3Me4IkLuQTxiiFa8phbFKhqRa6E",
+      "username": "denzz",
+      "meta": null
+    },
     {
       "id": "mwyfaha7-mwyf8hy9-vwtv",
       "ts": 1795750178047,
@@ -15975,15 +15984,6 @@
     {
       "id": "mwn7w2wd-mwn7v9g4-73pe",
       "ts": 1795072620973,
-      "type": "react",
-      "text": "React 🎯🥰😍🥳💦 ke 0029Vb9WqSg3AzNYlIZfGz3c/140 (gratis)",
-      "uid": "user_3MC7fcwnwvj7eveEKk8aqQtfF9S",
-      "username": "nopal",
-      "meta": null
-    },
-    {
-      "id": "mwn7vyku-mwn7v9g3-aalu",
-      "ts": 1795072615374,
       "type": "react",
       "text": "React 🎯🥰😍🥳💦 ke 0029Vb9WqSg3AzNYlIZfGz3c/140 (gratis)",
       "uid": "user_3MC7fcwnwvj7eveEKk8aqQtfF9S",
