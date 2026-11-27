@@ -13238,13 +13238,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795828055611,
       "claimedCodes": [],
       "apiKey": "BASANG-JLDT46WYY7AT",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14459,6 +14459,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyzxqnv-mwyzh71d-evp4",
+      "ts": 1795784855611,
+      "type": "react",
+      "text": "React 👍 ke 0029VbBmCyp7oQhXViSYKo2T/1291 (gratis)",
+      "uid": "user_3MguxHrI3XMTVTkByC11IJp7CZg",
+      "username": "basang",
+      "meta": null
+    },
     {
       "id": "mwyzpi9j-mwyzh71c-fqv5",
       "ts": 1795784471479,
@@ -16248,15 +16257,6 @@
       "text": "React 🥰👍🔥🥳😍 ke 0029Vb9phNYDzgTECXznnm33/192 (gratis)",
       "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
       "username": "jokowi_717",
-      "meta": null
-    },
-    {
-      "id": "mwnqb334-mwnpye49-aisa",
-      "ts": 1795103554144,
-      "type": "react",
-      "text": "React 🤑👍👌🔥 ke 0029Vb8Ahsm2phHR7AkyIx2O/1060",
-      "uid": "user_3Ly8E7ZanVufsJWYOChvjhSzrHv",
-      "username": "rasya",
       "meta": null
     }
   ],
