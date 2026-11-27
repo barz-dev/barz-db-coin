@@ -12920,12 +12920,12 @@
       "roleMonths": 0,
       "limit": 0,
       "freeUsed": 1,
-      "freeResetAt": 1795769685789,
+      "freeResetAt": 1795848230335,
       "claimedCodes": [],
       "apiKey": "XAVIER-J5KNWX4CP8FL",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14670,6 +14670,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwzby5kv-mwzbxloa-axel",
+      "ts": 1795805030335,
+      "type": "react",
+      "text": "React 🔥😍😂💔🐒 ke 0029Vb9oYOEK0IBgi8XoPs3o/109 (gratis)",
+      "uid": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
+      "username": "xavier",
+      "meta": null
+    },
     {
       "id": "mwz6kthu-mwz6js4e-4qdt",
       "ts": 1795796010066,
@@ -16455,15 +16464,6 @@
     {
       "id": "mwooj45p-mwoodz1t-usty",
       "ts": 1795161035725,
-      "type": "react",
-      "text": "React 😱💦🍀👍😍 ke 0029Vb9WmgX6hENr6SHFxc1m/1900 (gratis)",
-      "uid": "user_3MMVMc9ClcOfxc9JsQy9Tds08Q3",
-      "username": "rkszz123",
-      "meta": null
-    },
-    {
-      "id": "mwooibv7-mwoodz1s-e5da",
-      "ts": 1795160999059,
       "type": "react",
       "text": "React 😱💦🍀👍😍 ke 0029Vb9WmgX6hENr6SHFxc1m/1900 (gratis)",
       "uid": "user_3MMVMc9ClcOfxc9JsQy9Tds08Q3",
