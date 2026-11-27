@@ -13270,13 +13270,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795829348134,
       "claimedCodes": [],
       "apiKey": "TUNG-FLSXC8XNC2KA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14493,6 +14493,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz0pfza-mwz0nd4r-ukap",
+      "ts": 1795786148134,
+      "type": "react",
+      "text": "React 👍😍🗿💜☠️ ke 0029Vb9sx2W1yT2FlNkp6L3H/100 (gratis)",
+      "uid": "user_3MgxUsXaNoTfuzK8UxFbhNKULog",
+      "username": "tung",
+      "meta": null
+    },
     {
       "id": "mwyzxqnv-mwyzh71d-evp4",
       "ts": 1795784855611,
@@ -16280,15 +16289,6 @@
       "ts": 1795105108195,
       "type": "react",
       "text": "React 🖕 ke 0029VbCFfSe6xCSYNh4Ue82v/6284 (gratis)",
-      "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
-      "username": "jokowi_717",
-      "meta": null
-    },
-    {
-      "id": "mwnr6h31-mwnr68qk-x98w",
-      "ts": 1795105018621,
-      "type": "react",
-      "text": "React 🥰👍🔥🥳😍 ke 0029Vb9phNYDzgTECXznnm33/192 (gratis)",
       "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
       "username": "jokowi_717",
       "meta": null
