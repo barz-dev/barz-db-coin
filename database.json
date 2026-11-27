@@ -13270,13 +13270,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795829348134,
       "claimedCodes": [],
       "apiKey": "TUNG-FLSXC8XNC2KA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14493,6 +14493,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz0pm0y-mwz0nd4s-ftf4",
+      "ts": 1795786155970,
+      "type": "react",
+      "text": "React 👍😍🗿💜☠️ ke 0029Vb9sx2W1yT2FlNkp6L3H/100 (gratis)",
+      "uid": "user_3MgxUsXaNoTfuzK8UxFbhNKULog",
+      "username": "tung",
+      "meta": null
+    },
     {
       "id": "mwz0pfza-mwz0nd4r-ukap",
       "ts": 1795786148134,
@@ -16282,15 +16291,6 @@
       "text": "React 😂 ke 0029VbCFfSe6xCSYNh4Ue82v/6284 (gratis)",
       "uid": "user_3MKhVYSRvvsZT8iyXJWFVWdu4t5",
       "username": "yantikont",
-      "meta": null
-    },
-    {
-      "id": "mwnr8e77-mwnr68ql-me99",
-      "ts": 1795105108195,
-      "type": "react",
-      "text": "React 🖕 ke 0029VbCFfSe6xCSYNh4Ue82v/6284 (gratis)",
-      "uid": "user_3MJyGEXvDfWj1TCrHXtx8diOEe3",
-      "username": "jokowi_717",
       "meta": null
     }
   ],
