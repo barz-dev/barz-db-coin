@@ -13142,13 +13142,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795813611182,
       "claimedCodes": [],
       "apiKey": "RELZZNOGIMIC-9LT4CZQ2QQXJ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14357,6 +14357,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyrec6z-mwyrb9xy-e4ym",
+      "ts": 1795770513467,
+      "type": "react",
+      "text": "React 👍⭐👏 ke 0029VbDnv2mE50Ue51pXLJ2Z/100 (gratis)",
+      "uid": "user_3MgRhupKOTHIEst08toYhfNraUD",
+      "username": "relzznogimic",
+      "meta": null
+    },
     {
       "id": "mwyrcvnz-mwyrb9w6-q540",
       "ts": 1795770445391,
@@ -16146,15 +16155,6 @@
       "text": "React 👍🥰🔥 ke 0029VbDZQsrGOj9woGleO43x/437",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
       "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwnit9ei-mwninqo4-wc21",
-      "ts": 1795090965210,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
-      "uid": "user_3MBAlEqvz5KIgIRSCf89D7UkojL",
-      "username": "kaii_",
       "meta": null
     }
   ],
