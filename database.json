@@ -14436,7 +14436,7 @@
       "payUrl": "https://app.buatqris.site/trx/9LQW-26CM-11DB-27E9",
       "payAmount": 2478,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795794453346,
       "expiresAt": 1795821454000,
       "fulfilled": false
