@@ -13270,13 +13270,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795829348134,
       "claimedCodes": [],
       "apiKey": "TUNG-FLSXC8XNC2KA",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14527,6 +14527,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz0qvzw-mwz0nd24-pxxo",
+      "ts": 1795786215548,
+      "type": "react",
+      "text": "React 👍😍🗿💜☠️ ke 0029Vb9sx2W1yT2FlNkp6L3H/100 (gratis)",
+      "uid": "user_3MgxUsXaNoTfuzK8UxFbhNKULog",
+      "username": "tung",
+      "meta": null
+    },
     {
       "id": "mwz0pm0y-mwz0nd4s-ftf4",
       "ts": 1795786155970,
@@ -16316,15 +16325,6 @@
       "text": "React 👻🗿🥳✨ ke 0029VbEI3i1KgsNvexvVa247/102",
       "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
       "username": "jenna",
-      "meta": null
-    },
-    {
-      "id": "mwnrbnvw-mwnr68qm-rgma",
-      "ts": 1795105260716,
-      "type": "react",
-      "text": "React 😂 ke 0029VbCFfSe6xCSYNh4Ue82v/6284 (gratis)",
-      "uid": "user_3MKhVYSRvvsZT8iyXJWFVWdu4t5",
-      "username": "yantikont",
       "meta": null
     }
   ],
