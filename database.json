@@ -13367,13 +13367,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795836073642,
       "claimedCodes": [],
       "apiKey": "SEONGHYEON_14-YBB6QFNXMJTZ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14596,6 +14596,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz5031v-mwz4mjxa-7fv8",
+      "ts": 1795793363059,
+      "type": "react",
+      "text": "React 😍🫠🤍🫶 ke 0029Vb8qBoNDZ4LUdqAgSY1F/308 (gratis)",
+      "uid": "user_3MhAyYEfh1RYcoUCTudL2xuUKgi",
+      "username": "seonghyeon_14",
+      "meta": null
+    },
     {
       "id": "mwz4q8ls-mwz4mjx9-ac20",
       "ts": 1795792903696,
@@ -16385,15 +16394,6 @@
       "text": "React 👻🎯🥰 ke 0029Vb9eirpCBtxJsTAkYt3o/185 (gratis)",
       "uid": "user_3MMG4Lpu62vldA4tdxXhTZ0xl2K",
       "username": "fizzyganteng123",
-      "meta": null
-    },
-    {
-      "id": "mwohidol-mwoha3wq-agwf",
-      "ts": 1795149244101,
-      "type": "react",
-      "text": "React 💦💦💦💦🍀 ke 0029VbEXLovFCCobdKgYAx26/106 (gratis)",
-      "uid": "user_3MM7yLePquuj01jnIY4qFDeDfAx",
-      "username": "ddkii_13",
       "meta": null
     }
   ],
