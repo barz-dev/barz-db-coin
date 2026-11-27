@@ -13431,13 +13431,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795864830848,
       "claimedCodes": [],
       "apiKey": "DITZZX-P6HDRQVKT8WH",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14704,6 +14704,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwzlw7o1-mwzlt6zo-vhrz",
+      "ts": 1795821735889,
+      "type": "react",
+      "text": "React 😂😭😢 ke 0029VbDzPVECxoAqQhROak3w/471 (gratis)",
+      "uid": "user_3Mi7XyPUvWgIKDgCw67auoVhRPF",
+      "username": "ditzzx",
+      "meta": null
+    },
     {
       "id": "mwzlu4ot-mwzlt6zn-8yy0",
       "ts": 1795821638717,
@@ -16491,15 +16500,6 @@
       "ts": 1795166580469,
       "type": "react",
       "text": "React 💦💦💦💦 ke 0029VbDfnH2CBtxHZJJVV910/128 (gratis)",
-      "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
-      "username": "kakan",
-      "meta": null
-    },
-    {
-      "id": "mwors3rm-mworqxjk-581f",
-      "ts": 1795166493970,
-      "type": "react",
-      "text": "React 💦 ke 0029VbDfnH2CBtxHZJJVV910/718 (gratis)",
       "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
       "username": "kakan",
       "meta": null
