@@ -13431,13 +13431,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795864830848,
       "claimedCodes": [],
       "apiKey": "DITZZX-P6HDRQVKT8WH",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14704,6 +14704,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwzlu4ot-mwzlt6zn-8yy0",
+      "ts": 1795821638717,
+      "type": "react",
+      "text": "React 😂😭😢 ke 0029VbDzPVECxoAqQhROak3w/471 (gratis)",
+      "uid": "user_3Mi7XyPUvWgIKDgCw67auoVhRPF",
+      "username": "ditzzx",
+      "meta": null
+    },
     {
       "id": "mwzltym9-mwzlt6zm-xgfo",
       "ts": 1795821630849,
@@ -16493,15 +16502,6 @@
       "text": "React 💦 ke 0029VbDfnH2CBtxHZJJVV910/718 (gratis)",
       "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
       "username": "kakan",
-      "meta": null
-    },
-    {
-      "id": "mwoqscgp-mwoqe94a-qia2",
-      "ts": 1795164825625,
-      "type": "react",
-      "text": "React 🗿👻 ke 0029VbDo6vx17EmxcxIT3x3f/102 (gratis)",
-      "uid": "user_3MAbTeN2pTbfIinkriYIQ9vWOxA",
-      "username": "brat",
       "meta": null
     }
   ],
