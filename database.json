@@ -13206,13 +13206,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795823331963,
       "claimedCodes": [],
       "apiKey": "MANZ-H9DFT7U4RG4D",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14425,6 +14425,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyx4hvf-mwyx4f5c-kbqx",
+      "ts": 1795780131963,
+      "type": "react",
+      "text": "React 👍 ke 0029VbEYni7Ae5VwAEdZK02O/263 (gratis)",
+      "uid": "user_3MglVHC08X6JEJ3dlVYjEi9m8Hv",
+      "username": "manz",
+      "meta": null
+    },
     {
       "id": "mwys6br2-mwys42sa-0tya",
       "ts": 1795771819262,
@@ -16210,15 +16219,6 @@
     {
       "id": "mwnji824-mwnikrd6-qp8g",
       "ts": 1795092129868,
-      "type": "react",
-      "text": "React 👍❤️🙏 ke 0029VbEEgfZ96H4XFqcUqJ2A/542",
-      "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
-      "username": "piann_",
-      "meta": null
-    },
-    {
-      "id": "mwnjhpxv-mwnikrd5-3wyg",
-      "ts": 1795092106387,
       "type": "react",
       "text": "React 👍❤️🙏 ke 0029VbEEgfZ96H4XFqcUqJ2A/542",
       "uid": "user_3LeRfQTwQDQCpESWZL3XHgTywB8",
