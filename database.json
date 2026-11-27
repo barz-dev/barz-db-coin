@@ -9346,7 +9346,7 @@
       "roleExpiresAt": 0,
       "rolePermanent": false,
       "roleMonths": 0,
-      "limit": 33,
+      "limit": 31,
       "freeUsed": 0,
       "freeResetAt": 1795833010532,
       "claimedCodes": [
@@ -9358,7 +9358,7 @@
         "auto-reaction.zxcoderid.web.id"
       ],
       "banned": null,
-      "totalReacts": 5,
+      "totalReacts": 6,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14562,6 +14562,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwz30ug4-mwz2v1cu-agsf",
+      "ts": 1795790039332,
+      "type": "react",
+      "text": "React 👻 ke 0029Vb7rZ6T7j6gDkLnNca3h/19790",
+      "uid": "user_3MBAlEqvz5KIgIRSCf89D7UkojL",
+      "username": "kaii_",
+      "meta": null
+    },
+    {
       "id": "mwz2vxwk-mwz2v1dr-7268",
       "ts": 1795789810532,
       "type": "react",
@@ -16350,15 +16359,6 @@
       "text": "React 😈🤩🔥🤪🙌 ke 0029VbENcn3IyPtPmJ9obi3o/361 (gratis)",
       "uid": "user_3MDbqsLjlyUDuTRZSGeduMbNtNT",
       "username": "fallniehh",
-      "meta": null
-    },
-    {
-      "id": "mwob2xsq-mwoaxz6q-mbwd",
-      "ts": 1795138445978,
-      "type": "react",
-      "text": "React 💯💯💯💯💯 ke 0029Vb97WhK4IBhBc6IyZZ15/182 (gratis)",
-      "uid": "user_3MLmOQQjYIQJU5kpZQDdh3SfoMk",
-      "username": "vaking",
       "meta": null
     }
   ],
