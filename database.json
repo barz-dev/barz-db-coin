@@ -12940,7 +12940,7 @@
       "id": "user_3MfmMNTjZHMAef9rttEpSYqP1l2",
       "email": "dukunganmetaai@gmail.com",
       "emailVerified": true,
-      "username": "",
+      "username": "kayse",
       "alias": "DUKUNGAN",
       "avatar": false,
       "avatarVer": 0,
@@ -12953,7 +12953,7 @@
       "freeUsed": 0,
       "freeResetAt": 0,
       "claimedCodes": [],
-      "apiKey": "",
+      "apiKey": "KAYSE-NKMKW58RVYGM",
       "allowedHosts": [],
       "banned": null,
       "totalReacts": 0,
@@ -13335,7 +13335,8 @@
     "discord": "user_3MeJBq1XvR9Yr9ErL27wQXj1faA",
     "vinzz_": "user_3MeJau9NlL1vNDoxdtTK3I4SEzE",
     "owkwkwkwkwkwk": "user_3MeRxc9iGmknhXXRRstyUu78uVQ",
-    "xavier": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm"
+    "xavier": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
+    "kayse": "user_3MfmMNTjZHMAef9rttEpSYqP1l2"
   },
   "apikeys": {
     "BARZ_DEV-64GWQU8TUB48": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
@@ -13703,7 +13704,8 @@
     "DISCORD-PY7YGSJXPUPS": "user_3MeJBq1XvR9Yr9ErL27wQXj1faA",
     "VINZZ_-QP2US2Q34L5Z": "user_3MeJau9NlL1vNDoxdtTK3I4SEzE",
     "OWKWKWKWKWKWK-DDNSMUR3J8KK": "user_3MeRxc9iGmknhXXRRstyUu78uVQ",
-    "XAVIER-J5KNWX4CP8FL": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm"
+    "XAVIER-J5KNWX4CP8FL": "user_3Mf0ipTli4pg8yeyUXF4jyyZxZm",
+    "KAYSE-NKMKW58RVYGM": "user_3MfmMNTjZHMAef9rttEpSYqP1l2"
   },
   "orders": {
     "gsVovOraBQBhERMsRoyW": {
