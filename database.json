@@ -5702,24 +5702,24 @@
       "roleExpiresAt": 0,
       "rolePermanent": true,
       "roleMonths": 0,
-      "limit": 1960,
+      "limit": 1958,
       "freeUsed": 0,
       "freeResetAt": 1794255381401,
       "claimedCodes": [],
       "apiKey": "NOTZACK-3HB6X6KLZVNR",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 270,
+      "totalReacts": 271,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029VbCOihwFCCoTtsKHkt0E",
-        "lastId": 504,
+        "lastId": 505,
         "emoji": "🗿✨🥰💕🍀",
-        "reacted": 236,
-        "error": "Channel tidak ditemukan. Cek linknya.",
+        "reacted": 237,
+        "error": "",
         "updatedAt": 1794380188473,
-        "lastAt": 1795705121012
+        "lastAt": 1795786425904
       },
       "badge": {
         "icon": "crown",
@@ -14562,6 +14562,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwz0veb4-mwz0ve41-73dt",
+      "ts": 1795786425904,
+      "type": "autoreact",
+      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/505",
+      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
+      "username": "notzack",
+      "meta": null
+    },
+    {
       "id": "mwz0rp42-mwz0nd4t-thh0",
       "ts": 1795786253282,
       "type": "react",
@@ -16348,15 +16357,6 @@
       "ts": 1795128725954,
       "type": "react",
       "text": "React 💜💜💜 ke 0029VbDStdXF1YlJVxwHOX1Y/317",
-      "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
-      "username": "jenna",
-      "meta": null
-    },
-    {
-      "id": "mwo4v74i-mwo4h8yz-eyku",
-      "ts": 1795128007122,
-      "type": "react",
-      "text": "React 😓💕💜🙂 ke 0029VbDStdXF1YlJVxwHOX1Y/317",
       "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
       "username": "jenna",
       "meta": null
