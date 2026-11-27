@@ -935,17 +935,17 @@
       "apiKey": "BARZ_DEV-64GWQU8TUB48",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 151,
+      "totalReacts": 152,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": true,
         "code": "0029Vb8KMS32phHVPVQEXu1c",
-        "lastId": 828,
+        "lastId": 829,
         "emoji": "🔥",
-        "reacted": 119,
+        "reacted": 120,
         "error": "",
         "updatedAt": 1795716389255,
-        "lastAt": 1795754725926
+        "lastAt": 1795795990558
       },
       "badge": {
         "icon": "biohazard",
@@ -14671,6 +14671,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwz6kefy-mwz448qy-onbm",
+      "ts": 1795795990558,
+      "type": "autoreact",
+      "text": "Auto react 🔥 ke 0029Vb8KMS32phHVPVQEXu1c/829",
+      "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
+      "username": "barz_dev",
+      "meta": null
+    },
+    {
       "id": "mwz6kdiw-mwz6js4d-u9vp",
       "ts": 1795795989368,
       "type": "react",
@@ -16459,15 +16468,6 @@
       "text": "React ❤️ ke 0029Vb9J61hDJ6GuSr2KsS0v/1054 (gratis)",
       "uid": "user_3MMPcBPkTkSu0EyrWLclhfcFGEL",
       "username": "jokowidodo6767",
-      "meta": null
-    },
-    {
-      "id": "mwol9aq8-mwojijzo-1pfq",
-      "ts": 1795155538832,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/469",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
