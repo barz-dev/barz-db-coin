@@ -13334,13 +13334,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795829693048,
       "claimedCodes": [],
       "apiKey": "AXE_05-TF3KAJEXPHWN",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14561,6 +14561,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwz0wu48-mwz0nd25-41gi",
+      "ts": 1795786493048,
+      "type": "react",
+      "text": "React 😨 ke 0029VbEZEJ2EwEjtVFBhm32g/102 (gratis)",
+      "uid": "user_3Mgy4NuQMlljyoRyv7TTGN05m5m",
+      "username": "axe_05",
+      "meta": null
+    },
     {
       "id": "mwz0veb4-mwz0ve41-73dt",
       "ts": 1795786425904,
@@ -16350,15 +16359,6 @@
       "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/466",
       "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
       "username": "notzack",
-      "meta": null
-    },
-    {
-      "id": "mwo5als2-mwo5a6x7-nvx2",
-      "ts": 1795128725954,
-      "type": "react",
-      "text": "React 💜💜💜 ke 0029VbDStdXF1YlJVxwHOX1Y/317",
-      "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
-      "username": "jenna",
       "meta": null
     }
   ],
