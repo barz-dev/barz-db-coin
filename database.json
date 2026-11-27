@@ -4259,13 +4259,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795824978347,
       "claimedCodes": [],
       "apiKey": "AMBA-NCH9FAK5DQ4X",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14426,6 +14426,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mwyyka72-mwyyja2e-k39t",
+      "ts": 1795782548126,
+      "type": "react",
+      "text": "React ❌ ke 0029VbEOktFDjiOZM2xKX81O/211 (gratis)",
+      "uid": "user_3Lf5oePZ86ih5l6NM652AtWCWod",
+      "username": "amba",
+      "meta": null
+    },
+    {
       "id": "mwyy3s8b-mwyy3fap-jkcq",
       "ts": 1795781778347,
       "type": "react",
@@ -16212,15 +16221,6 @@
       "ts": 1795095446999,
       "type": "react",
       "text": "React 😱🎯🤡👏🎉 ke 0029Vb81pA3L2ATzEPGDTj3P/1111 (gratis)",
-      "uid": "user_3MKNLaQybvONPAPAjj1ckG2Af89",
-      "username": "amar1",
-      "meta": null
-    },
-    {
-      "id": "mwnleryx-mwnldeic-m6ar",
-      "ts": 1795095328281,
-      "type": "react",
-      "text": "React 👻🥰🍀🗿🤡 ke 0029Vb7jsS48PgsBYKSnPB1V/3715 (gratis)",
       "uid": "user_3MKNLaQybvONPAPAjj1ckG2Af89",
       "username": "amar1",
       "meta": null
