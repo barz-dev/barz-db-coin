@@ -12790,13 +12790,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795795823137,
       "claimedCodes": [],
       "apiKey": "DENZZ-NSUY4LU34A2T",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 5,
+      "totalReacts": 6,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14187,6 +14187,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwygshbt-mwygn5uo-n654",
+      "ts": 1795752697529,
+      "type": "react",
+      "text": "React 💦💦 ke 0029Vb9BFw46hENhZHdxun40/112 (gratis)",
+      "uid": "user_3Me4IkLuQTxiiFa8phbFKhqRa6E",
+      "username": "denzz",
+      "meta": null
+    },
     {
       "id": "mwygsck8-mwygn5un-jewf",
       "ts": 1795752691352,
@@ -15977,18 +15986,6 @@
       "uid": "user_3LQypNvWSzfbPUQbKDJ7nUI1g7Q",
       "username": "barz_dev",
       "meta": null
-    },
-    {
-      "id": "mwndhejw-mwndhe5p-qfsl",
-      "ts": 1795082013932,
-      "type": "purchase",
-      "text": "Pembelian berhasil: 50 Limit · diskon 5% · Rp2.525",
-      "uid": "user_3MJuWf1nOPM27V2DiIs4ln7VM3n",
-      "username": "jenna",
-      "meta": {
-        "kind": "limit",
-        "amount": 2525
-      }
     }
   ],
   "pricing": {
