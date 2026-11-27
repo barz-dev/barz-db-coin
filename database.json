@@ -13110,13 +13110,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795812680155,
       "claimedCodes": [],
       "apiKey": "GRAVLY-Y5F97GN8CQUJ",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 2,
+      "totalReacts": 3,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14323,6 +14323,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwyquw6d-mwyqqrwy-hgz0",
+      "ts": 1795769606245,
+      "type": "react",
+      "text": "React 🗿🙋👍🫂🥳 ke 0029Vb8zVsQBqbr1DppYym2I/117 (gratis)",
+      "uid": "user_3MgPlXkHeGbwKqzqAHszuwazztv",
+      "username": "gravly",
+      "meta": null
+    },
     {
       "id": "mwyqt5d7-mwyqqrw8-9gn9",
       "ts": 1795769524843,
@@ -16112,15 +16121,6 @@
       "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3MKCPAIAFwPSOvznQtYaijErqZG",
       "username": "riss_11",
-      "meta": null
-    },
-    {
-      "id": "mwniqect-mwng0m3f-2hvz",
-      "ts": 1795090831661,
-      "type": "autoreact",
-      "text": "Auto react 🗿✨🥰💕🍀 ke 0029VbCOihwFCCoTtsKHkt0E/464",
-      "uid": "user_3Llzh0KuQUvJB7VveCsFFDjtIoB",
-      "username": "notzack",
       "meta": null
     }
   ],
