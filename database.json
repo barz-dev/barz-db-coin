@@ -12567,13 +12567,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 2,
+      "freeUsed": 3,
       "freeResetAt": 1795922468471,
       "claimedCodes": [],
       "apiKey": "MMAI_WUO0PS-4RWVYZJXD5U9",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 4,
+      "totalReacts": 5,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14899,6 +14899,15 @@
   "feedSeq": 11,
   "logs": [
     {
+      "id": "mx0k9et3-mx0k3zwu-kz6y",
+      "ts": 1795879458615,
+      "type": "react",
+      "text": "React 😹👍💍🌹🗿 ke 0029VbDodbO8V0tkUuyTub2Z/1443 (gratis)",
+      "uid": "user_3MagMdL6385lMJlUCeodQbEHUKn",
+      "username": "mmai_wuo0ps",
+      "meta": null
+    },
+    {
       "id": "mx0k7haq-mx0k3zxu-yggr",
       "ts": 1795879368530,
       "type": "react",
@@ -16685,15 +16694,6 @@
       "ts": 1795184305025,
       "type": "react",
       "text": "React 🤣 ke 0029VbCM3gTJP21B8JquoZ3I/4907 (gratis)",
-      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
-      "username": "nizam",
-      "meta": null
-    },
-    {
-      "id": "mwp2941g-mwp1ujzi-211t",
-      "ts": 1795184083636,
-      "type": "react",
-      "text": "React 👍 ke 0029Vb75VQWA2pL9MTcaeQ31/9067 (gratis)",
       "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
       "username": "nizam",
       "meta": null
