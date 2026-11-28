@@ -14684,7 +14684,7 @@
       "payUrl": "https://app.buatqris.site/trx/852U-267E-11GZ-28YC",
       "payAmount": 950985,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795869972053,
       "expiresAt": 1795896972000,
       "fulfilled": false
