@@ -13591,13 +13591,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795912630765,
       "claimedCodes": [],
       "apiKey": "CHEYA_17-E7EUCNWEGVC3",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14896,6 +14896,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mx0eah9p-mx0e9aea-qril",
+      "ts": 1795869430765,
+      "type": "react",
+      "text": "React 🦫 ke 0029Vb9LYeN3AzNIWXSFQi1B/117 (gratis)",
+      "uid": "user_3MjgEgYRPEtluTDQXia4Qo8X69z",
+      "username": "cheya_17",
+      "meta": null
+    },
     {
       "id": "mx0csk7d-mx0ba225-albq",
       "ts": 1795866915145,
@@ -16683,15 +16692,6 @@
       "ts": 1795183648708,
       "type": "react",
       "text": "React 🍭🫐🫧🍰👀 ke 0029VbEAhM61Hsq2BFVANB16/105 (gratis)",
-      "uid": "user_3MNFz1RNtcILu5Oq2vugnFaYi9Y",
-      "username": "jennie",
-      "meta": null
-    },
-    {
-      "id": "mwp1x4gj-mwp1uk0m-lrdw",
-      "ts": 1795183524307,
-      "type": "react",
-      "text": "React 🍭🫐🫧🍰👀 ke 0029VbDvkqE7j6gB4ZhP3m3X/8 (gratis)",
       "uid": "user_3MNFz1RNtcILu5Oq2vugnFaYi9Y",
       "username": "jennie",
       "meta": null
