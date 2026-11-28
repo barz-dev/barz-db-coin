@@ -14562,6 +14562,28 @@
       "createdAt": 1795794485333,
       "expiresAt": 1795821486000,
       "fulfilled": false
+    },
+    "6hKWYAYUKt2i43xCjp9k": {
+      "id": "6hKWYAYUKt2i43xCjp9k",
+      "ref": "RCH-MWZQHYEM-DFF558",
+      "uid": "user_3MiNMgET6RFe5m43dpRMI11hgxj",
+      "gw": "buatqris",
+      "kind": "role",
+      "tier": "svip",
+      "months": 0,
+      "perm": true,
+      "amount": 950000,
+      "label": "SVIP Permanen · diskon 5%",
+      "txId": "3FHR-26G4-11PS-282B",
+      "qrisUrl": "https://app.buatqris.site/poto/qris/3FHR-26G4-11PS-282B.png",
+      "qrisString": "",
+      "payUrl": "https://app.buatqris.site/trx/3FHR-26G4-11PS-282B",
+      "payAmount": 950949,
+      "test": false,
+      "status": "pending",
+      "createdAt": 1795829468782,
+      "expiresAt": 1795856469000,
+      "fulfilled": false
     }
   },
   "settings": {
