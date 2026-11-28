@@ -13495,13 +13495,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 0,
-      "freeResetAt": 0,
+      "freeUsed": 1,
+      "freeResetAt": 1795872620991,
       "claimedCodes": [],
       "apiKey": "REYSAJA-3STQD8UA8R8R",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 0,
+      "totalReacts": 1,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14772,6 +14772,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mwzqgxj3-mwzqgfd5-3gov",
+      "ts": 1795829420991,
+      "type": "react",
+      "text": "React 🦝 ke 0029Vb9K6FrL2ATquQOmSQ0v/162 (gratis)",
+      "uid": "user_3MiNMgET6RFe5m43dpRMI11hgxj",
+      "username": "reysaja",
+      "meta": null
+    },
     {
       "id": "mwzlw7o1-mwzlt6zo-vhrz",
       "ts": 1795821735889,
@@ -16557,15 +16566,6 @@
     {
       "id": "mworu48v-mworqxjm-tgr7",
       "ts": 1795166587903,
-      "type": "react",
-      "text": "React 💦💦💦💦 ke 0029VbDfnH2CBtxHZJJVV910/128 (gratis)",
-      "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
-      "username": "kakan",
-      "meta": null
-    },
-    {
-      "id": "mwortyid-mworqxjl-5w28",
-      "ts": 1795166580469,
       "type": "react",
       "text": "React 💦💦💦💦 ke 0029VbDfnH2CBtxHZJJVV910/128 (gratis)",
       "uid": "user_3MMgpZ3uwyxoucnklhYtLZbUhlr",
