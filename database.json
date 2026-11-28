@@ -13623,13 +13623,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795928209942,
       "claimedCodes": [],
       "apiKey": "JOKO_14-TGU8YNW6MCW7",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14932,6 +14932,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mx0nndj4-mx0nk1c4-e0l7",
+      "ts": 1795885148992,
+      "type": "react",
+      "text": "React 💦💦💦💦💦 ke 0029VbDN3whGE56qlDOZDZ1x/174 (gratis)",
+      "uid": "user_3MkC1GfB9rDquSCeo14hFgXsJKf",
+      "username": "joko_14",
+      "meta": null
+    },
     {
       "id": "mx0nke8m-mx0nk1c3-o4lq",
       "ts": 1795885009942,
@@ -16719,15 +16728,6 @@
       "ts": 1795184393141,
       "type": "react",
       "text": "React 🤣 ke 0029VbCM3gTJP21B8JquoZ3I/4907",
-      "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
-      "username": "nizam",
-      "meta": null
-    },
-    {
-      "id": "mwp2epnf-mwp2ep9t-k8hn",
-      "ts": 1795184344923,
-      "type": "redeem",
-      "text": "Redeem BARZ-BAIK · +37 limit",
       "uid": "user_3LxG58O0NLhmCjcgPzUXPGJdKvP",
       "username": "nizam",
       "meta": null
