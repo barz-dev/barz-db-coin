@@ -13527,13 +13527,13 @@
       "rolePermanent": false,
       "roleMonths": 0,
       "limit": 0,
-      "freeUsed": 1,
+      "freeUsed": 2,
       "freeResetAt": 1795894197164,
       "claimedCodes": [],
       "apiKey": "OEJ_7-6AK6LL355Z6T",
       "allowedHosts": [],
       "banned": null,
-      "totalReacts": 1,
+      "totalReacts": 2,
       "legacyMigrated": true,
       "autoReact": {
         "enabled": false,
@@ -14828,6 +14828,15 @@
   ],
   "feedSeq": 11,
   "logs": [
+    {
+      "id": "mx03bj4t-mx03a8kw-7u2r",
+      "ts": 1795851004061,
+      "type": "react",
+      "text": "React 🪺🎞️⛲️🔥✨ ke 0029VbEAh7lDp2Q324Kbty1H/127 (gratis)",
+      "uid": "user_3Mj51SRQj2HeASOoMaUVkgZArrn",
+      "username": "oej_7",
+      "meta": null
+    },
     {
       "id": "mx03bdt8-mx03a8kv-tj3m",
       "ts": 1795850997164,
@@ -16615,15 +16624,6 @@
       "ts": 1795174210721,
       "type": "react",
       "text": "React 👻 ke 0029VbDhEqo4SpkOPsg5J91d/1827 (gratis)",
-      "uid": "user_3MMwO9tdSP5rl2rjlrl4GqQb6X1",
-      "username": "yuki",
-      "meta": null
-    },
-    {
-      "id": "mwow43ao-mwow35v5-hniz",
-      "ts": 1795173771696,
-      "type": "react",
-      "text": "React 😱🤙👻😈🤛 ke 0029VbDhEqo4SpkOPsg5J91d/1824 (gratis)",
       "uid": "user_3MMwO9tdSP5rl2rjlrl4GqQb6X1",
       "username": "yuki",
       "meta": null
