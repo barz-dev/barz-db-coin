@@ -14580,7 +14580,7 @@
       "payUrl": "https://app.buatqris.site/trx/3FHR-26G4-11PS-282B",
       "payAmount": 950949,
       "test": false,
-      "status": "pending",
+      "status": "expired",
       "createdAt": 1795829468782,
       "expiresAt": 1795856469000,
       "fulfilled": false
